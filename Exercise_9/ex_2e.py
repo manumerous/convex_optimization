@@ -72,7 +72,7 @@ for k in range(len(reg_param)):
                             H_iii @ x_iii + y2_measured.T@y2_measured + reg_param[k]*cp.norm(x_iii, 1))
     constraint = [x_iii >= 0]
     prob = cp.Problem(objective, constraint)
-    prob.solve()
+    prob.solve(verbose=True)
     print("Optimal var reached", k)
     X_collector_iii[:, k] = x_iii.value
 print(X_collector_iii)

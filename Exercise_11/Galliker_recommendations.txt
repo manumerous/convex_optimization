@@ -1,0 +1,67 @@
+anime id,name
+31,Mahou Shoujo Madoka★Magica
+10,Cowboy Bebop
+58,Trigun
+161,Wolf&#039;s Rain
+88,Higurashi no Naku Koro ni
+8,Code Geass: Hangyaku no Lelouch R2
+275,Aldnoah.Zero
+60,Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+20,Re:Zero kara Hajimeru Isekai Seikatsu
+62,Summer Wars
+276,Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita
+210,Guilty Crown
+15,Death Note
+38,Toki wo Kakeru Shoujo
+73,Mobile Suit Gundam 00
+123,FLCL
+251,Evangelion: 3.0 You Can (Not) Redo
+22,Steins;Gate Movie: Fuka Ryouiki no Déjà vu
+13,Tengen Toppa Gurren Lagann
+42,Cowboy Bebop: Tengoku no Tobira
+436,Haiyore! Nyaruko-san W
+9,Code Geass: Hangyaku no Lelouch
+17,Boku dake ga Inai Machi
+265,Btooom!
+49,Kotonoha no Niwa
+126,Death Billiards
+192,Death Note Rewrite
+168,"Kumo no Mukou, Yakusoku no Basho"
+294,"Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen"
+93,Toaru Kagaku no Railgun S
+293,Darker than Black: Ryuusei no Gemini
+71,Darker than Black: Kuro no Keiyakusha
+109,Darker than Black: Kuro no Keiyakusha Gaiden
+92,Mirai Shounen Conan
+256,Ano Natsu de Matteru
+229,No.6
+37,Neon Genesis Evangelion: The End of Evangelion
+352,Date A Live
+36,Steins;Gate: Oukoubakko no Poriomania
+353,Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru
+40,Higurashi no Naku Koro ni Kai
+255,Toaru Majutsu no Index: Endymion no Kiseki
+86,Eureka Seven
+57,Neon Genesis Evangelion
+32,Psycho-Pass
+78,Evangelion: 1.0 You Are (Not) Alone
+311,Persona 4 the Animation: No One is Alone
+14,Monster
+244,Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta
+28,Evangelion: 2.0 You Can (Not) Advance
+29,Shinsekai yori
+380,Mnemosyne: Mnemosyne no Musume-tachi
+125,Suzumiya Haruhi no Yuuutsu
+356,Tenchi Muyou!
+95,Paprika
+264,Toaru Majutsu no Index
+25,Kiseijuu: Sei no Kakuritsu
+383,Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+12,Suzumiya Haruhi no Shoushitsu
+196,Toaru Majutsu no Index II
+301,Digimon Adventure Movie
+490,Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu
+180,Toaru Kagaku no Railgun
+177,Sidonia no Kishi
+267,Persona 4 the Animation
+149,Psycho-Pass Movie

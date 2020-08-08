@@ -1,0 +1,2190 @@
+anime_id,name,genre,type,episodes,rating,members
+1,"Gintama°","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,51,9.25,114262
+2,"Steins;Gate","Sci-Fi, Thriller",TV,24,9.17,673572
+3,"Gintama&#039;","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,51,9.16,151266
+4,"Ginga Eiyuu Densetsu","Drama, Military, Sci-Fi, Space",OVA,110,9.11,80679
+5,"Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,1,9.1,72534
+6,"Gintama&#039;: Enchousen","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,13,9.11,81109
+7,"Gintama","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,201,9.04,336376
+8,"Code Geass: Hangyaku no Lelouch R2","Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV,25,8.98,572888
+9,"Code Geass: Hangyaku no Lelouch","Action, Mecha, Military, School, Sci-Fi, Super Power",TV,25,8.83,715151
+10,"Cowboy Bebop","Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV,26,8.82,486824
+11,"One Punch Man","Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,12,8.82,552458
+12,"Suzumiya Haruhi no Shoushitsu","Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",Movie,1,8.81,240297
+13,"Tengen Toppa Gurren Lagann","Action, Adventure, Comedy, Mecha, Sci-Fi",TV,27,8.78,562962
+14,"Monster","Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV,74,8.72,247562
+15,"Death Note","Mystery, Police, Psychological, Supernatural, Thriller",TV,37,8.71,1013917
+16,"Ping Pong The Animation","Psychological, Seinen, Sports",TV,11,8.67,97187
+17,"Boku dake ga Inai Machi","Mystery, Psychological, Seinen, Supernatural",TV,12,8.65,402381
+18,"Yojouhan Shinwa Taikei","Mystery, Psychological, Romance",TV,11,8.65,122531
+19,"Aria The Origination","Fantasy, Sci-Fi, Shounen, Slice of Life",TV,13,8.64,56162
+20,"Re:Zero kara Hajimeru Isekai Seikatsu","Drama, Fantasy, Psychological, Thriller",TV,25,8.64,355839
+21,"Tengen Toppa Gurren Lagann Movie: Lagann-hen","Action, Mecha, Sci-Fi, Space, Super Power",Movie,1,8.64,82253
+22,"Steins;Gate Movie: Fuka Ryouiki no Déjà vu","Sci-Fi, Thriller",Movie,1,8.61,192424
+23,"Gintama: Yorinuki Gintama-san on Theater 2D","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,2,8.6,11104
+24,"Gintama Movie: Shinyaku Benizakura-hen","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie,1,8.59,51185
+25,"Kiseijuu: Sei no Kakuritsu","Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV,24,8.59,425457
+26,"Uchuu Kyoudai","Comedy, Sci-Fi, Seinen, Slice of Life, Space",TV,99,8.59,72958
+27,"Ghost in the Shell: Stand Alone Complex 2nd GIG","Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",TV,26,8.57,113993
+28,"Evangelion: 2.0 You Can (Not) Advance","Action, Mecha, Sci-Fi",Movie,1,8.53,182224
+29,"Shinsekai yori","Drama, Horror, Mystery, Sci-Fi, Supernatural",TV,25,8.53,288376
+30,"Uchuu Senkan Yamato 2199","Action, Drama, Military, Sci-Fi, Space",OVA,26,8.53,44223
+31,"Mahou Shoujo Madoka★Magica","Drama, Magic, Psychological, Thriller",TV,12,8.51,462974
+32,"Psycho-Pass","Action, Police, Psychological, Sci-Fi",TV,22,8.5,509109
+33,"Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari","Drama, Magic, Psychological, Thriller",Movie,1,8.5,135735
+34,"Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari","Drama, Magic, Psychological, Thriller",Movie,1,8.49,85361
+35,"Ghost in the Shell: Stand Alone Complex","Action, Mecha, Military, Police, Sci-Fi, Seinen",TV,26,8.47,194491
+36,"Steins;Gate: Oukoubakko no Poriomania","Sci-Fi, Thriller",Special,1,8.46,159548
+37,"Neon Genesis Evangelion: The End of Evangelion","Dementia, Drama, Mecha, Psychological, Sci-Fi",Movie,1,8.45,215630
+38,"Toki wo Kakeru Shoujo","Adventure, Drama, Romance, Sci-Fi",Movie,1,8.44,289206
+39,"Mobile Suit Gundam: The Origin","Action, Mecha, Military, Sci-Fi, Shounen, Space",OVA,6,8.42,15420
+40,"Higurashi no Naku Koro ni Kai","Mystery, Psychological, Supernatural, Thriller",TV,24,8.41,218101
+41,"One Outs","Psychological, Seinen, Sports",TV,25,8.41,83056
+42,"Cowboy Bebop: Tengoku no Tobira","Action, Drama, Mystery, Sci-Fi, Space",Movie,1,8.4,137636
+43,"Mobile Suit Gundam Unicorn","Action, Drama, Mecha, Military, Sci-Fi, Space",OVA,7,8.4,42076
+44,"NHK ni Youkoso!","Comedy, Drama, Psychological, Romance",TV,24,8.4,291228
+45,"Planetes","Drama, Romance, Sci-Fi, Seinen, Space",TV,26,8.38,105044
+46,"Shelter","Music, Sci-Fi",Music,1,8.38,71136
+47,"Tenkuu no Shiro Laputa","Adventure, Fantasy, Romance, Sci-Fi",Movie,1,8.38,151061
+48,"Gintama: Shiroyasha Koutan","Action, Comedy, Historical, Parody, Sci-Fi",Special,1,8.37,27213
+49,"Kotonoha no Niwa","Drama, Psychological, Romance, Slice of Life",Movie,1,8.35,189741
+50,"Omoide no Marnie","Drama, Mystery, Psychological",Movie,1,8.35,53590
+51,"Ghost in the Shell","Action, Mecha, Police, Psychological, Sci-Fi, Seinen",Movie,1,8.34,223036
+52,"Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero","Sci-Fi, Thriller",Special,1,8.34,38147
+53,"xxxHOLiC Kei","Comedy, Drama, Mystery, Psychological, Supernatural",TV,13,8.34,74941
+54,"Death Parade","Drama, Game, Mystery, Psychological, Thriller",TV,12,8.33,383914
+55,"Gyakkyou Burai Kaiji: Ultimate Survivor","Game, Psychological, Seinen, Thriller",TV,26,8.33,98996
+56,"Redline","Action, Cars, Sci-Fi, Sports",Movie,1,8.33,109392
+57,"Neon Genesis Evangelion","Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV,26,8.32,461946
+58,"Trigun","Action, Comedy, Sci-Fi",TV,26,8.32,283069
+59,"Gintama: Shinyaku Benizakura-hen","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Special,1,8.31,14002
+60,"Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari","Drama, Magic, Psychological, Thriller",Movie,1,8.31,88164
+61,"Aria The Natural","Fantasy, Sci-Fi, Shounen, Slice of Life",TV,26,8.3,39596
+62,"Summer Wars","Comedy, Sci-Fi",Movie,1,8.3,223359
+63,"Gyakkyou Burai Kaiji: Hakairoku-hen","Game, Psychological, Seinen, Thriller",TV,26,8.29,55566
+64,"Kaiba","Adventure, Mystery, Romance, Sci-Fi",TV,12,8.29,56927
+65,"Gankutsuou","Drama, Mystery, Sci-Fi, Supernatural, Thriller",TV,24,8.27,103828
+66,"Space☆Dandy 2nd Season","Comedy, Sci-Fi, Space",TV,13,8.27,60918
+67,"Eve no Jikan","Sci-Fi, Slice of Life",ONA,6,8.26,99074
+68,"Eve no Jikan (Movie)","Sci-Fi, Slice of Life",Movie,1,8.26,66376
+69,"Saint Seiya: Meiou Hades Juuni Kyuu-hen","Adventure, Sci-Fi, Shounen",OVA,13,8.26,23701
+70,"Zankyou no Terror","Psychological, Thriller",TV,11,8.26,342893
+71,"Darker than Black: Kuro no Keiyakusha","Action, Mystery, Sci-Fi, Super Power",TV,25,8.25,440334
+72,"Yuusha-Ou GaoGaiGar Final","Adventure, Drama, Mecha, Sci-Fi, Shounen",OVA,8,8.25,5001
+73,"Mobile Suit Gundam 00","Action, Drama, Mecha, Military, Sci-Fi, Space",TV,25,8.24,120351
+74,"Perfect Blue","Dementia, Drama, Horror, Psychological",Movie,1,8.23,117565
+75,"Sakasama no Patema","Sci-Fi, Seinen",Movie,1,8.23,89749
+76,"Ghost in the Shell: Stand Alone Complex - Solid State Society","Mecha, Military, Mystery, Police, Sci-Fi, Seinen",Special,1,8.22,55247
+77,"Shoujo Kakumei Utena","Drama, Fantasy, Psychological, Shoujo",TV,39,8.22,77464
+78,"Evangelion: 1.0 You Are (Not) Alone","Action, Mecha, Sci-Fi",Movie,1,8.21,194561
+79,"Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture","Action, Drama, Military, Sci-Fi, Space",Movie,1,8.21,11808
+80,"Mobile Suit Gundam 00 Second Season","Action, Drama, Mecha, Military, Sci-Fi, Space",TV,25,8.21,86972
+81,"Aria The Avvenire","Fantasy, Sci-Fi, Shounen, Slice of Life",Special,3,8.2,9500
+82,"Ginga Eiyuu Densetsu Gaiden: Senoku no Hoshi, Senoku no Hikari","Action, Military, Sci-Fi, Space",OVA,24,8.2,8621
+83,"Gintama: Jump Festa 2014 Special","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Special,1,8.2,13764
+84,"Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season","Action, Drama, Mecha, Sci-Fi, Space",TV,25,8.2,21210
+85,"Dennou Coil","Adventure, Comedy, Drama, Mystery, Sci-Fi",TV,26,8.19,76860
+86,"Eureka Seven","Adventure, Drama, Mecha, Romance, Sci-Fi",TV,50,8.19,239570
+87,"Ghost in the Shell: Stand Alone Complex - The Laughing Man","Action, Mecha, Mystery, Police, Psychological, Sci-Fi, Seinen",Special,1,8.19,21435
+88,"Higurashi no Naku Koro ni","Horror, Mystery, Psychological, Supernatural, Thriller",TV,26,8.17,359494
+89,"Interstella5555: The 5tory of The 5ecret 5tar 5ystem","Adventure, Drama, Music, Sci-Fi",Music,1,8.17,31464
+90,"xxxHOLiC Shunmuki","Comedy, Drama, Mystery, Psychological, Supernatural",OVA,2,8.17,40401
+91,"Zetsuen no Tempest","Action, Drama, Fantasy, Magic, Mystery, Psychological, Shounen",TV,24,8.17,259900
+92,"Mirai Shounen Conan","Adventure, Drama, Sci-Fi",TV,26,8.16,15557
+93,"Toaru Kagaku no Railgun S","Action, Sci-Fi, Super Power",TV,24,8.16,137105
+94,"Akira","Action, Adventure, Horror, Military, Sci-Fi, Supernatural",Movie,1,8.15,215897
+95,"Paprika","Fantasy, Horror, Mystery, Psychological, Sci-Fi, Thriller",Movie,1,8.15,163308
+96,"Aria The OVA: Arietta","Fantasy, Sci-Fi, Shounen, Slice of Life",OVA,1,8.13,20629
+97,"Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi","Action, Comedy, Historical, Mecha, Parody, Samurai, Sci-Fi, Shounen",Special,1,8.13,29331
+98,"Mobile Suit Gundam: The 08th MS Team","Adventure, Drama, Mecha, Military, Romance, Sci-Fi",OVA,12,8.13,34177
+99,"Wolf&#039;s Rain OVA","Adventure, Drama, Psychological, Sci-Fi, Supernatural",OVA,4,8.13,37679
+100,"Aoki Hagane no Arpeggio: Ars Nova Cadenza","Action, Sci-Fi, Seinen",Movie,1,8.12,12353
+101,"Ghost in the Shell 2.0","Action, Mecha, Police, Psychological, Sci-Fi, Seinen",Movie,1,8.12,51789
+102,"Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven","Action, Mecha, Sci-Fi",Special,1,8.12,16614
+103,"Ginga Sengoku Gunyuuden Rai","Adventure, Romance, Sci-Fi, Shounen, Space",TV,52,8.12,5308
+104,"Stand By Me Doraemon","Comedy, Kids, Sci-Fi, Shounen",Movie,1,8.12,5712
+105,"Tekkon Kinkreet","Action, Adventure, Psychological, Supernatural",Movie,1,8.11,46018
+106,"xxxHOLiC","Comedy, Drama, Mystery, Psychological, Supernatural",TV,24,8.11,150872
+107,"Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen","Action, Horror, Mystery, Psychological",Special,1,8.1,29969
+108,"Ginga Eiyuu Densetsu Gaiden: Rasen Meikyuu","Drama, Military, Sci-Fi, Space",OVA,28,8.1,7712
+109,"Darker than Black: Kuro no Keiyakusha Gaiden","Action, Mystery, Sci-Fi, Super Power",Special,4,8.09,136135
+110,"Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai","Action, Historical, Military, Sci-Fi, Space",Movie,1,8.09,15069
+111,"Hybrid Child","Drama, Historical, Romance, Sci-Fi, Shounen Ai",OVA,4,8.09,26036
+112,"Kuuchuu Buranko","Comedy, Drama, Psychological, Seinen",TV,11,8.09,41521
+113,"Macross: Do You Remember Love?","Action, Mecha, Military, Music, Romance, Sci-Fi, Space",Movie,1,8.09,19240
+114,"Grisaia no Rakuen","Drama, Harem, Psychological, Romance",TV,10,8.08,111962
+115,"Jigoku Shoujo Futakomori","Horror, Mystery, Psychological, Supernatural",TV,26,8.08,79816
+116,"Mawaru Penguindrum","Comedy, Drama, Mystery, Psychological",TV,24,8.08,156689
+117,"Trigun: Badlands Rumble","Action, Comedy, Sci-Fi",Movie,1,8.08,68181
+118,"Haibane Renmei","Drama, Fantasy, Mystery, Psychological, Slice of Life",TV,13,8.07,120731
+119,"Macross","Action, Mecha, Military, Music, Romance, Sci-Fi, Space",TV,36,8.07,44157
+120,"Mirai Nikki (TV)","Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV,26,8.07,657190
+121,"Terra e... (TV)","Action, Drama, Military, Sci-Fi, Space",TV,24,8.07,36941
+122,"Tokyo Ghoul","Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,12,8.07,618056
+123,"FLCL","Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",OVA,6,8.06,305165
+124,"Macross F Movie 2: Sayonara no Tsubasa","Action, Mecha, Military, Music, Romance, Sci-Fi, Space",Movie,1,8.06,17826
+125,"Suzumiya Haruhi no Yuuutsu","Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",TV,14,8.06,428569
+126,"Death Billiards","Drama, Game, Mystery, Psychological, Thriller",Movie,1,8.04,95690
+127,"xxxHOLiC Movie: Manatsu no Yoru no Yume","Comedy, Drama, Mystery, Psychological, Supernatural",Movie,1,8.04,41547
+128,"Ergo Proxy","Mystery, Psychological, Sci-Fi",TV,23,8.03,265005
+129,"Higashi no Eden","Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",TV,11,8.03,276593
+130,"Mobile Suit Zeta Gundam","Drama, Mecha, Military, Sci-Fi, Space",TV,50,8.03,28959
+131,"Saint Seiya","Adventure, Fantasy, Sci-Fi, Shounen",TV,114,8.03,70559
+132,"Macross F","Action, Mecha, Military, Music, Romance, Sci-Fi, Space",TV,25,8.02,95551
+133,"Touhai Densetsu Akagi: Yami ni Maiorita Tensai","Game, Psychological, Seinen, Thriller",TV,26,8.02,48127
+134,"Giant Robo the Animation: Chikyuu ga Seishi Suru Hi","Action, Mecha, Sci-Fi, Shounen, Super Power",OVA,7,8,12283
+135,"Mobile Suit Gundam Thunderbolt","Action, Drama, Mecha, Military, Sci-Fi, Space",ONA,4,8,14419
+136,"Hokuto no Ken","Action, Drama, Martial Arts, Sci-Fi, Shounen",TV,109,7.99,40271
+137,"Serial Experiments Lain","Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",TV,13,7.99,215829
+138,"Gundam Build Fighters","Action, Mecha, Sci-Fi",TV,25,7.98,31606
+139,"Seihou Bukyou Outlaw Star","Action, Adventure, Comedy, Sci-Fi, Space",TV,24,7.98,78600
+140,"Gungrave","Action, Drama, Sci-Fi, Seinen, Super Power",TV,26,7.97,95825
+141,"Musekinin Kanchou Tylor","Comedy, Military, Parody, Sci-Fi, Space",TV,26,7.97,19841
+142,"Saint Seiya: Meiou Hades Meikai-hen","Action, Adventure, Demons, Fantasy, Sci-Fi, Shounen, Super Power",OVA,12,7.97,21240
+143,"Seikai no Senki II","Action, Military, Romance, Sci-Fi, Space",TV,10,7.97,13888
+144,"Top wo Nerae! Gunbuster","Action, Comedy, Drama, Mecha, Military, Sci-Fi, Shounen, Space",OVA,6,7.97,51724
+145,"Mobile Suit Gundam: Iron-Blooded Orphans","Action, Drama, Mecha, Sci-Fi, Space",TV,25,7.96,60525
+146,"Yuusha-Ou GaoGaiGar","Adventure, Mecha, Sci-Fi, Shounen",TV,49,7.96,10031
+147,"Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen","Action, Horror, Mystery, Psychological",TV,11,7.95,65503
+148,"Plastic Memories","Drama, Romance, Sci-Fi",TV,13,7.95,213493
+149,"Psycho-Pass Movie","Action, Military, Police, Sci-Fi",Movie,1,7.95,94677
+150,"Sidonia no Kishi: Daikyuu Wakusei Seneki","Action, Mecha, Sci-Fi, Seinen, Space",TV,12,7.95,57665
+151,"Vampire Hunter D (2000)","Action, Drama, Fantasy, Horror, Romance, Sci-Fi, Vampire",Movie,1,7.95,68229
+152,"Last Exile","Action, Adventure, Sci-Fi",TV,26,7.94,104193
+153,"Mobile Suit Gundam Wing: Endless Waltz Movie","Action, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.94,35711
+154,"Ghost in the Shell 2: Innocence","Mecha, Military, Police, Psychological, Sci-Fi",Movie,1,7.93,85714
+155,"Keroro Gunsou","Comedy, Sci-Fi, Shounen",TV,358,7.93,31632
+156,"Macross F Movie 1: Itsuwari no Utahime","Action, Mecha, Military, Music, Romance, Sci-Fi, Space",Movie,1,7.93,20637
+157,"Mobile Suit Gundam Seed","Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,50,7.93,96973
+158,"Saint Seiya: The Hades Chapter Sanctuary - Yomigaerishi Gold Saint-tachi no Shinwa","Adventure, Sci-Fi, Shounen",Special,2,7.93,4975
+159,"To LOVE-Ru Darkness 2nd Specials","Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",Special,2,7.93,22487
+160,"Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune","Action, Drama, Military, Sci-Fi, Space",Movie,1,7.93,5431
+161,"Wolf&#039;s Rain","Action, Adventure, Drama, Fantasy, Mystery, Sci-Fi",TV,26,7.93,171863
+162,"Ghost in the Shell: Stand Alone Complex - Solid State Society 3D","Mecha, Military, Mystery, Police, Sci-Fi, Seinen",Movie,1,7.91,7515
+163,"Mobile Suit Gundam Thunderbolt: December Sky","Action, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.92,2833
+164,"To LOVE-Ru Darkness 2nd OVA","Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",OVA,3,7.91,18575
+165,"Aoi Bungaku Series","Drama, Historical, Psychological, Seinen, Thriller",TV,12,7.9,93074
+166,"Densetsu Kyojin Ideon: Hatsudou-hen","Drama, Mecha, Sci-Fi, Space",Movie,1,7.9,2963
+167,"Ginga Tetsudou 999","Adventure, Drama, Sci-Fi, Space",TV,113,7.9,12672
+168,"Kumo no Mukou, Yakusoku no Basho","Drama, Military, Romance, Sci-Fi",Movie,1,7.89,103975
+169,"Mobile Suit Gundam","Action, Mecha, Military, Sci-Fi, Space",TV,43,7.89,51566
+170,"Mobile Suit Gundam III: Encounters in Space","Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.89,11343
+171,"Urusei Yatsura Movie 2: Beautiful Dreamer","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,1,7.89,5663
+172,"Mind Game","Adventure, Comedy, Dementia, Psychological, Romance",Movie,1,7.88,32756
+173,"Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen","Action, Horror, Mystery, Psychological",TV,12,7.87,83343
+174,"Jin-Rou","Drama, Military, Police, Psychological, Romance",Movie,1,7.87,62464
+175,"Mobile Suit Gundam Wing","Action, Drama, Mecha, Military, Sci-Fi, Space",TV,49,7.87,86001
+176,"Mobile Suit Gundam Wing: Endless Waltz","Action, Drama, Mecha, Military, Sci-Fi, Space",OVA,3,7.87,28485
+177,"Sidonia no Kishi","Action, Mecha, Sci-Fi, Seinen, Space",TV,12,7.87,118341
+178,"Sora no Otoshimono: Tokeijikake no Angeloid","Comedy, Drama, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",Movie,1,7.87,70391
+179,"Soukou Kihei Votoms","Action, Drama, Mecha, Military, Sci-Fi, Space",TV,52,7.87,9008
+180,"Toaru Kagaku no Railgun","Action, Sci-Fi, Super Power",TV,24,7.87,231079
+181,"Uchuu Kaizoku Captain Harlock","Action, Adventure, Drama, Sci-Fi, Seinen, Space",TV,42,7.87,14869
+182,"Macross F: Close Encounter - Deculture Edition","Action, Mecha, Military, Music, Sci-Fi, Space",Special,1,7.86,8911
+183,"One Punch Man Specials","Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",Special,6,7.86,75502
+184,"Seikai no Senki","Action, Military, Romance, Sci-Fi, Space",TV,13,7.86,18580
+185,"Sora no Otoshimono: Forte","Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,12,7.86,146697
+186,"Space☆Dandy","Comedy, Sci-Fi, Space",TV,13,7.86,123529
+187,"Elfen Lied","Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV,13,7.85,623511
+188,"Mobile Suit Gundam 0080: War in the Pocket","Adventure, Drama, Mecha, Military, Sci-Fi, Space",OVA,6,7.85,22609
+189,"One Punch Man: Road to Hero","Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",OVA,1,7.85,94839
+190,"AKB0048: Next Stage","Music, Sci-Fi",TV,13,7.84,22302
+191,"Change!! Getter Robo: Sekai Saigo no Hi","Action, Adventure, Horror, Mecha, Psychological, Sci-Fi, Shounen",OVA,13,7.84,5606
+192,"Death Note Rewrite","Mystery, Police, Psychological, Supernatural, Thriller",Special,2,7.84,88699
+193,"Memories","Drama, Horror, Psychological, Sci-Fi",Movie,3,7.84,38643
+194,"Seikai no Senki III","Action, Military, Romance, Sci-Fi, Space",OVA,2,7.84,11044
+195,"Space Cobra","Action, Adventure, Sci-Fi, Space",TV,31,7.84,6919
+196,"Toaru Majutsu no Index II","Action, Magic, Sci-Fi, Super Power",TV,24,7.84,184520
+197,"Tsuritama","Comedy, Sci-Fi, Slice of Life, Sports",TV,12,7.84,90625
+198,"Mobile Police Patlabor 2: The Movie","Drama, Mecha, Mystery, Police, Sci-Fi",Movie,1,7.83,11957
+199,"Seikai no Monshou","Action, Military, Romance, Sci-Fi, Space",TV,13,7.83,26379
+200,"Tetsuwan Birdy Decode:02","Action, Comedy, Sci-Fi",TV,12,7.83,29622
+201,"Bokurano","Drama, Mecha, Psychological, Sci-Fi",TV,24,7.82,81408
+202,"Bounen no Xamdou","Action, Military, Sci-Fi",ONA,26,7.82,79026
+203,"Macross Plus","Drama, Mecha, Military, Romance, Sci-Fi, Space",OVA,4,7.82,23138
+204,"Macross Plus Movie Edition","Action, Adventure, Mecha, Military, Romance, Sci-Fi, Space",Movie,1,7.82,8405
+205,"To LOVE-Ru Darkness","Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",TV,12,7.82,135929
+206,"To LOVE-Ru Darkness OVA","Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",OVA,6,7.82,57166
+207,"Daa! Daa! Daa!","Comedy, Sci-Fi, Shoujo",TV,78,7.81,12673
+208,"Digimon Adventure: Bokura no War Game!","Adventure, Comedy, Kids, Sci-Fi",Movie,1,7.81,37078
+209,"Full Metal Panic!","Action, Comedy, Mecha, Military, Sci-Fi",TV,24,7.81,256325
+210,"Guilty Crown","Action, Drama, Sci-Fi, Super Power",TV,22,7.81,460959
+211,"Ima, Soko ni Iru Boku","Adventure, Drama, Fantasy, Military, Sci-Fi",TV,13,7.81,56839
+212,"Jigoku Shoujo Mitsuganae","Mystery, Psychological, Supernatural",TV,26,7.81,58993
+213,"Mobile Suit Gundam: Char&#039;s Counterattack","Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.81,19258
+214,"Top wo Nerae 2! Diebuster","Action, Comedy, Mecha, Sci-Fi, Space",OVA,6,7.81,38691
+215,"To LOVE-Ru Darkness 2nd","Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen",TV,12,7.8,73909
+216,"Aria The Animation","Fantasy, Sci-Fi, Shounen, Slice of Life",TV,13,7.79,76913
+217,"Jigoku Shoujo","Horror, Mystery, Psychological, Supernatural",TV,26,7.79,172415
+218,"Orange","Drama, Romance, School, Sci-Fi, Shoujo",TV,13,7.78,165358
+219,"R.O.D OVA","Action, Adventure, Historical, Magic, Mystery, Sci-Fi",OVA,3,7.78,41701
+220,"Tenchi Muyou! Ryououki 2nd Season","Action, Comedy, Harem, Sci-Fi, Shounen, Space",OVA,6,7.78,15837
+221,"Texhnolyze","Action, Drama, Psychological, Sci-Fi",TV,22,7.78,95859
+222,"Urusei Yatsura","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",TV,195,7.78,23020
+223,"Utawarerumono","Action, Drama, Fantasy, Sci-Fi",TV,26,7.78,91034
+224,"Mobile Suit Gundam 00 Special Edition","Action, Drama, Mecha, Military, Sci-Fi",OVA,3,7.77,7087
+225,"Tenchi Muyou! Ryououki","Action, Comedy, Sci-Fi, Shounen, Space",OVA,6,7.77,25902
+226,"Doraemon (1979)","Adventure, Comedy, Fantasy, Kids, Sci-Fi, Shounen",TV,1787,7.76,14233
+227,"Ginga Tetsudou 999 (Movie)","Adventure, Drama, Fantasy, Sci-Fi, Space",Movie,1,7.76,7237
+228,"Mahouka Koukou no Rettousei","Magic, Romance, School, Sci-Fi, Supernatural",TV,26,7.76,285317
+229,"No.6","Action, Sci-Fi",TV,11,7.76,168017
+230,"Turn A Gundam","Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space",TV,50,7.76,20056
+231,"Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Special,1,7.75,46276
+232,"Kanojo to Kanojo no Neko: Everything Flows","Psychological, Romance, Slice of Life",TV,4,7.75,38765
+233,"Kino no Tabi: The Beautiful World - Tou no Kuni","Adventure, Fantasy, Psychological",Special,1,7.75,19211
+234,"World Trigger","Action, School, Sci-Fi, Shounen, Supernatural",TV,73,7.75,106872
+235,"Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering","Action, Mecha, Sci-Fi, Super Power",TV,12,7.75,1780
+236,"Hal","Romance, Sci-Fi, Shoujo",Movie,1,7.74,50812
+237,"Mousou Dairinin","Drama, Mystery, Police, Psychological, Supernatural, Thriller",TV,13,7.74,137687
+238,"Noein: Mou Hitori no Kimi e","Adventure, Drama, Sci-Fi, Slice of Life",TV,24,7.74,56244
+239,"Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season","Action, Drama, Mecha, Military, Sci-Fi",TV,13,7.74,6787
+240,"Taiyou no Ko Esteban","Adventure, Historical, Sci-Fi",TV,39,7.74,5424
+241,"Flip Flappers","Comedy, Sci-Fi",TV,13,7.73,40945
+242,"Uchuu Senkan Yamato","Action, Adventure, Drama, Military, Sci-Fi, Space",TV,26,7.73,10688
+243,"Daicon Opening Animations","Action, Adventure, Mecha, Music, Sci-Fi",Special,2,7.72,7174
+244,"Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.72,56994
+245,"Future GPX Cyber Formula Sin","Drama, Sci-Fi, Shounen, Sports",OVA,5,7.72,1070
+246,"Kyoukaisenjou no Horizon II","Action, Fantasy, Sci-Fi",TV,13,7.72,46781
+247,"Mobile Police Patlabor: On Television","Comedy, Mecha, Police, Sci-Fi",TV,47,7.72,16130
+248,"Mujin Wakusei Survive","Action, Adventure, Fantasy, Sci-Fi, Slice of Life",TV,52,7.72,11684
+249,"Ouritsu Uchuugun: Honneamise no Tsubasa","Action, Drama, Military, Sci-Fi, Space",Movie,1,7.72,18469
+250,"Urusei Yatsura Movie 5: Final","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,1,7.72,2783
+251,"Evangelion: 3.0 You Can (Not) Redo","Action, Mecha, Sci-Fi",Movie,1,7.71,135318
+252,"Gakkougurashi!","Horror, Mystery, Psychological, School, Slice of Life",TV,12,7.71,140094
+253,"Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon","Sci-Fi, Shounen, Sports",Movie,1,7.71,4535
+254,"Mirai Nikki Redial","Action, Psychological, Shounen, Supernatural",OVA,1,7.71,135604
+255,"Toaru Majutsu no Index: Endymion no Kiseki","Action, Magic, Sci-Fi, Super Power",Movie,1,7.71,54873
+256,"Ano Natsu de Matteru","Comedy, Drama, Romance, Sci-Fi, Slice of Life",TV,12,7.7,169718
+257,"Final Fantasy VII: Advent Children - Venice Film Festival Footage","Action, Drama, Fantasy, Sci-Fi",Movie,1,7.7,6498
+258,"Future GPX Cyber Formula Zero","Drama, Sci-Fi, Shounen, Sports",OVA,8,7.7,1113
+259,"Ghost in the Shell: Arise - Border:2 Ghost Whispers","Mecha, Police, Psychological, Sci-Fi",Movie,1,7.7,24880
+260,"Imawa no Kuni no Alice (OVA)","Action, Psychological, Shounen, Supernatural, Thriller",OVA,3,7.7,18351
+261,"Strike Witches Movie","Action, Ecchi, Magic, Military, Sci-Fi",Movie,1,7.7,23856
+262,"Waga Seishun no Arcadia","Action, Adventure, Drama, Sci-Fi, Space",Movie,1,7.7,4415
+263,"Macross Zero","Adventure, Mecha, Military, Sci-Fi, Shounen",OVA,5,7.69,23568
+264,"Toaru Majutsu no Index","Action, Magic, Sci-Fi, Super Power",TV,24,7.69,313114
+265,"Btooom!","Action, Psychological, Sci-Fi, Seinen",TV,12,7.68,329561
+266,"Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni","Action, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Special,1,7.68,17166
+267,"Persona 4 the Animation","Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",TV,25,7.68,134942
+268,"Sora no Otoshimono","Comedy, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",TV,13,7.68,227681
+269,"Fantastic Children","Adventure, Fantasy, Mystery, Romance, Sci-Fi",TV,26,7.67,17773
+270,"Ghost in the Shell (2015)","Action, Mecha, Police, Psychological, Sci-Fi",Movie,1,7.67,19872
+271,"Grisaia no Kajitsu","Drama, Harem, Psychological, Romance, School",TV,13,7.67,178166
+272,"Haiyore! Nyaruko-san F","Comedy, Parody, Romance, Sci-Fi",OVA,1,7.67,19620
+273,"Kiznaiver","Drama, Sci-Fi",TV,12,7.67,197912
+274,"Tatakae! Chou Robot Seimeitai Transformers","Adventure, Mecha, Sci-Fi, Shounen",TV,98,7.67,5652
+275,"Aldnoah.Zero","Action, Mecha, Sci-Fi",TV,12,7.66,244193
+276,"Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita","Action, Mecha, Military, Sci-Fi",Movie,1,7.66,91105
+277,"Heroic Age","Action, Mecha, Military, Sci-Fi, Space",TV,26,7.66,62530
+278,"Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!","Comedy, Sci-Fi, Shounen",Movie,1,7.66,2430
+279,"Mobile Suit Gundam Wing: Operation Meteor","Action, Adventure, Drama, Mecha, Military, Psychological, Sci-Fi, Space",OVA,4,7.66,6768
+280,"Plawres Sanshirou","Adventure, Mecha, School, Sci-Fi, Shounen, Sports",TV,37,7.66,1718
+281,"UFO Robo Grendizer","Mecha, Sci-Fi, Shounen",TV,74,7.66,4381
+282,"Darker than Black: Kuro no Keiyakusha Special","Comedy, Parody, Sci-Fi",Special,1,7.65,87609
+283,"Fushigi no Umi no Nadia","Adventure, Comedy, Historical, Romance, Sci-Fi",TV,39,7.65,24229
+284,"Future GPX Cyber Formula Saga","Drama, Sci-Fi, Shounen, Sports",OVA,8,7.64,1040
+285,"Ghost in the Shell: Arise - Border:1 Ghost Pain","Mecha, Police, Psychological, Sci-Fi",Movie,1,7.64,31747
+286,"Ningen Shikkaku: Director&#039;s Cut-ban","Drama, Historical, Psychological, Seinen",Movie,1,7.64,4292
+287,"R.O.D the TV","Action, Adventure, Comedy, Drama, Sci-Fi, Super Power",TV,26,7.64,47053
+288,"Suisei no Gargantia","Action, Adventure, Mecha, Sci-Fi",TV,13,7.64,170754
+289,"Mardock Scramble: The First Compression","Action, Psychological, Sci-Fi",Movie,1,7.63,40698
+290,"Sora no Otoshimono: Project Pink","Comedy, Ecchi, Harem, Sci-Fi, Shounen, Supernatural",OVA,1,7.63,61903
+291,"Uchuu Senkan Yamato 2","Action, Adventure, Drama, Military, Sci-Fi, Space",TV,26,7.63,3461
+292,"Accel World","Action, Game, Romance, School, Sci-Fi",TV,24,7.62,324284
+293,"Darker than Black: Ryuusei no Gemini","Action, Mystery, Sci-Fi, Super Power",TV,12,7.62,222243
+294,"Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.62,65953
+295,"Metropolis","Adventure, Drama, Police, Romance, Sci-Fi, Shounen",Movie,1,7.62,44030
+296,"Mobile Fighter G Gundam","Adventure, Comedy, Drama, Martial Arts, Mecha, Romance, Sci-Fi, Space, Sports",TV,49,7.62,36338
+297,"Shigofumi","Drama, Fantasy, Psychological, Supernatural, Thriller",TV,12,7.62,54000
+298,"So Ra No Wo To Specials","Military, Music, Sci-Fi, Slice of Life",Special,2,7.62,16491
+299,"Yuusha Keisatsu J-Decker","Action, Adventure, Mecha, Police, Sci-Fi",TV,48,7.62,1116
+300,"Casshern Sins","Action, Adventure, Drama, Psychological, Sci-Fi",TV,24,7.61,80307
+301,"Digimon Adventure Movie","Action, Fantasy, Kids, Sci-Fi",Movie,1,7.61,60753
+302,"Freedom","Action, Adventure, Sci-Fi",OVA,7,7.61,13918
+303,"Mobile Police Patlabor: The New Files","Comedy, Mecha, Police, Sci-Fi",OVA,16,7.61,3952
+304,"Motto To LOVE-Ru","Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",TV,12,7.61,134988
+305,"Planetarian: Chiisana Hoshi no Yume","Drama, Sci-Fi",ONA,5,7.61,38303
+306,"Tokyo Ghoul: &quot;Pinto&quot;","Action, Drama, Horror, Mystery, Psychological, Supernatural",OVA,1,7.61,52312
+307,"Urusei Yatsura OVA","Adventure, Comedy, Sci-Fi",OVA,11,7.61,2470
+308,"Ghost in the Shell: Arise - Border:4 Ghost Stands Alone","Mecha, Police, Psychological, Sci-Fi",Movie,1,7.6,19565
+309,"Kidou Senkan Nadesico","Action, Comedy, Mecha, Military, Parody, Romance, Sci-Fi, Shounen, Space",TV,26,7.6,27976
+310,"On Your Mark","Drama, Music, Sci-Fi",Music,1,7.6,13661
+311,"Persona 4 the Animation: No One is Alone","Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",Special,1,7.6,26501
+312,"Psycho-Pass 2","Action, Police, Psychological, Sci-Fi",TV,11,7.6,228435
+313,"Samurai 7","Historical, Mecha, Samurai, Sci-Fi",TV,26,7.6,74991
+314,"So Ra No Wo To","Military, Music, Sci-Fi, Slice of Life",TV,12,7.6,84390
+315,"Doraemon (2005)","Comedy, Kids, Sci-Fi, Shounen",TV,Unknown,7.59,2980
+316,"Mugen no Ryvius","Drama, Mecha, Military, Psychological, Sci-Fi, Space",TV,26,7.59,22714
+317,"Patapata Hikousen no Bouken","Adventure, Sci-Fi",TV,26,7.59,2629
+318,"Rakuen Tsuihou: Expelled from Paradise","Action, Mecha, Sci-Fi",Movie,1,7.59,46678
+319,"Shinreigari: Ghost Hound","Mystery, Psychological, Sci-Fi, Supernatural",TV,22,7.59,78469
+320,"Tetsujin 28-gou (2004)","Adventure, Mecha, Sci-Fi, Shounen",TV,26,7.59,1826
+321,"Aoki Hagane no Arpeggio: Ars Nova DC","Action, Sci-Fi, Seinen",Movie,1,7.58,11943
+322,"Level E","Comedy, Sci-Fi, Shounen",TV,13,7.58,55252
+323,"Taiyou no Kiba Dagram","Drama, Mecha, Military, Sci-Fi, Shounen",TV,75,7.58,1825
+324,"Uchuu no Kishi Tekkaman Blade","Action, Adventure, Drama, Mecha, Military, Romance, Sci-Fi, Shounen, Space",TV,49,7.58,8546
+325,"Chobits","Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",TV,26,7.57,266846
+326,"Chrome Shelled Regios","Action, Adventure, Fantasy, School, Sci-Fi",TV,24,7.57,103615
+327,"Heppoko Jikken Animation Excel♥Saga","Comedy, Parody, Sci-Fi, Shounen",TV,26,7.57,68198
+328,"Mardock Scramble: The Third Exhaust","Action, Psychological, Sci-Fi",Movie,1,7.57,20459
+329,"The Big O","Action, Mecha, Mystery, Psychological, Sci-Fi",TV,26,7.57,45843
+330,"Aria The Natural: Sono Futatabi Deaeru Kiseki ni...","Fantasy, Sci-Fi, Shounen, Slice of Life",Special,1,7.56,10069
+331,"Date A Live Movie: Mayuri Judgment","Harem, Romance, Sci-Fi",Movie,1,7.56,48673
+332,"Higurashi no Naku Koro ni Rei","Comedy, Mystery, Psychological, Supernatural, Thriller",OVA,5,7.56,99463
+333,"Mobile Suit Gundam II: Soldiers of Sorrow","Action, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.56,11325
+334,"Nihon Animator Mihonichi","Action, Dementia, Ecchi, Fantasy, Mecha, Military, Music, School, Sci-Fi, Space, Supernatural",ONA,35,7.56,16942
+335,"Orange: Mirai","Drama, Romance, School, Sci-Fi, Shoujo",Movie,1,7.56,29969
+336,"Tetsuwan Birdy Decode","Action, Comedy, Sci-Fi",TV,13,7.56,50384
+337,"Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desukara","Action, Sci-Fi, Super Power",OVA,1,7.56,37609
+338,"Waga Seishun no Arcadia: Mugen Kidou SSX","Action, Adventure, Drama, Sci-Fi, Space",TV,22,7.56,2587
+339,"Zipang","Action, Drama, Historical, Military, Sci-Fi, Seinen",TV,26,7.56,8630
+340,"AKB0048","Music, Sci-Fi",TV,13,7.55,37763
+341,"Aoki Hagane no Arpeggio: Ars Nova","Action, Sci-Fi, Seinen",TV,12,7.55,84708
+342,"Captain Harlock","Action, Drama, Sci-Fi, Space",Movie,1,7.56,25484
+343,"Date A Live: Date to Date","Comedy, Harem, Romance, School, Sci-Fi",OVA,1,7.55,68328
+344,"God Eater","Action, Fantasy, Military, Sci-Fi",TV,13,7.55,192433
+345,"Gunslinger Girl","Action, Drama, Military, Psychological, Sci-Fi",TV,13,7.55,106865
+346,"Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future","Drama, Mecha, Military, Sci-Fi, Space",OVA,1,7.55,16102
+347,"Mobile Suit Gundam Unicorn RE:0096","Action, Drama, Mecha, Military, Sci-Fi, Space",TV,22,7.56,9767
+348,"RahXephon","Action, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi",TV,26,7.55,66751
+349,"Sunabouzu","Action, Adventure, Comedy, Ecchi, Sci-Fi, Shounen",TV,24,7.55,65516
+350,"Bobobo-bo Bo-bobo","Adventure, Comedy, Sci-Fi, Shounen",TV,76,7.54,39041
+351,"Chou Denji Machine Voltes V","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen",TV,40,7.54,3201
+352,"Date A Live","Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,12,7.54,301358
+353,"Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.54,50607
+354,"Future GPX Cyber Formula","Adventure, Sci-Fi, Shounen, Sports",TV,37,7.54,2707
+355,"Karas","Action, Fantasy, Sci-Fi",OVA,6,7.54,44108
+356,"Tenchi Muyou!","Comedy, Harem, Romance, Sci-Fi, Shounen, Space",TV,26,7.54,38372
+357,"Vandread: The Second Stage","Action, Ecchi, Mecha, Sci-Fi, Shounen, Space",TV,13,7.54,36264
+358,"Cowboy Bebop: Yose Atsume Blues","Action, Adventure, Comedy, Drama, Sci-Fi, Space",Special,1,7.53,19565
+359,"Gundam Build Fighters Try","Action, Mecha, Sci-Fi",TV,25,7.53,17946
+360,"Hoshi no Koe","Drama, Mecha, Romance, Sci-Fi, Space",OVA,1,7.53,85492
+361,"Pale Cocoon","Drama, Sci-Fi",OVA,1,7.53,44030
+362,"Black Cat","Adventure, Comedy, Sci-Fi, Shounen, Super Power",TV,23,7.52,150512
+363,"Future GPX Cyber Formula 11","Drama, Sci-Fi, Shounen, Sports",OVA,6,7.52,1116
+364,"Ghost in the Shell: Arise - Border:3 Ghost Tears","Mecha, Police, Psychological, Sci-Fi",Movie,1,7.52,21648
+365,"Kanojo to Kanojo no Neko","Drama, Psychological, Romance, Slice of Life",OVA,1,7.52,53463
+366,"Kowarekake no Orgel (Movie)","Drama, Music, Sci-Fi, Slice of Life",Movie,1,7.52,9404
+367,"Scrapped Princess","Adventure, Comedy, Drama, Fantasy, Mecha, Sci-Fi, Shounen",TV,24,7.52,54575
+368,"Selector Spread WIXOSS","Game, Psychological",TV,12,7.52,42918
+369,"Tenchi Muyou! in Love","Action, Comedy, Romance, School, Sci-Fi, Shounen, Space",Movie,1,7.52,14318
+370,"Tokyo Ghoul √A","Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV,12,7.52,408357
+371,"Moonlight Mile 2nd Season: Touch Down","Adventure, Drama, Sci-Fi, Space",TV,14,7.51,2758
+372,"Neon Genesis Evangelion: Death &amp; Rebirth","Drama, Mecha, Psychological, Sci-Fi",Movie,1,7.51,102093
+373,"Oban Star-Racers","Adventure, Mecha, Sci-Fi, Shounen",TV,26,7.51,24156
+374,"Sentou Mecha Xabungle","Mecha, Military, Sci-Fi, Shounen",TV,50,7.51,1518
+375,"To LOVE-Ru OVA","Comedy, Ecchi, Harem, School, Sci-Fi, Shounen",OVA,6,7.51,79923
+376,"Date A Live II","Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV,10,7.5,186187
+377,"Gatchaman Crowds: Embrace","Adventure, Sci-Fi",Special,1,7.5,10757
+378,"Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi (TV)","Comedy, Mecha, Sci-Fi",TV,12,7.5,7582
+379,"Mardock Scramble: The Second Combustion","Action, Psychological, Sci-Fi",Movie,1,7.5,23866
+380,"Mnemosyne: Mnemosyne no Musume-tachi","Action, Horror, Sci-Fi, Shoujo Ai, Supernatural",TV,6,7.5,96092
+381,"Sakasama no Patema: Beginning of the Day","Sci-Fi",Special,4,7.5,16933
+382,"Seikai no Senki Special","Action, Military, Romance, Sci-Fi, Space",Special,1,7.5,2216
+383,"Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation","Action, Horror, Mystery, Psychological",TV,13,7.49,298550
+384,"Kowarekake no Orgel","Drama, Music, Sci-Fi, Slice of Life",OVA,1,7.49,24876
+385,"Mai-Otome 0: S.ifr","Sci-Fi",OVA,3,7.49,11171
+386,"Mazinger Z","Action, Drama, Mecha, Sci-Fi, Shounen",TV,92,7.49,5746
+387,"Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots","Drama, Mecha, Military, Sci-Fi",OVA,1,7.49,2049
+388,"Soukyuu no Fafner: Right of Left - Single Program","Action, Drama, Mecha, Military, Sci-Fi",Special,1,7.49,9482
+389,"Strike Witches: Operation Victory Arrow","Action, Ecchi, Magic, Military, Sci-Fi",OVA,3,7.49,11203
+390,"Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!","Comedy, Harem, Romance, Sci-Fi, Shounen",OVA,1,7.49,8812
+391,"Uchuu no Stellvia","Action, Romance, Sci-Fi, Space",TV,26,7.49,15471
+392,"Deadman Wonderland","Action, Horror, Sci-Fi",TV,12,7.48,453454
+393,"Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!","Action, Adventure, Comedy, Drama, Sci-Fi, Shounen",Movie,1,7.48,2941
+394,"Shigofumi Special","Drama, Fantasy, Psychological, Thriller",Special,1,7.48,11797
+395,"Shin Getter Robo","Action, Adventure, Demons, Horror, Mecha, Sci-Fi, Shounen",OVA,13,7.48,4603
+396,"Zoids","Action, Adventure, Comedy, Mecha, Sci-Fi",TV,67,7.48,27614
+397,"Appleseed Saga Ex Machina","Action, Mecha, Military, Sci-Fi",Movie,1,7.47,28365
+398,"Cross Ange: Tenshi to Ryuu no Rondo","Action, Mecha, Sci-Fi",TV,25,7.47,75807
+399,"Doraemon Movie 25: Nobita no Wan Nyan Jikuuden","Adventure, Comedy, Kids, Sci-Fi",Movie,1,7.47,1269
+400,"Futatsu no Spica","Drama, School, Sci-Fi, Supernatural",TV,20,7.47,5894
+401,"Gatchaman Crowds","Adventure, Sci-Fi",TV,12,7.47,107513
+402,"Gatchaman Crowds Insight","Adventure, Sci-Fi",TV,12,7.47,41220
+403,"Mazinkaiser","Adventure, Comedy, Mecha, Sci-Fi, Shounen",OVA,7,7.47,4681
+404,"Mobile Suit Gundam 0083: Stardust Memory","Adventure, Drama, Mecha, Military, Sci-Fi, Space",OVA,13,7.47,20238
+405,"Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey","Action, Adventure, Drama, Sci-Fi, Seinen, Space",OVA,13,7.47,3499
+406,"Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!","Action, Adventure, Comedy, Mecha, Sci-Fi",Special,1,7.47,24618
+407,"Zegapain","Action, Mecha, Romance, Sci-Fi",TV,26,7.47,20644
+408,"Doraemon Movie 15: Nobita to Mugen Sankenshi","Adventure, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.46,1204
+409,"Final Fantasy VII: Last Order","Action, Adventure, Drama, Fantasy, Sci-Fi",OVA,1,7.46,48041
+410,"Kurau Phantom Memory","Action, Drama, Sci-Fi, Space, Super Power",TV,24,7.46,17463
+411,"Mobile Police Patlabor","Comedy, Mecha, Police, Sci-Fi",OVA,7,7.46,8516
+412,"Mobile Suit Gundam Seed Special Edition","Action, Mecha, Military, Sci-Fi, Space",Special,3,7.46,7118
+413,"Nekojiru-sou","Comedy, Dementia, Psychological",OVA,1,7.46,34568
+414,"Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...","Action, Music, Sci-Fi",TV,13,7.46,25750
+415,"Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.","Action, Music, Sci-Fi",TV,13,7.46,17466
+416,"Soukyuu no Fafner: Dead Aggressor - Heaven and Earth","Action, Drama, Mecha, Military, Sci-Fi",Movie,1,7.46,8266
+417,"Suisei no Gargantia: Meguru Kouro, Haruka","Action, Adventure, Mecha, Sci-Fi",OVA,2,7.46,20151
+418,"Ginga Kikoutai Majestic Prince","Action, Mecha, School, Sci-Fi, Seinen, Space",TV,24,7.45,35196
+419,"Keroro Gunsou Movie 1","Comedy, Kids, Sci-Fi, Shounen",Movie,1,7.45,3606
+420,"s.CRY.ed","Action, Adventure, Drama, Sci-Fi, Super Power",TV,26,7.45,52784
+421,"Saber Marionette J","Action, Adventure, Comedy, Drama, Harem, Martial Arts, Mecha, Romance, Sci-Fi, Shounen",TV,25,7.45,17561
+422,"Saint Seiya: Soushuuhen","Adventure, Fantasy, Sci-Fi, Shounen",Special,1,7.45,4031
+423,"Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki","Adventure, Drama, Sci-Fi, Space",Movie,1,7.45,4199
+424,"Shin Taketori Monogatari: 1000-nen Joou","Drama, Mystery, Sci-Fi",TV,42,7.45,1805
+425,"Shuangsheng Lingtan","Mystery, Psychological",ONA,20,7.45,1227
+426,"Steamboy","Action, Adventure, Drama, Historical, Military, Sci-Fi",Movie,1,7.45,40812
+427,"Zoids Shinseiki/Zero","Adventure, Comedy, Mecha, Sci-Fi, Shounen, Sports",TV,26,7.45,16381
+428,"Black Bullet","Action, Mystery, Sci-Fi, Seinen",TV,13,7.44,320267
+429,"Brigadoon: Marin to Melan","Adventure, Comedy, Drama, Mecha, Sci-Fi",TV,26,7.44,5636
+430,"Doraemon: Obaachan no Omoide","Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.44,835
+431,"Galaxy Angel 3","Comedy, Sci-Fi",TV,26,7.44,6244
+432,"Needless","Action, Comedy, Ecchi, Sci-Fi, Super Power",TV,24,7.44,86942
+433,"Soukou Kihei Votoms: Pailsen Files","Mecha, Military, Sci-Fi, Space",OVA,12,7.44,2861
+434,"Soukyuu no Fafner: Dead Aggressor - Exodus","Action, Drama, Mecha, Military, Sci-Fi",TV,13,7.44,11882
+435,"Doraemon Movie 09: Nobita no Parallel Saiyuuki","Adventure, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.43,1189
+436,"Haiyore! Nyaruko-san W","Comedy, Parody, Sci-Fi",TV,12,7.43,84442
+437,"Mobile Suit Gundam I","Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.43,12877
+438,"Ou Dorobou Jing in Seventh Heaven","Adventure, Comedy, Fantasy, Psychological, Shounen",OVA,3,7.43,8561
+439,"Robot Carnival","Fantasy, Sci-Fi",OVA,1,7.43,7213
+440,"Robotics;Notes","Drama, Mystery, School, Sci-Fi",TV,22,7.43,107304
+441,"Strike Witches 2","Action, Ecchi, Magic, Military, Sci-Fi",TV,12,7.43,51114
+442,"Biohazard: Damnation","Action, Horror, Sci-Fi",Movie,1,7.42,10737
+443,"Cheonnyeon-yeowoo Yeowoobi","Drama, Fantasy, Sci-Fi",Movie,1,7.42,9045
+444,"Doraemon Movie 11: Nobita to Animal Planet","Adventure, Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.42,1581
+445,"Himitsu: The Revelation","Mystery, Police, Psychological, Sci-Fi, Shoujo",TV,26,7.42,11761
+446,"Mobile Suit Gundam Seed Destiny Special Edition","Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",Special,4,7.42,7799
+447,"Onegai☆Teacher: Himitsu na Futari","Comedy, Ecchi, Romance, Sci-Fi",OVA,1,7.42,32134
+448,"Saint Seiya: Shinku no Shounen Densetsu","Adventure, Fantasy, Sci-Fi, Shounen",Movie,1,7.42,8849
+449,"Saint Seiya: Tenkai-hen Josou - Overture","Adventure, Sci-Fi, Shounen",Movie,1,7.42,11705
+450,"Seikai no Monshou Special","Action, Military, Romance, Sci-Fi, Space",Special,1,7.42,2439
+451,"Denpa Onna to Seishun Otoko Special","Comedy, Sci-Fi, Seinen",Special,1,7.41,34723
+452,"Heavy Object","Action, Mecha, Military, Sci-Fi",TV,24,7.41,68382
+453,"IGPX: Immortal Grand Prix (2005) 2nd Season","Mecha, Sci-Fi, Shounen, Sports",TV,13,7.41,6863
+454,"Jyu Oh Sei","Action, Adventure, Drama, Mystery, Sci-Fi, Shoujo",TV,11,7.41,44766
+455,"Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer","Action, Mecha, Sci-Fi, Space",Movie,1,7.41,37069
+456,"Selector Infected WIXOSS","Game, Psychological",TV,12,7.41,80964
+457,"Tenchi Muyou! Ryououki 3rd Season","Action, Comedy, Harem, Sci-Fi, Shounen, Space",OVA,6,7.41,12242
+458,"Choujigen Game Neptune The Animation OVA","Action, Comedy, Fantasy, Sci-Fi",OVA,1,7.4,16067
+459,"Digimon Adventure 02: Diablomon no Gyakushuu","Adventure, Comedy, Drama, Kids, Sci-Fi",Movie,1,7.4,31961
+460,"Dimension W: W no Tobira Online","Sci-Fi, Seinen",Special,Unknown,7.4,4799
+461,"Dragon Ball: Episode of Bardock","Action, Adventure, Comedy, Fantasy, Martial Arts, Sci-Fi, Shounen, Super Power",Special,1,7.4,29030
+462,"Irregular Hunter X: The Day of Sigma","Action, Mecha, Sci-Fi, Shounen",OVA,1,7.4,6348
+463,"Tetsuwan Birdy Decode: The Cipher","Action, Comedy, Sci-Fi",OVA,1,7.4,12944
+464,"The Third: Aoi Hitomi no Shoujo","Action, Adventure, Sci-Fi, Seinen",TV,24,7.4,14304
+465,"Witchblade","Action, Sci-Fi, Super Power",TV,24,7.4,64697
+466,"After War Gundam X","Adventure, Drama, Mecha, Sci-Fi, Space",TV,39,7.39,19132
+467,"Doraemon: Doraemon Comes Back","Comedy, Fantasy, Kids, Sci-Fi, Shounen",Special,1,7.39,723
+468,"Genius Party","Action, Dementia, Fantasy, Mecha, Music, Psychological, Romance, Sci-Fi",Movie,7,7.39,18612
+469,"Genius Party Beyond","Dementia, Fantasy, Music, Sci-Fi",Movie,5,7.39,10660
+470,"Gosenzo-sama Banbanzai!","Comedy, Sci-Fi",OVA,6,7.39,2095
+471,"Saber Marionette J to X","Action, Adventure, Comedy, Harem, Mecha, Sci-Fi",TV,26,7.39,8862
+472,"Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?","Action, Comedy, Harem, Sci-Fi, Shounen, Space",OVA,1,7.39,6870
+473,"Ayashi no Ceres","Adventure, Comedy, Drama, Horror, Psychological, Romance, Shoujo, Supernatural",TV,24,7.38,38336
+474,"Gun x Sword","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen",TV,26,7.38,45921
+475,"Kyoushoku Soukou Guyver (2005)","Adventure, Sci-Fi, Shounen",TV,26,7.38,12337
+476,"Oh! Edo Rocket","Comedy, Drama, Fantasy, Historical, Sci-Fi",TV,26,7.38,8221
+477,"RideBack","Action, Drama, Mecha, School, Sci-Fi",TV,12,7.38,32835
+478,"Solty Rei","Action, Sci-Fi, Super Power",TV,24,7.38,17943
+479,"Soukyuu no Fafner: Dead Aggressor","Action, Drama, Mecha, Military, Sci-Fi",TV,25,7.38,27516
+480,"Galaxy Angel 3 Specials","Comedy, Sci-Fi",Special,2,7.37,2574
+481,"Galaxy Angel 4","Comedy, Sci-Fi",TV,13,7.37,5046
+482,"Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikoma na Hibi","Comedy, Mecha, Sci-Fi",Special,26,7.37,14240
+483,"Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars","Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.37,5705
+484,"Yokohama Kaidashi Kikou","Sci-Fi, Seinen, Slice of Life",OVA,2,7.37,12389
+485,".hack//Quantum","Action, Adventure, Fantasy, Game, Sci-Fi",OVA,3,7.36,26163
+486,"Bubblegum Crisis","Adventure, Mecha, Sci-Fi, Shounen",OVA,8,7.36,17268
+487,"Cencoroll","Action, Sci-Fi",Movie,1,7.36,56370
+488,"Cybersix","Action, Adventure, Romance, Sci-Fi",TV,13,7.36,3607
+489,"Cyborg 009: The Cyborg Soldier","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,52,7.36,14867
+490,"Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.36,51083
+491,"Higurashi no Naku Koro ni Kaku: Outbreak","Horror, Mystery, Psychological, Thriller",OVA,1,7.36,33381
+492,"Karneval (TV)","Action, Fantasy, Mystery, Sci-Fi, Shoujo",TV,13,7.36,108174
+493,"Kyouran Kazoku Nikki","Comedy, Sci-Fi",TV,26,7.36,20883
+494,"Mobile Suit Gundam Seed Destiny","Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV,50,7.36,65896
+495,"Yokohama Kaidashi Kikou: Quiet Country Cafe","Sci-Fi, Seinen, Slice of Life",OVA,2,7.36,7609
+496,"Dimension W","Action, Sci-Fi, Seinen",TV,12,7.36,130028
+497,"Gear Fighter Dendoh","Action, Adventure, Mecha, School, Sci-Fi, Space",TV,38,7.35,1548
+498,"Kuromukuro","Action, Mecha, Sci-Fi",TV,26,7.35,46323
+499,"Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars","Drama, Mecha, Military, Sci-Fi, Space",Movie,1,7.35,6326
+500,"Onegai☆Teacher","Comedy, Drama, Romance, School, Sci-Fi",TV,12,7.35,99558
+501,"Subete ga F ni Naru: The Perfect Insider","Mystery, Psychological, Sci-Fi",TV,11,7.35,81230
+502,"Super Robot Taisen OG: The Inspector","Action, Mecha, Sci-Fi, Space",TV,26,7.35,5962
+503,"Densetsu no Yuusha Da Garn","Mecha, Sci-Fi, Shounen",TV,46,7.34,1897
+504,"Elfen Lied Special","Drama, Ecchi, Horror, Psychological, Supernatural",Special,1,7.34,116129
+505,"Figure 17: Tsubasa &amp; Hikaru","Sci-Fi, Slice of Life",TV,13,7.34,6860
+506,"Great Mazinger","Action, Mecha, Sci-Fi, Shounen",TV,56,7.34,1917
+507,"HeatGuy J","Action, Adventure, Mecha, Police, Sci-Fi",TV,25,7.34,10727
+508,"Kiddy Grade: Truth Dawn","Action, Mecha, Sci-Fi, Super Power",Movie,1,7.34,3174
+509,"Koi Kaze","Drama, Psychological, Romance, Seinen",TV,13,7.34,41250
+510,"Macross Δ","Action, Mecha, Military, Music, Romance, Sci-Fi, Space",TV,26,7.34,30308
+511,"Mojakou","Comedy, Fantasy, Sci-Fi",TV,74,7.34,1218
+512,"Neppuu Kairiku Bushi Road","Action, Fantasy, Mecha, Sci-Fi",Special,1,7.34,19967
+513,"Ou Dorobou Jing","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",TV,13,7.34,21920
+514,"Sei Juushi Bismarck","Action, Mecha, Sci-Fi, Space",TV,51,7.34,2764
+515,"Sidonia no Kishi Movie","Action, Mecha, Sci-Fi, Seinen, Space",Movie,1,7.34,5472
+516,"The Animatrix","Action, Drama, Sci-Fi",OVA,9,7.34,42831
+517,"To LOVE-Ru","Comedy, Ecchi, Harem, Romance, School, Sci-Fi",TV,26,7.34,237563
+518,"Umineko no Naku Koro ni","Horror, Mystery, Psychological, Supernatural",TV,26,7.34,126865
+519,"11-nin Iru!","Action, Adventure, Drama, Mystery, Romance, Sci-Fi, Shoujo, Space",Movie,1,7.33,4311
+520,"Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de","Action, Mecha, Sci-Fi",Special,2,7.33,14158
+521,"Denpa Onna to Seishun Otoko","Comedy, Sci-Fi, Seinen, Slice of Life",TV,12,7.33,149497
+522,"Dragon Ball Movie 4: Saikyou e no Michi","Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Movie,1,7.33,26104
+523,"Ghost in the Shell: Arise - Alternative Architecture","Mecha, Police, Psychological, Sci-Fi",TV,10,7.33,21805
+524,"Kiddy Grade: Maelstrom","Action, Mecha, Sci-Fi, Super Power",Movie,1,7.33,3189
+525,"Mobile Suit Gundam 00: Tenshitachi no Kiseki","Action, Mecha, Sci-Fi",Special,1,7.33,4680
+526,"Musekinin Kanchou Tylor OVA","Adventure, Comedy, Drama, Military, Sci-Fi, Space",OVA,10,7.33,5006
+527,"Sango Shou Densetsu: Aoi Umi no Elfie","Adventure, Sci-Fi",Movie,1,7.33,524
+528,"Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi","Action, Drama, Military, Sci-Fi, Space",Movie,1,7.33,1678
+529,"Uchuu Senkan Yamato III","Action, Adventure, Drama, Military, Sci-Fi, Space",TV,25,7.33,2568
+530,"Vandread","Action, Ecchi, Mecha, Sci-Fi, Shounen, Space",TV,13,7.33,53360
+531,".hack//G.U. Trilogy","Action, Fantasy, Game, Sci-Fi",Movie,1,7.32,22537
+532,".hack//The Movie: Sekai no Mukou ni","Action, Adventure, Fantasy, Game, Magic, Mystery, Sci-Fi",Movie,1,7.32,11617
+533,"Accel World EX","Action, Game, Romance, School, Sci-Fi",OVA,2,7.32,61198
+534,"Aquarion Evol","Action, Comedy, Drama, Fantasy, Mecha, Romance, Sci-Fi",TV,26,7.32,62753
+535,"Di Gi Charat Nyo","Comedy, Fantasy, Sci-Fi",TV,104,7.32,3782
+536,"Gakusen Toshi Asterisk 2nd Season","Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",TV,12,7.32,101287
+537,"Gantz:O","Action, Drama, Ecchi, Horror, Psychological, Sci-Fi, Seinen, Supernatural",Movie,1,7.34,8569
+538,"Kidou Tenshi Angelic Layer","Comedy, Drama, Sci-Fi, Shounen, Sports",TV,26,7.32,39758
+539,"Kyoushoku Soukou Guyver (1989)","Action, Horror, Sci-Fi, Super Power",OVA,6,7.32,6090
+540,"Saber Marionette J Again","Action, Comedy, Harem, Mecha, Romance, Sci-Fi",OVA,6,7.32,7289
+541,"Seikai no Danshou: Tanjou","Military, Romance, Sci-Fi, Space",Special,1,7.32,5324
+542,"Soukou Kihei Votoms: The Last Red Shoulder","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,7.32,1895
+543,"Soukyuu no Fafner: Dead Aggressor - Exodus Special","Action, Drama, Mecha, Military, Sci-Fi",Special,1,7.33,472
+544,"Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi","Comedy, Mecha, Sci-Fi",Special,26,7.31,18178
+545,"Ginga Hyouryuu Vifam","Action, Adventure, Mecha, Sci-Fi",TV,46,7.31,1329
+546,"Kiddy Grade","Action, Ecchi, Mecha, Sci-Fi, Super Power",TV,24,7.31,30766
+547,"Madou King Granzort","Action, Comedy, Fantasy, Magic, Mecha, Sci-Fi, Shounen",TV,41,7.31,835
+548,"Mama wa Shougaku 4 Nensei","Comedy, Drama, Sci-Fi",TV,51,7.31,1711
+549,"Ryuusei no Rockman","Action, Game, Sci-Fi, Shounen",TV,55,7.31,6670
+550,"Saishuu Heiki Kanojo","Drama, Romance, School, Sci-Fi",TV,13,7.31,58051
+551,"Gunslinger Girl: Il Teatrino","Action, Drama, Military, Sci-Fi",TV,13,7.3,38498
+552,"HeatGuy J Special","Action, Adventure, Mecha, Police, Sci-Fi",Special,1,7.3,1675
+553,"Hokuto no Ken Movie","Adventure, Sci-Fi, Shounen",Movie,1,7.3,9328
+554,"Mahoromatic 2","Comedy, Drama, Ecchi, Military, Romance, Sci-Fi",TV,14,7.3,21393
+555,"Sakura Nagashi","Action, Drama, Mecha, Music, Sci-Fi",Music,1,7.29,2945
+556,"Selector Destructed WIXOSS Movie","Game, Psychological",Movie,1,7.3,9447
+557,"Urusei Yatsura Movie 1: Only You","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,1,7.3,3818
+558,"Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.","Comedy, Drama, Romance, Sci-Fi, Slice of Life",Special,1,7.29,19772
+559,"Boku no Chikyuu wo Mamotte","Drama, Sci-Fi, Shoujo",OVA,6,7.29,7254
+560,"Buddy Complex","Action, Mecha, Sci-Fi",TV,13,7.29,44006
+561,"Digimon X-Evolution","Action, Adventure, Fantasy, Sci-Fi",Movie,1,7.29,12449
+562,"Galaxy Angel Z","Comedy, Sci-Fi",TV,9,7.29,6616
+563,"Gantz 2nd Stage","Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,13,7.29,87240
+564,"Ginga Tetsudou Monogatari","Action, Adventure, Drama, Sci-Fi, Space",TV,26,7.29,5947
+565,"Hi no Tori","Adventure, Drama, Historical, Sci-Fi, Supernatural",TV,13,7.29,4247
+566,"Mahoromatic: Automatic Maiden","Comedy, Ecchi, Military, Romance, Sci-Fi",TV,12,7.29,36656
+567,"Rockman.EXE Axess","Action, Adventure, Comedy, Game, Mecha, Sci-Fi, Shounen",TV,51,7.29,9025
+568,"Dead Leaves","Adventure, Comedy, Psychological, Sci-Fi",Movie,1,7.28,40717
+569,"Dr. Slump: Arale-chan","Comedy, Sci-Fi, Shounen, Slice of Life",TV,243,7.28,5330
+570,"Giniro no Kami no Agito","Adventure, Drama, Fantasy, Romance, Sci-Fi",Movie,1,7.28,45084
+571,"Hoshi wo Katta Hi","Kids, Sci-Fi",Movie,1,7.28,2814
+572,"Nerawareta Gakuen","Romance, School, Sci-Fi",Movie,1,7.28,44787
+573,"Saint Seiya: Soul of Gold","Action, Adventure, Fantasy, Sci-Fi, Shounen",ONA,13,7.28,11992
+574,"Sentou Yousei Yukikaze","Action, Drama, Military, Psychological, Sci-Fi, Space",OVA,5,7.28,9957
+575,"Suzumiya Haruhi no Yuuutsu (2009)","Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",TV,14,7.28,243448
+576,"Tetsuwan Atom","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen",TV,193,7.28,5332
+577,"Aria The Origination Picture Drama","Fantasy, Sci-Fi, Shounen, Slice of Life",Special,7,7.27,7014
+578,"Boogiepop wa Warawanai: Boogiepop Phantom","Dementia, Drama, Horror, Mystery, Psychological, Supernatural",TV,12,7.27,47280
+579,"Cosmic Baton Girl Comet-san","Adventure, Comedy, Drama, Magic, Sci-Fi",TV,43,7.27,1763
+580,"Cyber City Oedo 808","Action, Adventure, Police, Sci-Fi",OVA,3,7.27,8970
+581,"Gaiking: Legend of Daiku-Maryu","Action, Mecha, Sci-Fi",TV,39,7.27,2640
+582,"Gantz","Action, Drama, Horror, Psychological, Sci-Fi, Supernatural",TV,13,7.27,165335
+583,"Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata","Comedy, Parody, Sci-Fi",OVA,1,7.27,14622
+584,"Kenran Butou Sai: The Mars Daybreak","Adventure, Comedy, Mecha, Military, Romance, Sci-Fi, Shounen",TV,26,7.27,13265
+585,"Koutetsu Jeeg","Action, Demons, Mecha, Sci-Fi, Shounen",TV,46,7.27,1093
+586,"Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari","Fantasy, Historical, Horror, Mystery, Psychological, Supernatural",TV,13,7.27,20859
+587,"Mobile Suit Zeta Gundam: A New Translation II - Lovers","Drama, Mecha, Military, Romance, Sci-Fi, Space",Movie,1,7.27,5772
+588,"Moonlight Mile 1st Season: Lift Off","Adventure, Drama, Sci-Fi, Space",TV,12,7.27,6037
+589,"Red Baron","Action, Mecha, Sci-Fi, Shounen",TV,49,7.27,1188
+590,"SF Saiyuuki Starzinger","Adventure, Mecha, Sci-Fi, Shounen, Space",TV,73,7.27,1199
+591,"Tenchi Muyou! in Love 2: Haruka Naru Omoi","Drama, Romance, Sci-Fi, Shounen",Movie,1,7.27,10233
+592,"Terra Formars: Bugs 2-hen","Action, Horror, Sci-Fi, Space",OVA,2,7.27,21616
+593,"Urusei Yatsura: The Shougaibutsu Suieitaikai","Action, Comedy, Romance, School, Sci-Fi",Special,1,7.27,1848
+594,"Gunnm","Drama, Mecha, Sci-Fi, Shounen",OVA,2,7.26,22648
+595,"Mahoromatic Summer Special","Comedy, Ecchi, Romance, Sci-Fi",Special,1,7.26,7945
+596,"Mahoutsukai Tai! OVA","Comedy, Fantasy, Magic, Romance, Sci-Fi",OVA,6,7.26,4460
+597,"Mouretsu Pirates: Abyss of Hyperspace","Sci-Fi, Space",Movie,1,7.26,7787
+598,"Rockman.EXE Beast","Action, Adventure, Game, Mecha, Sci-Fi, Shounen",TV,25,7.26,4006
+599,"Tetsuwan Atom (1980)","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,52,7.26,5743
+600,"Toushou Daimos","Adventure, Drama, Mecha, Romance, Sci-Fi, Shounen",TV,44,7.26,3100
+601,"Vampire Hunter D","Action, Horror, Sci-Fi, Supernatural, Vampire",Movie,1,7.26,42377
+602,"Doraemon Movie 19: Nobita no Nankai Daibouken","Adventure, Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.25,1327
+603,"Eureka Seven: Pocket ga Niji de Ippai","Adventure, Mecha, Romance, Sci-Fi",Movie,1,7.25,32514
+604,"Guilty Crown Kiseki: Reassortment","Action, Sci-Fi, Super Power",Special,1,7.25,21388
+605,"Haiyore! Nyaruko-san","Comedy, Parody, Sci-Fi",TV,12,7.25,154595
+606,"Karneval","Fantasy, Sci-Fi, Shoujo",OVA,1,7.25,11320
+607,"Kikou Ryohei Mellowlink","Action, Mecha, Military, Sci-Fi",OVA,12,7.25,3303
+608,"Muteki Koujin Daitarn 3","Mecha, Sci-Fi",TV,40,7.25,1270
+609,"Ougon Yuusha Goldran","Action, Adventure, Fantasy, Mecha, Sci-Fi, Shounen",TV,48,7.25,910
+610,"Rockman.EXE Stream","Action, Adventure, Game, Mecha, School, Sci-Fi, Shounen",TV,51,7.25,4161
+611,"Shin Hakkenden","Action, Adventure, Martial Arts, Sci-Fi",TV,26,7.25,2692
+612,"Suisei no Gargantia Specials","Action, Mecha, Sci-Fi",Special,2,7.24,25383
+613,"Tenchi Muyou! GXP","Action, Comedy, Harem, Mecha, Police, Sci-Fi, Shounen, Space",TV,26,7.25,17943
+614,"Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.24,59207
+615,"Gakuen Senki Muryou","Adventure, Mecha, Sci-Fi, Shounen, Space, Supernatural",TV,26,7.24,3108
+616,"Gakuen Utopia Manabi Straight! Special","Comedy, School, Sci-Fi, Slice of Life",Special,1,7.24,4800
+617,"Ibara no Ou","Action, Mystery, Sci-Fi, Thriller",Movie,1,7.24,38670
+618,"IGPX: Immortal Grand Prix (2005)","Drama, Mecha, Sci-Fi, Shounen, Sports",TV,13,7.24,11386
+619,"Mouretsu Pirates","Sci-Fi, Space",TV,26,7.24,48245
+620,"RD Sennou Chousashitsu","Action, Sci-Fi",TV,26,7.24,16331
+621,"YAT Anshin! Uchuu Ryokou","Adventure, Comedy, Sci-Fi, Shounen",TV,50,7.24,887
+622,"Yuugo: Koushounin","Action, Drama, Military, Mystery, Psychological, Seinen",TV,13,7.24,6108
+623,"Concrete Revolutio: Choujin Gensou - The Last Song","Action, Demons, Drama, Fantasy, Mystery, Sci-Fi, Super Power, Supernatural",TV,11,7.23,16116
+624,"Cyborg 009 (1979)","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,50,7.23,3625
+625,"Digimon Adventure 02 Movies","Adventure, Fantasy, Kids, Sci-Fi",Movie,2,7.23,26543
+626,"Dirty Pair OVA","Adventure, Comedy, Police, Sci-Fi",OVA,10,7.23,2783
+627,"Doraemon Movie 16: Nobita no Sousei Nikki","Adventure, Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.23,864
+628,"Macross 7","Action, Adventure, Comedy, Drama, Mecha, Military, Music, Romance, Sci-Fi, Shounen",TV,49,7.23,15420
+629,"Mobile Suit Gundam Seed C.E.73: Stargazer","Mecha, Military, Sci-Fi, Space",ONA,3,7.23,15203
+630,"Uchuu Kyoudai: Number Zero","Comedy, Sci-Fi, Seinen, Slice of Life, Space",Movie,1,7.22,2657
+631,"Aku no Hana","Drama, Psychological, Romance, School",TV,13,7.22,86669
+632,"Aoki Ryuusei SPT Layzner","Mecha, Military, Sci-Fi, Shounen, Space",TV,38,7.22,2378
+633,"Appleseed Alpha","Action, Adventure, Mecha, Military, Police, Sci-Fi",Movie,1,7.22,8048
+634,"Dirty Pair","Adventure, Comedy, Police, Sci-Fi",TV,24,7.22,9131
+635,"Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma no Hibi","Comedy, Mecha, Sci-Fi",Special,1,7.22,3518
+636,"Otaku no Video","Comedy, Drama, Historical, Magic, Mecha, Sci-Fi",OVA,2,7.22,13885
+637,"Rekka no Honoo: Final Burning","Action, Adventure, Magic, Martial Arts, School, Sci-Fi, Super Power",Special,1,7.22,4083
+638,"Tetsuwan Birdy","Action, Comedy, Sci-Fi, Shounen",OVA,4,7.22,13855
+639,"Yoake Mae yori Ruriiro na: Crescent Love","Comedy, Romance, School, Sci-Fi",TV,12,7.22,22770
+640,"Appleseed (Movie)","Action, Drama, Mecha, Military, Police, Sci-Fi, Shounen",Movie,1,7.21,49553
+641,"Chikyuu Bouei Kigyou Dai-Guard","Adventure, Comedy, Mecha, Military, Sci-Fi",TV,26,7.21,4838
+642,"Harmony","Psychological, Sci-Fi",Movie,1,7.21,25245
+643,"Iria: Zeiram The Animation","Action, Adventure, Sci-Fi, Space",OVA,6,7.21,10208
+644,"Kiddy Grade: Ignition","Action, Mecha, Sci-Fi, Super Power",Movie,1,7.21,3466
+645,"Mekakucity Actors","Comedy, Romance, Sci-Fi, Super Power, Supernatural",TV,12,7.21,198876
+646,"Muteki Choujin Zanbot 3","Action, Drama, Mecha, Sci-Fi, Shounen",TV,23,7.21,1570
+647,"Muv-Luv Alternative: Total Eclipse","Action, Mecha, Military, Sci-Fi",TV,24,7.21,55531
+648,"Photon","Action, Adventure, Comedy, Drama, Ecchi, Mecha, Romance, Sci-Fi",OVA,6,7.21,7935
+649,"Saishuu Heiki Kanojo: Another Love Song","Drama, Romance, Sci-Fi",OVA,2,7.21,12239
+650,"Tenchi Muyou! Manatsu no Eve","Action, Comedy, Sci-Fi, Shounen, Space",Movie,1,7.21,10523
+651,"Yoroiden Samurai Troopers","Adventure, Samurai, Sci-Fi, Shounen",TV,39,7.21,11015
+652,"Armitage III","Action, Adventure, Mecha, Police, Romance, Sci-Fi",OVA,4,7.2,14930
+653,"Freezing","Action, Drama, Ecchi, Harem, Martial Arts, Romance, Sci-Fi, Seinen",TV,12,7.2,159273
+654,"Kyoushoku Soukou Guyver II","Action, Adventure, Drama, Horror, Sci-Fi",OVA,6,7.2,4876
+655,"Sousei no Aquarion","Action, Mecha, Romance, Sci-Fi, Super Power, Supernatural",TV,26,7.2,46647
+656,"Space Adventure Cobra","Action, Adventure, Sci-Fi, Space",Movie,1,7.2,3586
+657,"Toaru Majutsu no Index: Endymion no Kiseki Special","Action, Magic, Sci-Fi, Super Power",Special,1,7.2,11241
+658,"Uchuu Densetsu Ulysses 31","Action, Adventure, Sci-Fi, Space",TV,26,7.2,2297
+659,"Biohazard: Degeneration","Action, Horror, Sci-Fi",Movie,1,7.19,20172
+660,"Bubblegum Crisis Tokyo 2040","Adventure, Mecha, Sci-Fi, Shounen",TV,26,7.19,20079
+661,"Devilman: Tanjou-hen","Demons, Horror, Sci-Fi, Supernatural",OVA,1,7.19,7171
+662,"Dirty Pair: The Movie","Adventure, Comedy, Police, Sci-Fi",Movie,1,7.19,3227
+663,"Escaflowne","Adventure, Drama, Fantasy, Mecha, Romance, Sci-Fi, Shoujo",Movie,1,7.19,37379
+664,"Ghost in the Shell: Stand Alone Complex - Solid State Society - Uchikoma no Hibi","Comedy, Mecha, Sci-Fi",Special,1,7.19,8937
+665,"Hi no Tori: Uchuu-hen","Drama, Fantasy, Sci-Fi",OVA,1,7.19,1158
+666,"Kyattou Ninden Teyandee","Action, Comedy, Mecha, Sci-Fi, Shounen, Super Power",TV,54,7.19,7112
+667,"Yuri Kuma Arashi","Drama, Fantasy, Psychological, School, Seinen, Shoujo Ai",TV,12,7.19,48549
+668,"Armitage III: Poly-Matrix","Action, Adventure, Mecha, Military, Police, Romance, Sci-Fi",Movie,1,7.18,9186
+669,"Cobra The Animation","Action, Adventure, Sci-Fi, Space",TV,13,7.18,4361
+670,"Cyborg Kuro-chan","Comedy, Sci-Fi",TV,66,7.18,3188
+671,"Halo Legends","Action, Drama, Military, Sci-Fi",ONA,9,7.18,21190
+672,"Mahoromatic: I&#039;m Home!","Comedy, Ecchi, Romance, Sci-Fi",Special,2,7.18,5760
+673,"Mahou no Tenshi Creamy Mami","Comedy, Fantasy, Magic, Romance, School, Sci-Fi, Shoujo",TV,52,7.18,5112
+674,"Ninja Senshi Tobikage","Adventure, Mecha, Sci-Fi, Shounen, Space",TV,43,7.18,1941
+675,"Shin Getter Robo tai Neo Getter Robo","Action, Mecha, Sci-Fi, Shounen",OVA,4,7.18,2339
+676,"Tenchi Muyou! Ryououki 2nd Season Picture Drama","Comedy, Sci-Fi, Shounen, Space",Special,1,7.18,3626
+677,"Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo","Action, Adventure, Drama, Sci-Fi, Space",Movie,1,7.18,2579
+678,"Yuusha Tokkyuu Might Gaine","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,47,7.18,1021
+679,"B&#039;T X","Adventure, Mecha, Sci-Fi, Shounen",TV,25,7.17,5913
+680,"Dual Parallel! Trouble Adventures","Action, Comedy, Harem, Mecha, Sci-Fi, Shounen",TV,13,7.17,10636
+681,"Madlax","Drama, Magic, Military, Mystery, Psychological, Shounen, Supernatural",TV,26,7.17,25995
+682,"Mahoromatic 2 End Year Special","Comedy, Ecchi, Military, Romance, Sci-Fi",Special,1,7.17,4236
+683,"Seihou Bukyou Outlaw Star Specials","Action, Adventure, Comedy, Ecchi, Sci-Fi",Special,2,7.16,1509
+684,"Soukou Kihei Votoms: Kakuyaku taru Itan","Drama, Mecha, Military, Sci-Fi",OVA,5,7.17,1761
+685,"Soukou no Strain","Drama, Ecchi, Mecha, Military, Sci-Fi, Space",TV,13,7.17,14925
+686,"Urusei Yatsura Movie 3: Remember My Love","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,1,7.17,2897
+687,"Wonderful Days","Action, Drama, Romance, Sci-Fi",Movie,1,7.17,23422
+688,"Ao no 6-gou","Action, Adventure, Mecha, Military, Sci-Fi",OVA,4,7.16,29487
+689,"Bomberman Jetters","Action, Adventure, Comedy, Mystery, Sci-Fi, Shounen",TV,52,7.16,1876
+690,"Classroom☆Crisis","School, Sci-Fi",TV,13,7.16,55977
+691,"Digimon Tamers: Bousou Digimon Tokkyuu","Adventure, Comedy, Sci-Fi, Shounen",Movie,1,7.16,14037
+692,"Dirty Pair: Lovely Angels yori Ai wo Komete","Action, Adventure, Comedy, Police, Sci-Fi",OVA,2,7.16,2038
+693,"Giant Gorg","Adventure, Mecha, Sci-Fi",TV,26,7.16,1300
+694,"Kachou Ouji","Adventure, Comedy, Music, Sci-Fi, Slice of Life",TV,13,7.16,16111
+695,"Mazinkaiser SKL","Adventure, Comedy, Mecha, Sci-Fi, Shounen",OVA,3,7.16,6941
+696,"Mirai Shounen Conan (Movie)","Adventure, Drama, Sci-Fi",Movie,1,7.16,917
+697,"Mobile Suit Gundam Seed: After-Phase Between the Stars","Action, Drama, Mecha, Sci-Fi",Special,1,7.16,9594
+698,"Punch Line","Comedy, Ecchi, Sci-Fi, Super Power, Supernatural",TV,12,7.16,93000
+699,"RahXephon: Pluralitas Concentio","Action, Drama, Mecha, Psychological, Romance, Sci-Fi",Movie,1,7.16,10524
+700,"Re: Cutie Honey","Action, Comedy, Ecchi, Sci-Fi, Shoujo Ai",OVA,3,7.16,10378
+701,"Seikimatsu Occult Gakuin","Comedy, Mystery, School, Sci-Fi, Supernatural",TV,13,7.16,65021
+702,"Shangri-La","Action, Drama, Sci-Fi",TV,24,7.16,38495
+703,"Sousei no Aquarion OVA","Action, Mecha, Romance, Sci-Fi, Super Power, Supernatural",OVA,2,7.16,7691
+704,"Uchuu no Kishi Tekkaman Blade OVA: Twin Blood","Action, Mecha, Sci-Fi, Shounen",OVA,1,7.16,2432
+705,"Aldnoah.Zero 2nd Season","Action, Mecha, Sci-Fi, Space",TV,12,7.15,149364
+706,"Buki yo Saraba","Action, Drama, Sci-Fi",Movie,1,7.15,5078
+707,"Choujigen Game Neptune The Animation","Action, Comedy, Fantasy, Parody, Sci-Fi, Supernatural",TV,12,7.15,71901
+708,"Doraemon: The Day When I Was Born","Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.15,645
+709,"Roujin Z","Comedy, Drama, Mecha, Sci-Fi",OVA,1,7.15,9358
+710,"Shippuu! Iron Leaguer","Sci-Fi, Shounen, Sports",TV,52,7.15,432
+711,"Soukou Kihei Votoms: Koei Futatabi","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,7.15,1590
+712,"Strike Witches","Action, Ecchi, Magic, Military, Sci-Fi",TV,12,7.15,96159
+713,"Wata no Kuni Hoshi","Drama, Fantasy, Psychological, Romance, Shoujo",Movie,1,7.15,1835
+714,".hack//Sign","Adventure, Fantasy, Game, Magic, Mystery, Sci-Fi",TV,26,7.14,110304
+715,"30th Gundam Perfect Mission","Mecha, Sci-Fi",OVA,1,7.14,3963
+716,"Aura Battler Dunbine","Adventure, Mecha, Sci-Fi",TV,49,7.14,3694
+717,"Cyborg 009 (TV)","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,26,7.14,3496
+718,"Devilman: Yochou Sirene-hen","Demons, Horror, Sci-Fi, Supernatural",OVA,1,7.14,5858
+719,"Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.14,52690
+720,"Gakusen Toshi Asterisk","Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",TV,12,7.14,168657
+721,"Galaxy Angel","Comedy, Sci-Fi",TV,24,7.14,17601
+722,"Hotori: Tada Saiwai wo Koinegau","Drama, Sci-Fi",Movie,1,7.14,3701
+723,"IS: Infinite Stratos 2 - World Purge-hen","Action, Comedy, Harem, Mecha, Sci-Fi",OVA,1,7.14,28626
+724,"Last Exile: Ginyoku no Fam","Action, Adventure, Sci-Fi",TV,21,7.14,28616
+725,"Seihou Bukyou Outlaw Star Pilot","Action, Sci-Fi, Space",Special,1,7.14,4046
+726,"Terra Formars","Action, Drama, Horror, Sci-Fi, Seinen, Space",TV,13,7.14,95964
+727,"Blue Gender","Adventure, Drama, Horror, Mecha, Military, Romance, Sci-Fi, Space",TV,26,7.13,40581
+728,"Blue Seed","Action, Adventure, Comedy, Demons, Drama, Ecchi, Horror, Mystery, Romance, Sci-Fi",TV,26,7.13,15194
+729,"Captain Future","Action, Adventure, Sci-Fi, Shounen",TV,52,7.13,1837
+730,"Galaxy Angel Z Special","Comedy, Sci-Fi",Special,1,7.13,2208
+731,"Generator Gawl","Action, Adventure, Comedy, Drama, Sci-Fi, Shounen",TV,12,7.13,5457
+732,"Gunslinger Girl: Il Teatrino OVA","Action, Drama, Military, Sci-Fi",OVA,2,7.13,15785
+733,"Medarot","Adventure, Comedy, Sci-Fi, Shounen",TV,52,7.13,30148
+734,"Robotica*Robotics","Psychological, Sci-Fi, Shounen Ai, Slice of Life",OVA,1,7.12,5769
+735,"Saint Seiya: Kamigami no Atsuki Tatakai","Adventure, Sci-Fi, Shounen",Movie,1,7.13,8894
+736,"Sky Girls","Mecha, Military, Sci-Fi",TV,26,7.13,17115
+737,"Yamato Takeru","Action, Adventure, Fantasy, Magic, Mecha, Sci-Fi, Shounen, Space",TV,37,7.13,883
+738,"Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e","Drama, Romance, Sci-Fi, Shoujo",Movie,1,7.12,880
+739,"Deadman Wonderland OVA","Action, Horror, Sci-Fi",OVA,1,7.12,78878
+740,"Dennou Boukenki Webdiver","Adventure, Mecha, Sci-Fi, Shounen",TV,52,7.12,876
+741,"Iriya no Sora, UFO no Natsu","Drama, Romance, Sci-Fi",OVA,6,7.12,18254
+742,"IS: Infinite Stratos","Action, Comedy, Harem, Mecha, Sci-Fi",TV,12,7.12,254543
+743,"IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou","Action, Comedy, Harem, Mecha, Sci-Fi",OVA,1,7.12,56577
+744,"Mobile Suit Gundam MS IGLOO: Apocalypse 0079","Mecha, Military, Sci-Fi, Space",OVA,3,7.12,7862
+745,"Mushrambo","Adventure, Drama, Fantasy, Sci-Fi, Shounen",TV,32,7.12,8722
+746,"Scryed Alteration I: Tao","Action, Adventure, Sci-Fi, Shounen, Super Power",Movie,1,7.13,3108
+747,"Yu☆Gi☆Oh! 5D&#039;s: Shinkasuru Kettou! Stardust vs. Red Demon&#039;s","Fantasy, Game, Sci-Fi",Special,1,7.12,5176
+748,"Dr. Slump","Comedy, Sci-Fi, Shounen, Slice of Life",TV,74,7.11,8735
+749,"Gatchaman Crowds Insight: Inbound","Adventure, Sci-Fi",ONA,1,7.11,14786
+750,"Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikoma no Hibi","Comedy, Mecha, Sci-Fi",Special,1,7.11,3444
+751,"Koutetsushin Jeeg","Mecha, Sci-Fi",TV,13,7.11,3627
+752,"Mashin Eiyuuden Wataru","Adventure, Comedy, Mecha, Sci-Fi, Shounen",TV,45,7.11,956
+753,"Rockman.EXE Beast+","Action, Adventure, Game, Mecha, Sci-Fi, Shounen",TV,26,7.11,3224
+754,"Taiyou no Mokushiroku: A Spirit of the Sun","Drama, Sci-Fi",Special,2,7.11,1433
+755,"Toaru Majutsu no Index 10th Anniversary PV","Action, Comedy, Magic, Sci-Fi, Super Power",Special,1,7.11,5052
+756,"Uchuu Senkan Yamato: Kanketsu-hen","Action, Adventure, Drama, Military, Sci-Fi, Space",Movie,1,7.11,1609
+757,"UFO Princess Valkyrie 3: Seiresetsu no Hanayome","Comedy, Magic, Romance, Sci-Fi",OVA,6,7.11,4764
+758,"Densetsu Kyojin Ideon","Drama, Mecha, Sci-Fi, Space",TV,39,7.1,5517
+759,"Digimon Tamers: Boukensha-tachi no Tatakai","Adventure, Drama, Sci-Fi, Shounen",Movie,1,7.1,12676
+760,"Doraemon Meets Hattori the Ninja","Comedy, Kids, Sci-Fi, Shounen",Special,1,7.1,729
+761,"Freezing Vibration","Action, Drama, Ecchi, Harem, Martial Arts, Military, Romance, Sci-Fi, Seinen",TV,12,7.1,79298
+762,"Guilty Crown: Lost Christmas","Action, Drama, Sci-Fi, Super Power",OVA,1,7.1,51604
+763,"Kagaku Ninja-tai Gatchaman","Action, Adventure, Sci-Fi, Shounen",TV,105,7.1,4802
+764,"Lost Universe","Adventure, Comedy, Drama, Sci-Fi, Shounen, Space",TV,26,7.1,9293
+765,"Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys","Action, Adventure, Comedy, Fantasy, Kids, Sci-Fi",Movie,1,7.1,45203
+766,"Starship Operators","Drama, Military, Sci-Fi, Space",TV,13,7.1,9704
+767,"UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku","Comedy, Romance, Sci-Fi",TV,12,7.1,6249
+768,"Chobits Recap","Comedy, Drama, Ecchi, Romance, Sci-Fi",Special,1,7.09,29986
+769,"Cobra The Animation: The Psycho-Gun","Action, Adventure, Mecha, Sci-Fi, Space",OVA,4,7.09,2843
+770,"Cobra The Animation: Time Drive","Action, Adventure, Sci-Fi, Space",OVA,2,7.09,2155
+771,"Dragon Ball Movie 3: Makafushigi Daibouken","Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Movie,1,7.09,25740
+772,"Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,7.09,55789
+773,"Dragonaut: The Resonance Special","Action, Mecha, Romance, Sci-Fi, Space",Special,1,7.09,6311
+774,"Galaxy Angel S","Comedy, Sci-Fi",Special,1,7.09,1205
+775,"Ginga Tetsudou Monogatari: Eien e no Bunkiten","Action, Adventure, Drama, Sci-Fi, Space",TV,24,7.09,2072
+776,"Gokukoku no Brynhildr","Drama, Mystery, Sci-Fi, Seinen",TV,13,7.09,159899
+777,"Jinzou Ningen Kikaider The Animation","Action, Drama, Mecha, Sci-Fi, Shounen",TV,13,7.09,5881
+778,"Key the Metal Idol","Action, Drama, Mecha, Music, Sci-Fi",OVA,15,7.09,7949
+779,"Kurogane no Linebarrels","Action, Mecha, Sci-Fi",TV,24,7.09,30225
+780,"Net Ghost Pipopa","Action, Adventure, Comedy, Kids, Sci-Fi, Shounen",TV,51,7.09,913
+781,"Shinkon Gattai Godannar!! 2nd Season","Comedy, Ecchi, Mecha, Romance, Sci-Fi",TV,13,7.09,4865
+782,"Sora wo Kakeru Shoujo","Adventure, Comedy, Sci-Fi, Space",TV,26,7.09,17574
+783,"Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",OVA,2,7.08,21043
+784,"Eureka Seven: Navigation ray=out","Mecha, Sci-Fi",Special,1,7.08,8630
+785,"IS: Infinite Stratos 2 - Hitonatsu no Omoide","Action, Comedy, Harem, Mecha, Sci-Fi",OVA,1,7.08,27030
+786,"Kurozuka","Action, Drama, Historical, Horror, Romance, Sci-Fi, Vampire",TV,12,7.08,52145
+787,"Saibi","Drama, Psychological, Thriller",Movie,1,7.08,1747
+788,"Shin Tenchi Muyou! Specials","Comedy, Romance, Sci-Fi, Shounen",Special,6,7.08,2233
+789,"Stratos 4 Advance Kanketsu-hen","Comedy, Military, Sci-Fi",OVA,2,7.08,1876
+790,"Urusei Yatsura Movie 6: Itsudatte My Darling","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,1,7.08,2553
+791,"Battle Programmer Shirase","Comedy, Ecchi, Sci-Fi",TV,15,7.07,22292
+792,"Blassreiter","Action, Sci-Fi",TV,24,7.07,55444
+793,"Buddy Complex: Daremo Shiranai Ashita e","Action, Mecha, Sci-Fi",ONA,1,7.07,987
+794,"Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku","Adventure, Fantasy, Martial Arts, Sci-Fi, Shounen, Super Power",OVA,1,7.07,15280
+795,"Gate Keepers","Action, Comedy, Fantasy, Mecha, Sci-Fi, Shounen",TV,24,7.07,14582
+796,"Getter Robo","Action, Mecha, Sci-Fi, Shounen",TV,51,7.07,2938
+797,"Ghost in the Shell: Stand Alone Complex - Solid State Society 3D - Tachikoma no Hibi","Comedy, Mecha, Sci-Fi",Special,3,7.07,3121
+798,"Gundam Build Fighters Try: Island Wars","Action, Mecha, Sci-Fi",OVA,1,7.07,3569
+799,"Macross 7 Encore","Action, Comedy, Drama, Mecha, Music, Sci-Fi, Shounen",OVA,3,7.07,5616
+800,"Mahoromatic End Year Special","Comedy, Ecchi, Military, Romance, Sci-Fi",Special,1,7.07,4783
+801,"Saint Seiya: Saishuu Seisen no Senshi-tachi","Adventure, Sci-Fi, Shounen",Movie,1,7.07,8217
+802,"Tokumu Sentai Shinesman","Action, Comedy, Sci-Fi",OVA,2,7.07,1588
+803,"YAT Anshin! Uchuu Ryokou 2","Adventure, Comedy, Sci-Fi, Shounen",TV,25,7.07,486
+804,".hack//Roots","Adventure, Drama, Fantasy, Game, Sci-Fi",TV,26,7.06,50480
+805,"Dominion","Comedy, Mecha, Police, Sci-Fi",OVA,4,7.06,7850
+806,"Fractale","Adventure, Fantasy, Sci-Fi",TV,11,7.06,55100
+807,"Hyper Police","Action, Comedy, Police, Romance, Sci-Fi",TV,25,7.06,4973
+808,"Katte ni Kaizou","Comedy, Parody, School, Sci-Fi, Shounen",OVA,6,7.06,19904
+809,"New Dominion Tank Police","Comedy, Mecha, Police, Sci-Fi, Shounen",OVA,6,7.06,5062
+810,"Rinne no Lagrange Season 2","Action, Comedy, Mecha, Sci-Fi",TV,12,7.06,19427
+811,"Rockman.EXE","Action, Adventure, Comedy, Game, Mecha, Sci-Fi, Shounen",TV,56,7.06,19212
+812,"Scryed Alteration II: Quan","Action, Adventure, Sci-Fi, Shounen, Super Power",Movie,1,7.06,2438
+813,"Zettai Muteki Raijin-Oh","Adventure, Mecha, School, Sci-Fi, Shounen",TV,51,7.06,592
+814,"Zettai Shounen","Drama, Fantasy, Mystery, Sci-Fi, Shounen",TV,26,7.06,11165
+815,"Ai no Senshi Rainbowman","Action, Adventure, Mecha, Sci-Fi",TV,22,7.05,524
+816,"Hakaima Sadamitsu","Action, Mecha, School, Sci-Fi, Seinen",TV,10,7.05,3300
+817,"It&#039;s a Rumic World: 50th Anniversary Weekly★Shonen Sunday","Comedy, Sci-Fi",Special,1,7.05,2087
+818,"Macross 7 Movie: Ginga ga Ore wo Yondeiru!","Action, Adventure, Comedy, Drama, Mecha, Music, Sci-Fi, Shounen",Movie,1,7.05,5270
+819,"Onegai☆Twins","Comedy, Drama, Harem, School, Sci-Fi",TV,12,7.05,59164
+820,"Queen Emeraldas","Action, Adventure, Sci-Fi",OVA,4,7.05,3279
+821,"Saint Seiya: Jashin Eris","Adventure, Sci-Fi, Shounen",Movie,1,7.05,10277
+822,"Shinigami no Ballad.","Drama, Fantasy, Psychological, Supernatural",TV,6,7.05,32297
+823,"Kantai Collection: KanColle","Action, Military, School, Sci-Fi, Slice of Life",TV,12,7.04,100999
+824,"Kowarekake no Orgel Special","Drama, Music, Sci-Fi, Seinen, Slice of Life",Special,1,7.04,7198
+825,"Macross Flash Back 2012","Drama, Mecha, Military, Sci-Fi",OVA,1,7.04,5199
+826,"Manie-Manie: Meikyuu Monogatari","Adventure, Fantasy, Horror, Sci-Fi, Supernatural",Movie,3,7.04,9568
+827,"Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront","Mecha, Sci-Fi",OVA,3,7.04,6864
+828,"Shin Hokuto no Ken","Action, Martial Arts, Sci-Fi, Shounen",OVA,3,7.04,6426
+829,"Shisha no Teikoku","Historical, Psychological, Sci-Fi",Movie,1,7.04,31182
+830,"The☆Doraemons: The Mysterious Thief Dorapan The Mysterious Cartel","Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,7.04,621
+831,"Tokyo Mew Mew","Adventure, Comedy, Fantasy, Magic, Romance, Sci-Fi, Shoujo, Supernatural",TV,52,7.04,67936
+832,"Uchuu Senkan Yamato (Movie)","Drama, Military, Sci-Fi, Space",Movie,1,7.04,2154
+833,"Vexille: 2077 Nihon Sakoku","Action, Military, Sci-Fi",Movie,1,7.04,14754
+834,"Zone of the Enders: Dolores, I","Action, Adventure, Comedy, Mecha, Military, Sci-Fi, Space",TV,26,7.04,6753
+835,"Accel World: Infinite∞Burst","Action, Game, Romance, School, Sci-Fi",Movie,1,7.03,21916
+836,"Dragon Ball Movie 2: Majinjou no Nemuri Hime","Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen, Super Power",Movie,1,7.03,27194
+837,"Dwaejiui Wang","Drama, Psychological, Seinen, Thriller",Movie,1,7.03,2697
+838,"Iron Kid","Action, Adventure, Comedy, Sci-Fi",TV,26,7.03,908
+839,"Kinnikuman II Sei: Ultimate Muscle 2","Action, Comedy, Martial Arts, Sci-Fi, Shounen, Sports",TV,13,7.03,2019
+840,"Koisuru Tenshi Angelique: Kokoro no Mezameru Toki","Adventure, Comedy, Drama, Fantasy, Magic, Romance, Sci-Fi, Shoujo",TV,13,7.03,6786
+841,"Lostorage Incited WIXOSS","Game, Psychological",TV,12,7.03,21893
+842,"Mirai Shounen Conan 2: Taiga Daibouken","Adventure, Drama, Sci-Fi",TV,24,7.03,931
+843,"Mizu no Kotoba","Drama, Psychological, Sci-Fi",Special,1,7.03,15958
+844,"Rocket Girls","Adventure, Sci-Fi",TV,12,7.03,4794
+845,"1000-nen Joou: Queen Millennia","Adventure, Drama, Fantasy, Sci-Fi",Movie,1,7.02,2078
+846,"Ani*Kuri15","Adventure, Comedy, Drama, Fantasy, Game, Magic, Martial Arts, Mecha, School, Sci-Fi, Slice of Life, Super Power, Supernatural",Special,15,7.02,12926
+847,"Astro Boy: Tetsuwan Atom","Action, Adventure, Kids, Mecha, Sci-Fi, Shounen, Super Power",TV,50,7.02,9331
+848,"Bakuten Shoot Beyblade G Revolution","Action, Adventure, Comedy, Sci-Fi, Shounen, Sports",TV,52,7.02,22429
+849,"Battle Athletess Daiundoukai (TV)","Action, Adventure, Comedy, Drama, School, Sci-Fi, Shounen, Sports",TV,26,7.02,4806
+850,"Clover","Drama, Fantasy, Music, Sci-Fi, Shoujo",Music,1,7.02,8524
+851,"Daikuu Maryuu Gaiking","Adventure, Mecha, Sci-Fi, Shounen",TV,44,7.02,919
+852,"Dual Parallel! Trouble Adventures Special","Comedy, Drama, Harem, Mecha, Romance, Sci-Fi",Special,1,7.02,3631
+853,"Kakurenbo","Horror, Psychological, Supernatural",Movie,1,7.02,22853
+854,"Kyouryuu Boukenki Jura Tripper","Adventure, Drama, Fantasy, Sci-Fi",TV,39,7.02,756
+855,"Project A-Ko","Action, Adventure, Comedy, Mecha, Sci-Fi, Super Power",Movie,1,7.02,7846
+856,"Rinne no Lagrange","Action, Comedy, Mecha, Sci-Fi",TV,12,7.02,41486
+857,"Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then...","Action, Music, Sci-Fi",TV,13,7.02,47588
+858,"Vandread: Gekitou-hen","Action, Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space",OVA,1,7.02,5170
+859,"Zone of the Enders: Idolo","Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",OVA,1,7.02,5564
+860,"Aldnoah.Zero Extra Archives","Action, Mecha, Sci-Fi",Special,1,7.01,6895
+861,"Aoki Ryuusei SPT Layzner OVA","Action, Mecha, Military, Sci-Fi, Shounen, Space",OVA,3,7.01,740
+862,"Armitage III: Dual-Matrix","Action, Adventure, Mecha, Sci-Fi",Movie,1,7.01,11524
+863,"Crusher Joe: The Movie","Action, Adventure, Sci-Fi, Space",Movie,1,7.01,2018
+864,"Ginga Tetsudou 999: Eien no Tabibito Emeraldas","Sci-Fi, Space",Special,1,7.01,799
+865,"Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei","Drama, Sci-Fi, Space",OVA,4,7.01,1236
+866,"Sakura Taisen","Adventure, Mecha, Sci-Fi, Shounen",TV,25,7.01,11293
+867,"Sakura Taisen: Gouka Kenran","Adventure, Mecha, Sci-Fi, Shounen",OVA,6,7.01,2410
+868,"UFO Princess Valkyrie: Special","Comedy, Romance, Sci-Fi",Special,1,7.01,2495
+869,"Urusei Yatsura: Haru da, Tobidase!","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Special,2,7.01,1815
+870,"Zetman","Action, Drama, Horror, Romance, Sci-Fi, Seinen, Supernatural",TV,13,7.01,65633
+871,"Buzzer Beater 2nd Season","Action, Sci-Fi, Shounen, Sports",TV,13,7,5193
+872,"Cossette no Shouzou","Drama, Horror, Magic, Psychological, Romance, Supernatural",OVA,3,7,40318
+873,"Kishin Taisen Gigantic Formula","Mecha, Sci-Fi",TV,26,7,4633
+874,"Mobile Suit Gundam MS IGLOO: The Hidden One Year War","Mecha, Military, Sci-Fi, Space",OVA,3,7,8274
+875,"Overman King Gainer","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,26,7,6551
+876,"Schwarzesmarken","Action, Drama, Historical, Mecha, Military, Sci-Fi",TV,12,7,51632
+877,"Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,6.99,57840
+878,"Fire Tripper","Fantasy, Sci-Fi",OVA,1,6.99,2115
+879,"Ginga Tetsudou 999: Hoshizora wa Time Machine","Drama, Sci-Fi",Movie,1,6.99,443
+880,"Kikaider 01 The Animation","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen",OVA,4,6.99,1710
+881,"Kinnikuman II Sei: Ultimate Muscle","Action, Comedy, Martial Arts, Sci-Fi, Shounen, Sports",TV,13,6.99,2435
+882,"Kuro no Sumika: Chronus","Psychological",Movie,1,6.99,12270
+883,"Mahou Shoujo Madoka★Magica: Concept Movie","Drama, Magic, Psychological, Thriller",Movie,1,6.99,5452
+884,"Megazone 23","Action, Mecha, Music, Mystery, Romance, Sci-Fi",OVA,4,6.99,6483
+885,"NieA Under 7","Comedy, Sci-Fi, Slice of Life",TV,13,6.99,16711
+886,"Uchuusen Sagittarius","Adventure, Sci-Fi",TV,77,6.99,370
+887,"UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage","Comedy, Romance, Sci-Fi",OVA,2,6.99,3993
+888,"Urusei Yatsura Movie 4: Lum The Forever","Action, Adventure, Comedy, Drama, Romance, Sci-Fi",Movie,1,6.99,2745
+889,"Ao no Kanata no Four Rhythm","Drama, School, Sci-Fi, Sports",TV,12,6.98,72174
+890,"Chikyuu Shoujo Arjuna","Adventure, Drama, Magic, Sci-Fi",TV,13,6.98,17520
+891,"Choujikuu Seiki Orguss 02","Action, Adventure, Mecha, Romance, Sci-Fi, Shounen",OVA,6,6.98,1556
+892,"Dokkoida","Action, Adventure, Comedy, Parody, Sci-Fi, Shounen",TV,12,6.98,3462
+893,"Kiddy GiRL-AND","Action, Comedy, Sci-Fi, Super Power",TV,24,6.98,13368
+894,"Mobile Suit Victory Gundam","Drama, Mecha, Military, Sci-Fi, Space",TV,51,6.98,12673
+895,"Nekketsu Saikyou Go-Saurer","Action, Mecha, Sci-Fi",TV,51,6.98,405
+896,"DearS: Kin no Tama desu no?","Comedy, Ecchi, Harem, Romance, Sci-Fi",Special,1,6.97,18412
+897,"Glass no Hana to Kowasu Sekai","Sci-Fi",Movie,1,6.97,17105
+898,"Macross Dynamite 7","Adventure, Comedy, Mecha, Sci-Fi, Shounen",OVA,4,6.97,7280
+899,"Soukou Kihei Votoms: Gen-ei Hen","Action, Drama, Mecha, Military, Sci-Fi",OVA,6,6.97,1454
+900,"Uchuu Senkan Yamato: Aratanaru Tabidachi","Drama, Military, Sci-Fi",Special,1,6.97,1470
+901,"Dirty Pair: Bouryaku no 005-bin","Action, Adventure, Comedy, Police, Sci-Fi",OVA,1,6.96,1915
+902,"Gunparade March: Arata Naru Kougunka","Drama, Mecha, Military, Romance, Sci-Fi, Shounen, Slice of Life",TV,12,6.96,9902
+903,"Super Robot Taisen OG: Divine Wars","Action, Mecha, Sci-Fi",TV,25,6.96,5232
+904,"Tenchi Muyou!: Galaxy Police Mihoshi Space Adventure","Comedy, Magic, Parody, Police, Sci-Fi, Shounen, Space",OVA,1,6.96,6082
+905,"Innocent Venus","Adventure, Drama, Mecha, Military, Sci-Fi",TV,12,6.95,19708
+906,"Keroro","Comedy, Sci-Fi, Shounen",TV,23,6.96,3260
+907,"Kinnikuman II Sei","Action, Comedy, Martial Arts, Sci-Fi, Shounen, Sports",TV,51,6.95,6134
+908,"Mahoutsukai Tai!","Comedy, Magic, Romance, Sci-Fi",TV,13,6.95,5328
+909,"Mobile Suit Gundam: The 08th MS Team - Miller&#039;s Report","Drama, Mecha, Military, Romance, Sci-Fi",Movie,1,6.95,8078
+910,"Shin Tenchi Muyou!","Comedy, Harem, Romance, Sci-Fi, Shounen",TV,26,6.95,22621
+911,"Silent Mobius","Action, Comedy, Drama, Fantasy, Horror, Magic, Romance, Sci-Fi",TV,26,6.95,7664
+912,"Strait Jacket","Action, Fantasy, Sci-Fi",OVA,3,6.95,18975
+913,"Stratos 4 Advance","Comedy, Military, Sci-Fi, Shounen",OVA,6,6.95,2448
+914,"Taiyou no Yuusha Fighbird","Action, Mecha, Sci-Fi",TV,48,6.95,762
+915,"Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!","Action, Adventure, Comedy, Mecha, Sci-Fi",OVA,1,6.95,17209
+916,"Argento Soma","Action, Adventure, Drama, Mecha, Military, Sci-Fi",TV,25,6.94,12809
+917,"Astroganger","Action, Mecha, Sci-Fi",TV,26,6.94,492
+918,"Bakuretsu Tenshi","Adventure, Comedy, Mecha, Sci-Fi",TV,24,6.94,48551
+919,"Fireball Charming","Sci-Fi",TV,13,6.94,5640
+920,"Hi no Tori 2772: Ai no CosmoZone","Adventure, Drama, Fantasy, Sci-Fi",Movie,1,6.94,1717
+921,"Hyakujuu-Ou GoLion","Adventure, Mecha, Sci-Fi, Shounen",TV,52,6.94,5984
+922,"Suteki Tantei Labyrinth","Mystery, Sci-Fi",TV,25,6.94,6412
+923,"Venus Senki","Action, Adventure, Sci-Fi, Space",Movie,1,6.94,5204
+924,"Akihabara Dennou-gumi: 2011-nen no Natsuyasumi","Adventure, Comedy, Mecha, Sci-Fi",Movie,1,6.93,1396
+925,"Asobi ni Iku yo!: Asobi ni Oide","Comedy, Ecchi, Harem, Romance, Sci-Fi",OVA,1,6.93,24545
+926,"Chou Denji Robo Combattler V","Adventure, Mecha, Sci-Fi, Shounen",TV,54,6.93,1369
+927,"Dorami &amp; Doraemons: Space Land&#039;s Critical Event","Adventure, Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,6.93,457
+928,"Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,6.93,57623
+929,"Heroman","Action, Sci-Fi, Shounen",TV,26,6.93,23405
+930,"Mirai Shounen Conan: Tokubetsu-hen - Kyodaiki Gigant no Fukkatsu","Adventure, Drama, Sci-Fi",Movie,1,6.93,753
+931,"Onegai☆Teacher: Marie, Ai no Gekijou","Comedy, Drama, Romance, Sci-Fi",Special,1,6.93,7254
+932,"Onegai☆Teacher: Reminiscence Disc","Comedy, Romance, Sci-Fi",OVA,1,6.93,2503
+933,"Sengoku Majin Goushougun","Mecha, Parody, Sci-Fi",TV,26,6.93,849
+934,"Shutsugeki! Machine Robo Rescue","Action, Mecha, Sci-Fi",TV,53,6.93,636
+935,"Spirit of Wonder: Shounen Kagaku Club","Drama, Sci-Fi, Seinen, Space",OVA,2,6.93,1613
+936,"Tytania","Adventure, Military, Psychological, Romance, Sci-Fi, Space",TV,26,6.93,13363
+937,"Bakuretsu Tenshi: Infinity Specials","Action, Mecha, Sci-Fi",Special,3,6.92,4678
+938,"Devilman Lady","Action, Drama, Horror, Psychological",TV,26,6.92,8665
+939,"Kono Minikuku mo Utsukushii Sekai","Comedy, Drama, Magic, Romance, Sci-Fi",TV,12,6.92,41756
+940,"Mirai Keisatsu Urashiman","Comedy, Police, Sci-Fi",TV,50,6.92,776
+941,"Mobile Police Patlabor: WXIII","Mecha, Police, Sci-Fi",Movie,1,6.92,5480
+942,"Viewtiful Joe","Action, Comedy, Sci-Fi, Shounen",TV,51,6.92,5420
+943,"Wonder Beat Scramble","Action, Sci-Fi, Space",TV,26,6.92,457
+944,".hack//G.U. Returner","Adventure, Drama, Fantasy, Game, Magic, Sci-Fi",OVA,1,6.91,15412
+945,"Asobot Senki Gokuu","Comedy, Sci-Fi",TV,52,6.91,1633
+946,"Bakuretsu Tenshi: Infinity","Action, Comedy, Mecha, Sci-Fi, Shounen",OVA,1,6.91,11734
+947,"Bubuki Buranki: Hoshi no Kyojin","Action, Drama, Mecha, Sci-Fi",TV,12,6.91,10837
+948,"Galaxy Angel Specials","Comedy, Sci-Fi",Special,2,6.91,1105
+949,"Harlock Saga: Nibelung no Yubiwa","Action, Adventure, Drama, Sci-Fi, Seinen, Space",OVA,6,6.91,3244
+950,"Terra e... (TV) Specials","Adventure, Drama, Sci-Fi",Special,3,6.91,1990
+951,"Terra Formars Revenge","Action, Drama, Horror, Sci-Fi, Seinen, Space",TV,13,6.91,34176
+952,"Uchuu Kuubo Blue Noah","Action, Drama, Military, Sci-Fi, Space",TV,24,6.91,612
+953,"Vandread: Taidou-hen","Action, Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space",OVA,1,6.91,5185
+954,"Akai Koudan Zillion","Action, Adventure, Military, Sci-Fi, Shounen",TV,31,6.9,1826
+955,"Corrector Yui","Adventure, Comedy, Magic, Sci-Fi",TV,52,6.9,7411
+956,"Doraemon&#039;s Time Capsule for 2001","Adventure, Comedy, Kids, Sci-Fi, Shounen",Special,1,6.9,570
+957,"Gate Keepers 21","Action, Drama, Mecha, Sci-Fi, Shounen",OVA,6,6.9,7363
+958,"Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!","Sci-Fi, Space",Special,1,6.9,730
+959,"GR: Giant Robo","Adventure, Mecha, Military, Sci-Fi, Shounen",TV,13,6.9,1546
+960,"Green Legend Ran","Adventure, Drama, Sci-Fi",OVA,3,6.9,2908
+961,"Highlander: The Search for Vengeance","Action, Horror, Sci-Fi",Movie,1,6.9,9997
+962,"Kiddy GiRL-AND Pilot","Action, Sci-Fi, Super Power",OVA,1,6.9,3539
+963,"Kidou Senkan Nadesico: The Prince of Darkness","Action, Comedy, Drama, Mecha, Psychological, Sci-Fi, Shounen, Space",Movie,1,6.9,9738
+964,"Mobile Suit Gundam F91","Drama, Mecha, Military, Sci-Fi, Space",Movie,1,6.9,13456
+965,"Soukou Kihei Votoms: Big Battle","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,6.9,1753
+966,"Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden","Drama, Sci-Fi, Space",TV,13,6.9,2169
+967,"UFO Princess Valkyrie","Comedy, Ecchi, Magic, Sci-Fi",TV,12,6.9,11794
+968,"Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",Movie,1,6.89,53765
+969,"Eat-Man &#039;98","Action, Adventure, Sci-Fi, Shounen, Super Power",TV,12,6.89,2757
+970,"Hatsumei Boy Kanipan","Adventure, Comedy, Mecha, Sci-Fi",TV,31,6.89,375
+971,"Sonic★the★Hedgehog","Adventure, Comedy, Sci-Fi, Shounen",OVA,2,6.89,7297
+972,"Sora no Otoshimono Final: Eternal My Master","Comedy, Ecchi, Harem, Sci-Fi, Shounen, Supernatural",Movie,1,6.89,48730
+973,"Starship Troopers: Invasion","Action, Military, Sci-Fi",Movie,1,6.89,2493
+974,"Tottemo! Luckyman","Comedy, Sci-Fi, Shounen, Super Power",TV,50,6.89,439
+975,"Blue Drop: Tenshi-tachi no Gikyoku","Drama, Sci-Fi, Shoujo Ai",TV,13,6.88,19968
+976,"Dragon Drive","Action, Adventure, Comedy, Fantasy, School, Sci-Fi, Shounen",TV,38,6.88,14232
+977,"Eureka Seven AO","Action, Adventure, Drama, Mecha, Sci-Fi",TV,24,6.88,56453
+978,"eX-Driver","Action, Adventure, Cars, Comedy, Sci-Fi, Shounen",OVA,6,6.88,5217
+979,"Inaka Isha","Dementia, Drama, Historical, Psychological",Movie,1,6.88,10030
+980,"Mobile Suit Gundam 0083: The Fading Light of Zeon","Action, Adventure, Mecha, Sci-Fi, Space",Movie,1,6.88,4759
+981,"Night Head Genesis","Drama, Horror, Mystery, Psychological, Supernatural",TV,24,6.88,20856
+982,"Rinne no Lagrange: Kamogawa Days","Comedy, School, Sci-Fi, Slice of Life",OVA,1,6.88,5793
+983,"Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist. Specials","Action, Music, Sci-Fi",Special,4,6.88,1363
+984,"Asobi ni Iku yo!","Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,12,6.87,95005
+985,"Concrete Revolutio: Choujin Gensou","Action, Demons, Drama, Fantasy, Mystery, Sci-Fi, Super Power, Supernatural",TV,13,6.87,46938
+986,"Getter Robo G","Action, Mecha, Sci-Fi, Shounen",TV,39,6.87,1088
+987,"Ginga Tetsudou 999: Eternal Fantasy","Action, Drama, Sci-Fi, Space",Movie,1,6.87,1896
+988,"Hikari to Mizu no Daphne","Comedy, Drama, Mystery, Police, Psychological, Sci-Fi",TV,24,6.87,8876
+989,"Juusenki L-Gaim","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen, Space",TV,54,6.87,2211
+990,"Sousei no Aquarion Evol","Mecha, Romance, Sci-Fi",Special,1,6.87,3752
+991,"The☆Doraemons: Dokidoki Kikansha Daibakusou!","Adventure, Comedy, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,6.87,450
+992,"Tokusou Kihei Dorvack","Action, Mecha, Sci-Fi",TV,36,6.87,360
+993,"Viper&#039;s Creed","Action, Military, Sci-Fi",TV,12,6.87,7393
+994,"Yuusha Raideen","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,50,6.87,989
+995,".hack//Unison","Adventure, Comedy, Fantasy, Game, Magic, Sci-Fi",Special,1,6.86,16411
+996,"Cluster Edge Specials","Action, Fantasy, Military, Sci-Fi",Special,3,6.86,927
+997,"Doraemon and Itchy the Stray","Comedy, Kids, Sci-Fi, Shounen",Special,1,6.86,549
+998,"Fireball","Comedy, Sci-Fi",TV,13,6.86,6601
+999,"Kikou Senki Dragonar","Adventure, Mecha, Sci-Fi, Shounen, Space",TV,48,6.86,1961
+1000,"Koukaku no Pandora: Ghost Urn","Action, Comedy, Ecchi, Sci-Fi",Movie,1,6.86,3327
+1001,"Piyoko ni Omakase pyo!","Comedy, Sci-Fi, Shounen",OVA,8,6.86,1480
+1002,"Soukou Kihei Votoms: Pailsen Files the Movie","Mecha, Military, Sci-Fi, Space",Movie,1,6.86,915
+1003,"Spirit of Wonder: China-san Tanpenshuu","Comedy, Sci-Fi, Seinen",Special,3,6.86,861
+1004,"Stratos 4 OVA","Comedy, Military, Sci-Fi, Shounen",OVA,2,6.86,2133
+1005,"Tailenders","Action, Adventure, Cars, Sci-Fi",Movie,1,6.86,8474
+1006,"Boku no Chikyuu wo Mamotte: Kiniro no Toki Nasarete","Drama, Music, Romance, Sci-Fi, Shoujo",Special,1,6.85,610
+1007,"Choujuu Kishin Dancougar","Action, Mecha, Sci-Fi, Shounen",TV,38,6.85,1806
+1008,"Di Gi Charat","Comedy, Fantasy, Sci-Fi",TV,16,6.85,12227
+1009,"Dirty Pair Flash 2","Action, Adventure, Comedy, Ecchi, Police, Sci-Fi",OVA,5,6.85,1539
+1010,"DNA²","Comedy, Romance, Sci-Fi",TV,12,6.85,23140
+1011,"eX-Driver the Movie","Action, Adventure, Cars, Comedy, Sci-Fi, Shounen",Movie,1,6.85,2791
+1012,"Hand Maid May","Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,10,6.85,17895
+1013,"Hand Maid May Special","Comedy, Ecchi, Harem, Romance, Sci-Fi",Special,1,6.85,5984
+1014,"Koutetsu Tenshi Kurumi Encore","Comedy, Historical, Romance, Sci-Fi, Shounen",OVA,4,6.85,4734
+1015,"Sacred Seven: Shirogane no Tsubasa","Action, School, Sci-Fi, Super Power",Movie,1,6.85,3940
+1016,"Soratobu Yuureisen","Adventure, Drama, Mecha, Sci-Fi",Movie,1,6.85,2634
+1017,"Transformers: Choujin Master Force","Adventure, Mecha, Sci-Fi, Shounen",TV,47,6.85,1574
+1018,"Turn A Gundam II Movie: Moonlight Butterfly","Action, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,6.85,2396
+1019,"Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu","Adventure, Fantasy, Sci-Fi, Shounen",Movie,1,6.84,51924
+1020,"Jikuu Boukenki Zentrix","Adventure, Mecha, Sci-Fi",TV,26,6.84,392
+1021,"Project BLUE Chikyuu SOS","Adventure, Comedy, Sci-Fi, Shounen",TV,6,6.84,1892
+1022,"Sengoku Majin Goushougun: Toki no Etranger","Action, Sci-Fi",Movie,1,6.83,1027
+1023,"Shinkon Gattai Godannar!!","Comedy, Ecchi, Mecha, Romance, Sci-Fi",TV,13,6.83,8688
+1024,"Transformers Victory","Adventure, Mecha, Sci-Fi, Shounen",TV,44,6.83,1418
+1025,"Ushinawareta Mirai wo Motomete","Drama, Romance, School, Sci-Fi",TV,12,6.83,47565
+1026,"Dirty Pair Flash","Action, Adventure, Comedy, Ecchi, Police, Sci-Fi",OVA,6,6.82,4505
+1027,"Doraemon: Featherplace","Comedy, Fantasy, Kids, Sci-Fi, Shounen",Special,1,6.82,430
+1028,"Fight Ippatsu! Juuden-chan!!","Comedy, Ecchi, Sci-Fi, Shounen",TV,12,6.82,20279
+1029,"Gad Guard","Adventure, Mecha, Sci-Fi, Shounen",TV,26,6.82,8315
+1030,"IS: Infinite Stratos 2","Action, Comedy, Harem, Mecha, Sci-Fi",TV,12,6.82,146979
+1031,"Mobile Police Patlabor Reboot","Comedy, Mecha, Police, Sci-Fi",Movie,1,6.82,2303
+1032,"Tenkai Knights","Action, Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen, Super Power",TV,52,6.82,1249
+1033,"Yamato yo Towa ni","Action, Adventure, Drama, Military, Sci-Fi, Space",Movie,1,6.82,1148
+1034,"Bakuten Shoot Beyblade","Action, Adventure, Comedy, Sci-Fi, Shounen, Sports",TV,51,6.81,49467
+1035,"Cyborg 009 VS Devilman","Action, Demons, Sci-Fi, Shounen, Super Power, Supernatural",OVA,3,6.81,3081
+1036,"Dragonaut: The Resonance","Action, Drama, Fantasy, Mecha, Romance, Sci-Fi",TV,25,6.81,45265
+1037,"Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka?","Drama, Sci-Fi, Space",Special,1,6.81,783
+1038,"Hurricane Polymar","Action, Adventure, Police, Sci-Fi, Super Power",TV,26,6.81,738
+1039,"Mobile Suit Gundam ZZ","Comedy, Drama, Mecha, Military, Sci-Fi, Space",TV,47,6.81,17517
+1040,"Mokei Senshi Gunpla Builders Beginning G","Action, Mecha, Sci-Fi, Shounen",Special,3,6.81,2995
+1041,"Nobunaga the Fool","Action, Historical, Mecha, Sci-Fi",TV,24,6.81,59815
+1042,"Ray The Animation","Drama, Romance, Sci-Fi",TV,13,6.81,7756
+1043,"Spriggan","Adventure, Military, Sci-Fi, Shounen",Movie,1,6.81,13256
+1044,"Tekken: Blood Vengeance","Action, Fantasy, Martial Arts, Sci-Fi, Supernatural",Movie,1,6.81,12816
+1045,"Transformers Micron Densetsu","Action, Mecha, Sci-Fi, Shounen",TV,52,6.81,5095
+1046,"Bannou Bunka Neko-Musume","Adventure, Comedy, Mecha, Sci-Fi, Seinen",OVA,6,6.8,6122
+1047,"Choujikuu Seiki Orguss","Action, Adventure, Mecha, Romance, Sci-Fi, Shounen",TV,35,6.8,2271
+1048,"DearS","Comedy, Ecchi, Harem, Romance, Sci-Fi",TV,12,6.8,91037
+1049,"Gilgamesh","Drama, Fantasy, Sci-Fi, Supernatural",TV,26,6.8,25332
+1050,"God Eater Prologue","Action, Fantasy, Military, Sci-Fi",Special,1,6.8,19414
+1051,"Mushi-Uta","Action, Fantasy, Sci-Fi",TV,12,6.8,11867
+1052,"Uchuu no Kishi Tekkaman Blade OVA: Burning Clock","Action, Mecha, Sci-Fi, Shounen",OVA,1,6.8,1120
+1053,"Uchuu Senkan Yamato 2199: Tsuioku no Koukai","Action, Drama, Military, Sci-Fi, Space",Special,1,6.8,950
+1054,"Appleseed","Action, Adventure, Mecha, Police, Sci-Fi",OVA,1,6.79,16552
+1055,"Bakuto Sengen Daigander","Adventure, Mecha, Sci-Fi, Shounen",TV,39,6.79,1174
+1056,"Je T&#039;aime","Sci-Fi",OVA,1,6.79,3830
+1057,"Kiss Dum: Engage Planet","Mecha, Military, Sci-Fi",TV,26,6.79,6658
+1058,"Mirai Nikki (TV): Ura Mirai Nikki","Action, Comedy, Mystery, Psychological, Shounen, Supernatural, Thriller",Special,10,6.79,32565
+1059,"Soreyuke! Uchuu Senkan Yamamoto Yohko (1999)","Action, Adventure, Sci-Fi",TV,26,6.79,2430
+1060,"Super Robot Taisen OG The Animation","Mecha, Sci-Fi, Shounen, Space",OVA,3,6.79,2653
+1061,"Uchuu Senshi Baldios","Adventure, Drama, Mecha, Sci-Fi, Shounen, Space",TV,34,6.79,600
+1062,"Five Star Stories","Action, Drama, Fantasy, Mecha, Sci-Fi",Movie,1,6.78,5343
+1063,"Fushigi no Umi no Nadia Specials","Adventure, Sci-Fi",Special,10,6.78,1927
+1064,"Ginga Tetsudou 999: Glass no Clair","Drama, Sci-Fi, Space",Movie,1,6.78,1134
+1065,"Koharu Biyori","Comedy, Ecchi, Sci-Fi",OVA,3,6.78,14560
+1066,"Mezzo DSA","Action, Adventure, Comedy, Mystery, Sci-Fi",TV,13,6.78,11750
+1067,"Occultic;Nine","Mystery, Sci-Fi",TV,12,6.78,82532
+1068,"Planetarium Uchuu Kyoudai: Itten no Hikari","Comedy, Sci-Fi, Seinen, Slice of Life",Movie,1,6.79,2800
+1069,"Tamala 2010: A Punk Cat in Space","Comedy, Dementia, Psychological, Sci-Fi",Movie,1,6.78,3343
+1070,"Bakuten Shoot Beyblade 2002","Action, Adventure, Comedy, Sci-Fi, Shounen, Sports",TV,51,6.77,27959
+1071,"Betterman","Action, Adventure, Comedy, Drama, Horror, Mecha, Mystery, Psychological, Sci-Fi, Shounen",TV,26,6.77,8037
+1072,"Choujikuu Kidan Southern Cross","Action, Drama, Mecha, Sci-Fi",TV,23,6.77,3855
+1073,"Doraemon Movie: Boku, Momotarou no Nanna no Sa","Adventure, Fantasy, Kids, Sci-Fi, Shounen",Movie,1,6.77,591
+1074,"Eureka Seven: New Order","Adventure, Drama, Mecha, Romance, Sci-Fi",Special,1,6.77,5900
+1075,"Grendizer: Getter Robo G - Great Mazinger Kessen! Daikaijuu","Action, Mecha, Sci-Fi, Shounen",Movie,1,6.77,1179
+1076,"IGPX: Immortal Grand Prix","Mecha, Sci-Fi, Shounen, Sports",TV,5,6.77,2392
+1077,"Katte ni Kaizou Specials","Comedy, Parody, School, Sci-Fi, Shounen",Special,3,6.77,1736
+1078,"Tetsujin 28-gou: Hakuchuu no Zangetsu","Action, Adventure, Mecha, Sci-Fi",Movie,1,6.77,404
+1079,"009 Re:Cyborg","Action, Adventure, Mecha, Sci-Fi",Movie,1,6.76,8307
+1080,"Chikyuu Bouei Kazoku","Action, Comedy, Sci-Fi, Shounen",TV,13,6.76,726
+1081,"Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!","Action, Adventure, Comedy, Fantasy, Sci-Fi, Supernatural",Special,1,6.76,4327
+1082,"Freedom Previsited","Action, Adventure, Sci-Fi",OVA,1,6.76,1990
+1083,"Kurogane Communication","Action, Adventure, Drama, Sci-Fi",TV,24,6.76,2928
+1084,"Medarot Damashii","Action, Adventure, Sci-Fi",TV,39,6.76,9590
+1085,"Mobile Suit Gundam AGE: Memory of Eden","Action, Drama, Mecha, Military, Sci-Fi",OVA,2,6.76,2405
+1086,"Persona: Trinity Soul","Action, Sci-Fi, Super Power",TV,26,6.76,48744
+1087,".hack//Tasogare no Udewa Densetsu","Adventure, Comedy, Fantasy, Game, Sci-Fi, Shounen",TV,12,6.75,47679
+1088,"Choujuushin Gravion Zwei","Adventure, Comedy, Mecha, Sci-Fi, Shounen",TV,12,6.75,5808
+1089,"Doraemon: It&#039;s New Year!","Comedy, Kids, Sci-Fi, Shounen",Special,1,6.75,476
+1090,"E&#039;s Otherwise","Adventure, Comedy, Drama, Military, Sci-Fi, Shounen, Supernatural",TV,26,6.75,11704
+1091,"Ginga Tetsudou 999: Diamond Ring no Kanata e","Adventure, Drama, Sci-Fi",Movie,1,6.75,745
+1092,"Gun Frontier","Action, Adventure, Drama, Historical, Sci-Fi, Seinen",TV,13,6.75,4732
+1093,"Hakugei Densetsu","Adventure, Sci-Fi",TV,26,6.75,1387
+1094,"Jetter Mars","Action, Drama, Mecha, Sci-Fi",TV,27,6.75,382
+1095,"Kemeko Deluxe!","Action, Comedy, Ecchi, Romance, School, Sci-Fi, Shounen",TV,12,6.75,26991
+1096,"Persona 4 the Golden Animation","Adventure, Mystery, School, Sci-Fi, Super Power, Supernatural",TV,12,6.75,39165
+1097,"Space Cobra Pilot","Action, Adventure, Sci-Fi, Space",Special,1,6.75,873
+1098,"Stratos 4","Comedy, Military, Sci-Fi, Shounen",TV,13,6.75,6909
+1099,"Transformers Galaxy Force","Adventure, Mecha, Sci-Fi, Shounen",TV,52,6.75,2790
+1100,"Wild Arms: Twilight Venom","Action, Adventure, Fantasy, Magic, Sci-Fi, Vampire",TV,22,6.75,4750
+1101,".hack//Liminality","Game, Mystery, Sci-Fi",OVA,4,6.74,24304
+1102,"Amazing Nuts!","Adventure, Music, Police, Romance, Sci-Fi",Music,4,6.74,6650
+1103,"Coyote Ragtime Show","Action, Adventure, Comedy, Mecha, Sci-Fi, Shounen",TV,12,6.74,13036
+1104,"Gasaraki","Drama, Mecha, Military, Psychological, Supernatural",TV,25,6.74,10770
+1105,"Madou King Granzort: Saigo no Magical Taisen","Action, Comedy, Fantasy, Magic, Mecha, Sci-Fi, Shounen",OVA,2,6.74,214
+1106,"Sacred Seven","Action, School, Sci-Fi, Super Power",TV,12,6.74,47136
+1107,"Sky Girls OVA","Mecha, Military, Sci-Fi",OVA,1,6.74,5673
+1108,"Spirit of Wonder: China-san no Yuuutsu","Romance, Sci-Fi, Seinen",OVA,1,6.74,1947
+1109,"Tokyo Underground","Action, Adventure, Romance, Sci-Fi, Shounen, Super Power",TV,26,6.74,17920
+1110,"Appleseed XIII Remix Movie 1: Yuigon","Action, Mecha, Military, Police, Sci-Fi",Movie,1,6.74,2478
+1111,"DNA² OVA","Comedy, Drama, Sci-Fi",OVA,3,6.73,8003
+1112,"Dr. Slump Movie 02: &quot;Hoyoyo!&quot; Uchuu Daibouken","Comedy, Sci-Fi, Shounen",Movie,1,6.73,596
+1113,"Element Hunters","Sci-Fi, Shounen",TV,39,6.73,9115
+1114,"Ghost in the Shell: Stand Alone Complex - Tachikoma no Hibi Fan Disc","Comedy, Mecha, Sci-Fi",Special,3,6.73,3159
+1115,"Ghost in the Shell: The New Movie Virtual Reality Diver","Police, Sci-Fi, Seinen",Special,1,6.73,2575
+1116,"Ougon Bat","Action, Sci-Fi, Super Power",TV,52,6.73,446
+1117,"Project A-Ko 2: Daitokuji Zaibatsu no Inbou","Action, Comedy, Mecha, Sci-Fi, Super Power",OVA,1,6.73,2876
+1118,"Saber Marionette R","Action, Comedy, Harem, Mecha, Sci-Fi",OVA,3,6.73,4928
+1119,"Shin Cutey Honey","Adventure, Comedy, Ecchi, Magic, Sci-Fi",OVA,8,6.73,3455
+1120,"Tondemo Senshi Muteking","Action, Comedy, Kids, Magic, Mecha, Sci-Fi, Shounen, Super Power",TV,56,6.73,243
+1121,"Toushi Gordian","Action, Mecha, Sci-Fi",TV,73,6.73,310
+1122,"Akihabara Dennou-gumi","Adventure, Mecha, Sci-Fi, Shoujo",TV,26,6.72,3935
+1123,"Bannou Bunka Neko-Musume Specials","Action, Adventure, Comedy, Mecha, Sci-Fi, Seinen",Special,2,6.72,950
+1124,"Blue Seed 1.5","Comedy, Romance, Sci-Fi",OVA,2,6.72,1326
+1125,"Bomberman B-Daman Bakugaiden","Comedy, Sci-Fi, Shounen",TV,48,6.72,1419
+1126,"Choujuu Kishin Dancougar: God Bless Dancougar","Action, Mecha, Sci-Fi",OVA,1,6.72,667
+1127,"Cutey Honey F","Action, Adventure, Comedy, Magic, Romance, Sci-Fi, Shoujo",TV,39,6.72,3495
+1128,"Dirty Pair Flash 3","Action, Adventure, Comedy, Ecchi, Police, Sci-Fi",OVA,5,6.72,1450
+1129,"Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima","Comedy, Sci-Fi, Shounen",Movie,1,6.72,916
+1130,"Dr. Slump Movie 04: Arale-chan Hoyoyo! Nanaba Shiro no Hihou","Comedy, Sci-Fi, Shounen",Movie,1,6.72,686
+1131,"Dragon Ball GT","Action, Adventure, Comedy, Fantasy, Magic, Sci-Fi, Shounen, Super Power",TV,64,6.72,226625
+1132,"Ghost in the Shell: Arise - Another Mission","Action, Mecha, Police, Sci-Fi",Special,1,6.72,6649
+1133,"Juushin Liger","Action, Mecha, Sci-Fi",TV,43,6.72,575
+1134,"M3: Sono Kuroki Hagane","Action, Drama, Mecha, Mystery, Psychological, Sci-Fi",TV,24,6.72,38301
+1135,"Sakura Taisen: Ouka Kenran","Adventure, Mecha, Sci-Fi, Shounen",OVA,4,6.72,2890
+1136,"Transformers: Car Robots","Adventure, Comedy, Mecha, Sci-Fi, Shounen",TV,39,6.72,2524
+1137,"Turn A Gundam I Movie: Earth Light","Action, Drama, Mecha, Military, Sci-Fi, Space",Movie,1,6.72,2444
+1138,"Video Senshi Lezarion","Action, Mecha, Sci-Fi",TV,45,6.72,344
+1139,".hack//Intermezzo","Adventure, Fantasy, Game, Magic, Mystery, Sci-Fi",Special,1,6.71,16637
+1140,"Alien 9","Horror, School, Sci-Fi",OVA,4,6.71,15425
+1141,"Bakuten Shoot Beyblade the Movie: Gekitou!! Takao vs. Daichi","Action, Adventure, Comedy, Sci-Fi, Shounen, Sports",Movie,1,6.71,5334
+1142,"Burn Up Excess","Action, Adventure, Comedy, Ecchi, Police, Sci-Fi, Shounen",TV,13,6.71,6402
+1143,"Galactic Patrol Lensman","Action, Adventure, Sci-Fi",TV,25,6.71,487
+1144,"Gekiganger 3: The Movie","Action, Comedy, Mecha, Parody, Sci-Fi, Shounen",OVA,1,6.71,2562
+1145,"Natsu-iro no Sunadokei","Drama, Romance, Sci-Fi",OVA,2,6.71,6327
+1146,"Sengoku Otome: Momoiro Paradox","Action, Comedy, Historical, Samurai, Sci-Fi, Super Power",TV,13,6.71,27080
+1147,"Windaria","Action, Drama, Fantasy, Romance, Sci-Fi",Movie,1,6.71,4905
+1148,"Yuusha Exkaiser","Action, Mecha, Sci-Fi, Shounen",TV,48,6.71,648
+1149,"Bomberman B-Daman Bakugaiden V","Sci-Fi, Shounen",TV,50,6.7,932
+1150,"Eat-Man","Action, Adventure, Sci-Fi, Shounen, Super Power",TV,12,6.7,4041
+1151,"Gall Force 1: Eternal Story","Action, Adventure, Mecha, Military, Sci-Fi, Space",Movie,1,6.7,2780
+1152,"Narue no Sekai","Comedy, Romance, Sci-Fi",TV,12,6.7,11544
+1153,"Onkyo Seimeitai Noiseman","Action, Fantasy, Sci-Fi",Movie,1,6.7,5295
+1154,"Trava: Fist Planet","Action, Comedy, Mecha, Sci-Fi, Space",OVA,4,6.7,8535
+1155,"UFO Robo Grendizer: Akai Yuuhi no Taiketsu","Mecha, Sci-Fi",Movie,1,6.7,252
+1156,"Bannou Bunka Neko-Musume (1998)","Action, Adventure, Comedy, Mecha, Sci-Fi, Seinen",TV,12,6.69,4038
+1157,"Glass no Kantai: La Legende du Vent de l&#039;Univers","Adventure, Sci-Fi",TV,24,6.69,8052
+1158,"Guitar wo Motta Shounen: Kikaider vs. Inazuman","Sci-Fi, Shounen",Special,1,6.69,678
+1159,"Mushrambo (2008)","Action, Adventure, Fantasy, Sci-Fi",OVA,2,6.69,831
+1160,"Parasite Dolls","Action, Mecha, Police, Sci-Fi",OVA,3,6.69,6156
+1161,"Psychoarmor Govarian","Action, Mecha, Sci-Fi, Super Power",TV,26,6.69,352
+1162,"Soukou Kihei Votoms: Case; Irvine","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,6.69,1710
+1163,"Star Ocean EX","Adventure, Fantasy, Sci-Fi, Shounen",TV,26,6.69,9024
+1164,"Transformers Headmasters","Adventure, Mecha, Sci-Fi, Shounen",TV,35,6.69,1768
+1165,"Trouble Chocolate","Comedy, Romance, Sci-Fi, Shounen",TV,20,6.69,2747
+1166,"Amon: Devilman Mokushiroku","Demons, Horror, Psychological, Supernatural",OVA,1,6.68,7706
+1167,"Appleseed XIII Remix Movie 2: Yogen","Action, Mecha, Military, Police, Sci-Fi",Movie,1,6.68,2423
+1168,"Brave Witches","Action, Ecchi, Magic, Military, Sci-Fi",TV,12,6.68,19544
+1169,"Busou Shinki Moon Angel","Action, Sci-Fi",ONA,10,6.68,9743
+1170,"Chargeman Ken!","Action, Adventure, Sci-Fi, Shounen",TV,65,6.68,427
+1171,"Cosmo Warrior Zero","Action, Adventure, Military, Sci-Fi, Space",TV,13,6.68,2613
+1172,"Cutey Honey","Action, Adventure, School, Sci-Fi",TV,25,6.68,6596
+1173,"Detonator Orgun","Action, Mecha, Sci-Fi",OVA,3,6.68,2809
+1174,"iDOLM@STER Xenoglossia","Action, Comedy, Mecha, Sci-Fi",TV,26,6.68,15338
+1175,"Kyuukyoku Choujin R","Comedy, Sci-Fi",OVA,1,6.68,492
+1176,"Puni Puni☆Poemii","Comedy, Magic, Sci-Fi, Shounen",OVA,2,6.68,21987
+1177,"Tetsujin 28-gou","Adventure, Mecha, Sci-Fi, Shounen",TV,96,6.68,1194
+1178,"Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi","Adventure, Sci-Fi",TV,12,6.68,9248
+1179,"Wakusei Robo Danguard Ace","Mecha, Sci-Fi, Shounen",TV,56,6.68,488
+1180,"X/1999","Action, Drama, Fantasy, Horror, Magic, Sci-Fi, Supernatural",Movie,1,6.68,23038
+1181,"Z/X: Ignition","Adventure, Fantasy, Game, Sci-Fi",TV,12,6.68,24788
+1182,"Zettai Muteki Raijin-Oh (1992)","Mecha, Sci-Fi, Shounen",OVA,4,6.68,224
+1183,".hack//G.U. Trilogy: Parody Mode","Comedy, Fantasy, Game, Parody, Sci-Fi",Special,1,6.67,7952
+1184,"Bubblegum Crash","Action, Adventure, Mecha, Sci-Fi, Shounen",OVA,3,6.67,4826
+1185,"Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi","Adventure, Drama, Sci-Fi",ONA,5,6.67,378
+1186,"Meme Iroiro Yume no Tabi","Adventure, Kids, Sci-Fi",TV,127,6.67,317
+1187,"RahXephon Specials","Action, Drama, Mecha, Music, Mystery, Romance, Sci-Fi",Special,2,6.67,2566
+1188,"Rizelmine","Comedy, Ecchi, Romance, School, Sci-Fi",TV,24,6.67,16672
+1189,"Ryuuseiki Gakusaver","Action, Comedy, Mecha, Parody, School, Sci-Fi, Space",OVA,6,6.67,547
+1190,"Sky Girls Specials","Comedy, Mecha, Military, Sci-Fi",Special,9,6.67,3008
+1191,"Soukyuu no Fafner: Arcadian Memory","Action, Drama, Mecha, Military, Sci-Fi",OVA,2,6.67,1723
+1192,"Battle Athletess Daiundoukai","Action, Comedy, Ecchi, Sci-Fi, Shounen, Space, Sports",OVA,6,6.66,3115
+1193,"Chouon Senshi Borgman","Action, Demons, Sci-Fi, Shounen",TV,35,6.66,947
+1194,"Crusher Joe (1989)","Action, Adventure, Sci-Fi",OVA,2,6.66,1279
+1195,"Fight Ippatsu! Juuden-chan!! OVA","Comedy, Ecchi, Sci-Fi",OVA,1,6.66,1285
+1196,"Ginga Patrol PJ","Drama, Military, Sci-Fi, Space",TV,26,6.66,316
+1197,"Koukaku no Pandora","Action, Comedy, Ecchi, Sci-Fi",TV,12,6.66,25545
+1198,"Maroko","Comedy, Sci-Fi",Movie,1,6.66,353
+1199,"UFO Robo Grendizer tai Great Mazinger","Mecha, Sci-Fi",Movie,1,6.66,923
+1200,"Baldr Force Exe Resolution","Action, Drama, Mecha, Sci-Fi",OVA,4,6.65,12443
+1201,"Busou Shinki OVA","Action, Sci-Fi",OVA,1,6.65,4158
+1202,"Choujin Locke","Action, Sci-Fi, Super Power",Movie,1,6.65,1250
+1203,"Dirty Pair no Ooshoubu: Nolandia no Nazo","Action, Adventure, Comedy, Police, Sci-Fi",OVA,1,6.65,2045
+1204,"Eden&#039;s Bowy","Action, Adventure, Fantasy, Romance, Sci-Fi",TV,26,6.65,4106
+1205,"Examurai Sengoku","Action, Martial Arts, Samurai, Sci-Fi",TV,24,6.65,2701
+1206,"Gall Force 2: Destruction","Action, Military, Sci-Fi, Space",OVA,1,6.65,1372
+1207,"Go-Q-Choji Ikkiman","Sci-Fi, Sports",TV,32,6.65,295
+1208,"Project A-Ko 4: Final","Action, Comedy, Mecha, Sci-Fi, Super Power",OVA,1,6.65,2467
+1209,"Reideen","Action, Mecha, Sci-Fi",TV,26,6.65,5736
+1210,"Saint Seiya: Legend of Sanctuary","Adventure, Fantasy, Sci-Fi, Shounen",Movie,1,6.65,10776
+1211,"Uchuu Kaizoku Mito no Daibouken","Action, Comedy, Sci-Fi",TV,13,6.65,1009
+1212,"Uchuu Senshi Baldios (Movie)","Action, Mecha, Sci-Fi, Space",Movie,1,6.65,451
+1213,"Dynamic Super Robots Soushingekki","Action, Mecha, Sci-Fi, Shounen",Special,3,6.64,507
+1214,"eX-Driver: Nina &amp; Rei Danger Zone","Action, Cars, Sci-Fi",OVA,1,6.64,2297
+1215,"Gokukoku no Brynhildr Special","Comedy, Ecchi, Harem, Sci-Fi, Seinen",Special,1,6.64,20758
+1216,"Kikou Kai Galient","Action, Fantasy, Mecha, Sci-Fi",TV,25,6.64,1164
+1217,"Kinkyuu Hasshin Saver Kids","Action, Adventure, Comedy, Mecha, Sci-Fi",TV,50,6.64,225
+1218,"Last Exile: Ginyoku no Fam Movie - Over the Wishes","Action, Adventure, Sci-Fi",Movie,1,6.64,1948
+1219,"Muteki Robo Trider G7","Comedy, Mecha, Sci-Fi, Space",TV,50,6.64,350
+1220,"Project A-Ko 3: Cinderella Rhapsody","Action, Comedy, Mecha, Sci-Fi, Super Power",OVA,1,6.64,2601
+1221,"Tokyo ESP","Action, Comedy, Sci-Fi, Shounen, Super Power, Supernatural",TV,12,6.64,95168
+1222,"Beautiful World","Action, Drama, Mecha, Music, Sci-Fi",Music,1,6.62,1215
+1223,"Gall Force 3: Stardust War","Action, Military, Sci-Fi, Space",OVA,1,6.63,1281
+1224,"Kagaku Ninja-tai Gatchaman F","Action, Adventure, Sci-Fi, Shounen",TV,48,6.63,810
+1225,"Shin Megami Tensei Devil Children","Action, Adventure, Demons, Fantasy, Game, Kids, Magic, Sci-Fi, Supernatural",TV,50,6.63,1110
+1226,"Terra e...","Action, Drama, Sci-Fi, Shounen",Movie,1,6.63,4807
+1227,"Arc the Lad","Action, Adventure, Fantasy, Horror, Sci-Fi",TV,26,6.62,10392
+1228,"ChäoS;HEAd","Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,12,6.62,174337
+1229,"Dimension W Special","Sci-Fi, Seinen",Special,1,6.62,4593
+1230,"Kaze no Na wa Amnesia","Action, Dementia, Drama, Sci-Fi",Movie,1,6.62,8230
+1231,"Shin Megami Tensei Devil Children: Light &amp; Dark","Action, Adventure, Demons, Fantasy, Game, Kids, Magic, Sci-Fi, Supernatural",TV,52,6.62,800
+1232,"Madou King Granzort: Bouken-hen","Action, Comedy, Fantasy, Magic, Mecha, Sci-Fi, Shounen",OVA,3,6.61,196
+1233,"Sakura Taisen: Ecole de Paris","Action, Adventure, Game, Harem, Mecha, Sci-Fi",OVA,3,6.61,2201
+1234,"Android Ana Maico 2010","Comedy, Drama, Sci-Fi, Seinen",TV,24,6.6,1896
+1235,"Blue Seed 2","Action, Comedy, Drama, Ecchi, Horror, Mystery, Sci-Fi, Supernatural",OVA,3,6.6,3790
+1236,"Chou Supercar Gattiger","Action, Cars, Sci-Fi",TV,25,6.6,199
+1237,"Computer Kakumei: Saikyou x Saisoku no Zunou Tanjou","Sci-Fi",Special,1,6.6,5171
+1238,"Macross 25th Anniversary: All That VF Macross F Version","Action, Mecha, Sci-Fi",ONA,1,6.6,2219
+1239,"Mission-E","Action, Comedy, School, Sci-Fi",TV,12,6.6,3931
+1240,"Mobile Suit Gundam AGE","Action, Mecha, Sci-Fi, Space",TV,49,6.6,18031
+1241,"Soukou Kihei Votoms: Vol.1 Stories of the &#039;A.T. Votoms&#039;","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,6.6,289
+1242,"Argento Soma Special","Action, Mecha, Sci-Fi",Special,1,6.59,2508
+1243,"Avengers Confidential: Black Widow to Punisher","Action, Sci-Fi, Seinen",Movie,1,6.59,1742
+1244,"Cyborg 009: Chou Ginga Densetsu","Action, Sci-Fi, Space",Movie,1,6.59,1003
+1245,"Gatchaman","Action, Adventure, Martial Arts, Sci-Fi, Shounen, Super Power",OVA,3,6.59,1407
+1246,"Hacka Doll The Animation","Comedy, Sci-Fi",TV,13,6.59,19502
+1247,"Macross 25th Anniversary: All That VF Macross Zero Version","Action, Mecha, Sci-Fi",ONA,1,6.59,2062
+1248,"Rockman Hoshi ni Negai wo","Action, Adventure, Sci-Fi",OVA,3,6.59,1979
+1249,"Sakura Taisen: Le Nouveau Paris","Adventure, Mecha, Sci-Fi, Shounen",OVA,3,6.59,1608
+1250,"Zoids Fuzors","Adventure, Mecha, Sci-Fi, Shounen",TV,26,6.59,7087
+1251,"Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd","Comedy, Mecha, Police, Sci-Fi",TV,12,6.58,10517
+1252,"Babel Nisei (1973)","Adventure, Sci-Fi, Shounen, Supernatural",TV,39,6.58,655
+1253,"Chogattai Majutsu Robot Ginguiser","Adventure, Mecha, Sci-Fi, Shounen",TV,26,6.58,409
+1254,"Future GPX Cyber Formula: Early Days Renewal","Drama, Sci-Fi, Shounen, Sports",OVA,2,6.58,338
+1255,"Genji Tsuushin Agedama","Action, Comedy, Parody, Sci-Fi",TV,51,6.58,477
+1256,"Kagaku Ninja-tai Gatchaman II","Action, Adventure, Sci-Fi, Shounen",TV,52,6.58,903
+1257,"Kikou Kantai Dairugger XV","Action, Adventure, Mecha, Sci-Fi, Shounen",TV,52,6.58,1121
+1258,"Midnight Eye: Gokuu","Action, Mystery, Sci-Fi, Seinen",OVA,1,6.58,2670
+1259,"Yamato Takeru: After War","Action, Adventure, Fantasy, Magic, Mecha, Sci-Fi, Shounen, Space",OVA,2,6.58,243
+1260,"Galaxy Angel Rune","Comedy, Sci-Fi",TV,13,6.57,3551
+1261,"Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa","Adventure, Comedy, Sci-Fi, Shounen",OVA,4,6.57,984
+1262,"Muu no Hakugei","Action, Fantasy, Sci-Fi",TV,26,6.57,344
+1263,"To Heart: Remember My Memories","Drama, Harem, Romance, School, Sci-Fi, Slice of Life",TV,13,6.57,5752
+1264,"Twilight Q","Mystery, Psychological, Sci-Fi",OVA,2,6.57,2962
+1265,"Coppelion","Action, Sci-Fi, Seinen",TV,13,6.56,76291
+1266,"Doraemon: Nobita to Mirai Note","Adventure, Fantasy, Kids, Sci-Fi, Shounen",OVA,1,6.56,271
+1267,"Dr. Slump Movie 07: Arale-chan N-cha! Penguin Mura yori Ai wo Komete","Comedy, Sci-Fi, Shounen",Movie,1,6.56,575
+1268,"Last Exile: Ginyoku no Fam Recaps","Action, Adventure, Sci-Fi",Special,2,6.56,4621
+1269,"Maetel Legend","Drama, Sci-Fi, Space",OVA,2,6.56,1974
+1270,"Panda-Z: The Robonimation","Action, Comedy, Kids, Mecha, Parody, Sci-Fi, Shounen",TV,30,6.56,1358
+1271,"Rinne no Lagrange: Kamogawa Memoria","Action, Comedy, Mecha, Sci-Fi",Special,1,6.56,1787
+1272,"Tondera House no Daibouken","Adventure, Historical, Sci-Fi",TV,52,6.56,630
+1273,"Vividred Operation","Action, Ecchi, Sci-Fi",TV,12,6.56,45869
+1274,"Akuu Daisakusen Srungle","Action, Mecha, Sci-Fi",TV,53,6.55,518
+1275,"Beast Wars Second Chou Seimeitai Transformers","Action, Mecha, Sci-Fi",TV,43,6.55,1327
+1276,"Daishizen no Majuu: Bagi","Action, Romance, Sci-Fi",Movie,1,6.55,1479
+1277,"Genshi Shounen Ryuu","Action, Adventure, Romance, Sci-Fi, Shounen",TV,22,6.55,731
+1278,"Get Ride! AMDriver","Adventure, Mecha, Sci-Fi, Shounen",TV,51,6.55,1061
+1279,"Megami Kouhosei","Action, Mecha, Military, Sci-Fi, Space",TV,12,6.55,14757
+1280,"Sakura Taisen: Katsudou Shashin","Adventure, Mecha, Sci-Fi, Shounen",Movie,1,6.55,4010
+1281,"Soukou Kihei Votoms: Vol.2 Highlights of the &#039;A.T. Votoms&#039;","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,6.55,283
+1282,"Tactical Roar","Comedy, Military, Romance, Sci-Fi",TV,13,6.55,6479
+1283,"Twin Signal: Family Game","Action, Comedy, Mecha, Sci-Fi",OVA,3,6.55,1026
+1284,"Uchuu no Kishi Tekkaman","Action, Adventure, Mecha, Sci-Fi, Shounen, Space",TV,26,6.55,1059
+1285,"Under the Dog","Action, Sci-Fi, Thriller",OVA,1,6.55,29922
+1286,"Angelique: Seichi yori Ai wo Komete","Adventure, Comedy, Drama, Fantasy, Romance, Sci-Fi, Shoujo",OVA,3,6.54,1946
+1287,"Bannou Bunka Neko-Musume DASH!","Action, Comedy, Ecchi, Romance, Sci-Fi",OVA,12,6.54,3473
+1288,"Bobobo-bo Bo-bobo Recap","Action, Comedy, Parody, Sci-Fi, Shounen",Special,1,6.54,606
+1289,"Cosmo Warrior Zero Gaiden","Adventure, Drama, Military, Sci-Fi, Space",Special,2,6.54,1215
+1290,"Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi","Comedy, Sci-Fi, Shounen",Movie,1,6.54,553
+1291,"Kagaku Kyuujo-tai TechnoVoyager","Action, Adventure, Mecha, Sci-Fi, Space",TV,18,6.54,377
+1292,"Kagaku Ninja-tai Gatchaman (Movie)","Action, Adventure, Sci-Fi, Shounen",Movie,1,6.54,694
+1293,"Mass Effect: Paragon Lost","Action, Adventure, Sci-Fi",Movie,1,6.54,5305
+1294,"Sonic X","Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen",TV,78,6.54,28296
+1295,"Angelique","Drama, Fantasy, Romance, Sci-Fi, Shoujo",OVA,3,6.53,3523
+1296,"Casshern: Robot Hunter","Adventure, Mecha, Sci-Fi",OVA,4,6.53,4497
+1297,"Chiisana Kyojin Microman","Action, Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen, Super Power",TV,52,6.53,411
+1298,"Chou Dendou Robo Tetsujin 28-gou FX","Action, Adventure, Mecha, Sci-Fi",TV,47,6.53,354
+1299,"Gall Force: Chikyuu Shou","Action, Mecha, Military, Sci-Fi",OVA,3,6.53,1098
+1300,"Groizer X","Mecha, Sci-Fi",TV,36,6.53,298
+1301,"Hundred","Action, Ecchi, Harem, Mecha, Romance, School, Sci-Fi",TV,12,6.53,92396
+1302,"Mazinger Z tai Dr. Hell","Action, Drama, Mecha, Sci-Fi, Shounen",Movie,1,6.53,630
+1303,"Next A-Class","Action, Cars, Sci-Fi",ONA,1,6.53,4394
+1304,"Rhea Gall Force","Action, Mecha, Military, Sci-Fi",OVA,1,6.53,1085
+1305,"The Ultraman","Action, Sci-Fi, Shounen, Space, Super Power",TV,50,6.53,737
+1306,"Yonimo Osoroshii Grimm Douwa","Dementia, Horror, Psychological",OVA,3,6.53,683
+1307,"Appleseed XIII","Action, Mecha, Military, Police, Sci-Fi",OVA,13,6.52,9336
+1308,"Black Magic M-66","Action, Mecha, Military, Sci-Fi",OVA,1,6.52,5496
+1309,"Blassreiter: Navi","Action, Sci-Fi",Special,1,6.52,2914
+1310,"Code-E","Comedy, Romance, School, Sci-Fi, Slice of Life",TV,12,6.52,12238
+1311,"Demashita! Powerpuff Girls Z","Action, Comedy, Magic, School, Sci-Fi, Shoujo, Slice of Life, Super Power",TV,52,6.52,13624
+1312,"Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen","Action, Adventure, Mecha, Sci-Fi",OVA,1,6.52,208
+1313,"Hello Harinezumi: Satsui no Ryoubun","Drama, Mystery, Psychological, Seinen",OVA,1,6.52,1213
+1314,"Just Awake","Action, Music, Sci-Fi",Music,1,6.52,1057
+1315,"Kite Liberator","Action, Drama, Sci-Fi",OVA,1,6.52,15827
+1316,"Mobile Suit SD Gundam Mk I","Mecha, Parody, Sci-Fi",Special,3,6.52,2371
+1317,"Rokushin Gattai GodMars","Action, Mecha, Sci-Fi, Space",TV,64,6.52,917
+1318,"Sakura Taisen: Sumire","Adventure, Drama, Mecha, Sci-Fi, Shounen",OVA,1,6.52,1655
+1319,"Soukou Kihei Votoms Recaps","Action, Drama, Mecha, Military, Sci-Fi",OVA,4,6.52,358
+1320,"TO","Action, Sci-Fi",OVA,2,6.52,3869
+1321,".hack//Versus: The Thanatos Report","Action, Game, Sci-Fi",Special,1,6.51,4474
+1322,"Ajin Senshi","Fantasy, Sci-Fi",Movie,1,6.51,603
+1323,"Silent Mobius: The Motion Picture","Adventure, Sci-Fi, Supernatural",Movie,1,6.51,2194
+1324,"Tetsuwan Atom: Uchuu no Yuusha","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen",Movie,1,6.51,661
+1325,"Time Bokan Series: Time Patroltai Otasukeman","Action, Adventure, Comedy, Sci-Fi",TV,53,6.51,341
+1326,"Ayakashi","Action, Fantasy, Horror, Sci-Fi",TV,12,6.5,20882
+1327,"Burn Up! W","Comedy, Ecchi, Mecha, Sci-Fi, Shounen",OVA,4,6.5,5750
+1328,"Captain Earth","Action, Mecha, Romance, Sci-Fi, Space",TV,25,6.5,43137
+1329,"Choujin Sentai Baratack","Adventure, Mecha, Sci-Fi",TV,31,6.5,330
+1330,"Choujuushin Gravion","Action, Comedy, Mecha, Sci-Fi, Shounen",TV,13,6.5,8364
+1331,"Classroom☆Crisis Special","School, Sci-Fi",Special,1,6.5,2738
+1332,"Final Fantasy: The Spirits Within","Sci-Fi",Movie,1,6.5,53822
+1333,"Galilei Donna","Action, Adventure, Sci-Fi",TV,11,6.5,39413
+1334,"Juusenki L-Gaim III: Full Metal Soldier","Action, Mecha, Sci-Fi, Shounen",OVA,1,6.5,517
+1335,"Mobile Suit SD Gundam Mk II","Mecha, Parody, Sci-Fi",OVA,3,6.5,2112
+1336,"Phantasy Star Online 2 The Animation","Action, Game, School, Sci-Fi",TV,12,6.5,32470
+1337,"RahXephon Interlude: Her and Herself/Thatness and Thereness","Drama, Psychological, Sci-Fi",OVA,1,6.5,5090
+1338,"Shin Mashin Eiyuuden Wataru Majinzan","Action, Adventure, Comedy, Fantasy, Mecha, Sci-Fi",OVA,2,6.5,213
+1339,"A-Ko The Versus","Action, Adventure, Comedy, Romance, Sci-Fi, Super Power",OVA,2,6.49,2457
+1340,"Arata naru Sekai: World&#039;s/Start/Load/End","Sci-Fi",OVA,1,6.49,13647
+1341,"Geneshaft","Adventure, Mecha, Sci-Fi, Space",TV,13,6.49,8643
+1342,"Kyoushoku Soukou Guyver","Action, Horror, Sci-Fi, Super Power",Movie,1,6.49,3185
+1343,"Magnerobo Ga-Keen","Action, Mecha, Sci-Fi",TV,39,6.49,416
+1344,"Nana Toshi Monogatari: Hokkyokukai Sensen","Drama, Sci-Fi",OVA,2,6.49,1085
+1345,"Space Fantasia 2001 Nights","Drama, Sci-Fi, Seinen, Space",OVA,1,6.49,1284
+1346,"Space☆Dandy 2nd Season Picture Drama","Comedy, Sci-Fi, Space",Special,3,6.49,1150
+1347,"Cluster Edge","Action, Fantasy, Military, Sci-Fi",TV,25,6.48,6995
+1348,"Dr. Slump Movie 06: Arale-chan N-cha! Penguin Mura wa Hare Nochi Hare","Comedy, Sci-Fi, Shounen",Movie,1,6.48,557
+1349,"Ghost in the Shell: Arise - Logicoma Specials","Mecha, Sci-Fi",Special,4,6.48,3083
+1350,"Machine Robo: Revenge of Chronos","Action, Mecha, Sci-Fi",TV,47,6.48,632
+1351,"Stratos 4: Logbook","Action, Ecchi, Sci-Fi",Special,1,6.48,1090
+1352,"The☆Doraemons: Goal! Goal! Goal!!","Comedy, Fantasy, Kids, Sci-Fi, Shounen, Sports",Movie,1,6.48,496
+1353,"Uchuu no Kishi Tekkaman Blade II","Action, Adventure, Drama, Mecha, Military, Sci-Fi, Space",OVA,6,6.48,2346
+1354,"AD Police","Adventure, Dementia, Mecha, Mystery, Police, Psychological, Sci-Fi, Thriller",OVA,3,6.47,6112
+1355,"Bubuki Buranki","Action, Drama, Mecha, Sci-Fi",TV,12,6.47,44978
+1356,"Dr. Slump Movie 05: Arale-chan Hoyoyo! Yume no Miyako Mechapolis","Comedy, Sci-Fi, Shounen",Movie,1,6.47,537
+1357,"Heroman Specials","Action, Sci-Fi, Shounen",Special,3,6.47,1879
+1358,"Kishin Heidan","Adventure, Historical, Mecha, Sci-Fi",OVA,7,6.47,1102
+1359,"Macross II: Lovers Again","Adventure, Mecha, Military, Sci-Fi, Shounen, Space",OVA,6,6.47,6760
+1360,"Makyou Densetsu Acrobunch","Mecha, Sci-Fi, Shounen",TV,24,6.47,318
+1361,"Memory (ONA)","Drama, Military, Sci-Fi, Slice of Life",ONA,1,6.47,1505
+1362,"Sol Bianca","Action, Adventure, Sci-Fi, Space",OVA,2,6.47,2723
+1363,"Soreyuke! Uchuu Senkan Yamamoto Yohko II","Action, Adventure, Sci-Fi",OVA,3,6.47,1099
+1364,"Xenosaga The Animation","Action, Mecha, Sci-Fi, Shounen, Space",TV,12,6.47,13827
+1365,"Dr. Slump Movie 03: Arale-chan Hoyoyo! Sekai Isshuu Dai Race","Comedy, Sci-Fi, Shounen",Movie,1,6.46,557
+1366,"DT Eightron","Action, Sci-Fi, Shounen",TV,26,6.46,931
+1367,"F-Zero: Falcon Densetsu","Action, Adventure, Cars, Mecha, Sci-Fi, Shounen, Sports",TV,51,6.46,3863
+1368,"Megami Kouhosei Special Curriculum","Action, Mecha, Military, Sci-Fi, Space",OVA,1,6.46,3710
+1369,"Mobile Suit Gundam Seed MSV Astray","Mecha, Military, Sci-Fi, Shounen, Space",OVA,2,6.46,7336
+1370,"Oira Uchuu no Tankoufu","Action, Adventure, Sci-Fi, Shounen, Space",OVA,2,6.46,734
+1371,"Sol Bianca: Taiyou no Fune","Adventure, Mecha, Sci-Fi, Space",OVA,6,6.46,2947
+1372,"Watt Poe to Bokura no Ohanashi","Adventure, Sci-Fi",OVA,1,6.46,179
+1373,"Blocker Gundan IV Machine Blaster","Action, Mecha, Sci-Fi",TV,38,6.45,325
+1374,"Chouja Raideen","Adventure, Mecha, Sci-Fi, Shounen",TV,38,6.45,1147
+1375,"Dennou Coil Recaps","Adventure, Comedy, Drama, Mystery, Sci-Fi",Special,2,6.45,1342
+1376,"Duan Nao","Mystery, Sci-Fi, Shounen, Thriller",ONA,16,6.42,1812
+1377,"Gowapper 5 Gordam","Action, Adventure, Mecha, Sci-Fi",TV,36,6.45,213
+1378,"Kiss Dum R: Meguriahi","Mecha, Military, Sci-Fi",Special,1,6.45,683
+1379,"009-1: R&amp;B","Action, Sci-Fi, Seinen",Special,1,6.44,2988
+1380,"Arve Rezzle: Kikaijikake no Yousei-tachi","Action, Drama, Mystery, Sci-Fi, Thriller",Movie,1,6.44,18770
+1381,"Boku no Marie","Comedy, Ecchi, Romance, Sci-Fi, Seinen",OVA,3,6.44,2186
+1382,"Boukyaku no Senritsu","Adventure, Fantasy, Horror, Mecha, Psychological, Sci-Fi, Shounen, Space, Supernatural",TV,24,6.44,12169
+1383,"Buttobi!! CPU","Comedy, Ecchi, Magic, Sci-Fi, Seinen",OVA,3,6.44,3968
+1384,"Eureka Seven AO: Jungfrau no Hanabana-tachi","Action, Adventure, Drama, Mecha, Sci-Fi",OVA,1,6.44,6756
+1385,"Fireball Special","Comedy, Sci-Fi",Special,1,6.44,1439
+1386,"Getsumen To Heiki Mina","Comedy, Parody, Sci-Fi",TV,11,6.44,4744
+1387,"Midnight Eye: Gokuu II","Action, Adventure, Mystery, Sci-Fi, Seinen, Super Power",OVA,1,6.44,1688
+1388,"Silent Mobius 2","Adventure, Demons, Fantasy, Sci-Fi, Seinen",Movie,1,6.44,1624
+1389,"StarFox Zero: The Battle Begins","Action, Sci-Fi, Space",ONA,1,6.44,1885
+1390,"Tamala 2010: A Punk Cat in Space OVA","Dementia, Sci-Fi",OVA,2,6.44,505
+1391,"Ten Little Gall Force","Action, Comedy, Mecha, Military, Parody, Sci-Fi, Space",OVA,1,6.44,701
+1392,"Time Bokan Oudou Fukko","Action, Comedy, Mecha, Parody, Sci-Fi",OVA,2,6.44,609
+1393,"Water Brain","Dementia, Fantasy, Sci-Fi",Special,1,6.44,862
+1394,"Divergence Eve 2: Misaki Chronicles","Adventure, Drama, Mecha, Military, Sci-Fi, Space",TV,13,6.43,4790
+1395,"Hi-Speed Jecy","Action, Sci-Fi",OVA,12,6.43,479
+1396,"Loups=Garous","Mystery, Sci-Fi, Thriller",Movie,1,6.43,12350
+1397,"UFO Princess Valkyrie: Recap","Comedy, Romance, Sci-Fi",Special,1,6.44,739
+1398,"UFO Senshi Dai Apolon","Action, Mecha, Sci-Fi",TV,26,6.43,312
+1399,"Wolf Guy","Action, Military, Sci-Fi",OVA,6,6.43,412
+1400,"Dr. Slump Movie 08: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete...","Comedy, Sci-Fi, Shounen",Movie,1,6.42,506
+1401,"Ginga Hyouryuu Vifam: Kieta 12-nin","Action, Adventure, Mecha, Sci-Fi",OVA,1,6.42,205
+1402,"Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa","Action, Mecha, School, Sci-Fi, Seinen, Space",Special,1,6.42,2189
+1403,"Great Mazinger tai Getter Robo","Action, Mecha, Sci-Fi",Movie,1,6.42,976
+1404,"Great Mazinger tai Getter Robo G: Kuuchuu Dai-Gekitotsu","Action, Mecha, Sci-Fi",Movie,1,6.42,786
+1405,"Kirameki☆Project","Comedy, Ecchi, Mecha, Sci-Fi",OVA,5,6.42,1195
+1406,"Kyomu Senshi Miroku","Action, Demons, Fantasy, Historical, Samurai, Sci-Fi, Supernatural",OVA,6,6.42,207
+1407,"Masou Gakuen HxH","Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi",TV,12,6.42,68025
+1408,"Survival","Dementia, Drama, Music, Psychological, School, Supernatural",Music,1,6.42,2153
+1409,"Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou","Action, Mecha, Sci-Fi, Shounen, Super Power",Movie,1,6.42,402
+1410,"Togainu no Chi","Action, Sci-Fi, Shounen Ai",TV,12,6.42,53377
+1411,"Xi Avant","Adventure, Sci-Fi",Movie,1,6.41,2379
+1412,"Busou Shinki","Action, Sci-Fi, Slice of Life",TV,12,6.41,24595
+1413,"Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa","Action, Drama, Military, Sci-Fi, Shounen, Space",Movie,1,6.41,6579
+1414,"Haai Step Jun","Action, Romance, School, Sci-Fi",TV,45,6.41,400
+1415,"Kenritsu Chikyuu Boueigun","Action, Adventure, Comedy, Sci-Fi, Shounen",OVA,1,6.41,939
+1416,"Kikou Keisatsu Metal Jack","Action, Mecha, Police, Sci-Fi",TV,37,6.41,349
+1417,"Koutetsu Tenshi Kurumi 2","Comedy, Mecha, Romance, Sci-Fi, Shoujo Ai, Shounen",TV,12,6.41,8094
+1418,"Submarine Super 99","Action, Adventure, Military, Sci-Fi, Shounen",TV,13,6.41,684
+1419,"Ginga Ojousama Densetsu Yuna: Shin&#039;en no Fairy","Action, Adventure, Comedy, Magic, Mecha, Sci-Fi",OVA,3,6.4,1256
+1420,"Rikujou Bouei-tai Mao-chan","Comedy, Kids, Magic, Military, Sci-Fi",TV,26,6.4,2934
+1421,"Umi kara no Shisha","Action, Mecha, Sci-Fi, Super Power",Movie,1,6.4,826
+1422,"009-1","Action, Mecha, Sci-Fi, Seinen",TV,12,6.39,11097
+1423,"Jikuu Tantei Genshi-kun","Adventure, Comedy, Fantasy, Mystery, Sci-Fi, Shounen",TV,39,6.39,5541
+1424,"Teki wa Kaizoku: Neko-tachi no Kyouen","Comedy, Sci-Fi",OVA,6,6.39,720
+1425,"Uchuu Kazoku Carlvinson","Comedy, Fantasy, Sci-Fi",OVA,1,6.39,649
+1426,"Votoms Finder","Action, Drama, Mecha, Military, Sci-Fi",OVA,1,6.39,1735
+1427,"Accel World: Acchel World.","Comedy, Sci-Fi",Special,8,6.38,26190
+1428,"Akai Koudan Zillion Specials","Adventure, Sci-Fi, Shounen",Special,3,6.38,262
+1429,"Eightman After","Action, Drama, Sci-Fi",OVA,4,6.38,1771
+1430,"Sci-fi Harry","Drama, Horror, Sci-Fi",TV,20,6.38,5194
+1431,"Sora wo Kakeru Shoujo Picture Drama","Adventure, Comedy, Sci-Fi, Space",Special,9,6.38,1716
+1432,"Transformers Superlink","Adventure, Mecha, Sci-Fi, Shounen",TV,51,6.38,2691
+1433,"Uchuu Kaizoku Mito no Daibouken: Futari no Joou-sama","Action, Comedy, Sci-Fi",TV,13,6.38,585
+1434,"Captain Future: Kareinaru Taiyokei Race","Action, Adventure, Sci-Fi",Special,1,6.37,394
+1435,"Choujin Locke: Lord Leon","Action, Sci-Fi, Super Power",OVA,3,6.37,483
+1436,"Densetsu Kyojin Ideon: Sesshoku-hen","Drama, Mecha, Sci-Fi, Space",Movie,1,6.37,1740
+1437,"Kaitei Choutokkyuu: Marine Express","Action, Adventure, Comedy, Drama, Sci-Fi",Special,1,6.37,551
+1438,"Kyoto Animation: Ikitaku Naru Omise-hen","Sci-Fi",Special,1,6.37,2708
+1439,"Time Bokan Series: Gyakuten Ippatsuman","Action, Comedy, Mecha, Sci-Fi",TV,58,6.37,334
+1440,"Akai Shouzou: Char, Soshite Frontal e","Drama, Mecha, Military, Sci-Fi, Shounen, Space",Special,1,6.36,686
+1441,"Blue Gender: The Warrior","Adventure, Drama, Horror, Mecha, Military, Romance, Sci-Fi, Space",Movie,1,6.36,7197
+1442,"Glass no Kantai: La Legende du Vent de l&#039;Univers Specials","Adventure, Sci-Fi",Special,2,6.36,1005
+1443,"Hoshi no Ko Chobin","Adventure, Sci-Fi",TV,26,6.36,231
+1444,"Meiou Project Zeorymer","Action, Drama, Mecha, Psychological, Sci-Fi",OVA,4,6.36,2504
+1445,"Puchitto Gargantia","Mecha, Sci-Fi",ONA,13,6.36,7170
+1446,"Cyborg 009","Action, Adventure, Drama, Sci-Fi, Shounen",Movie,1,6.35,1216
+1447,"Grey: Digital Target","Action, Fantasy, Sci-Fi",Movie,1,6.35,1052
+1448,"Hoshi ni Negai wo: Cold Body + Warm Heart","Adventure, Sci-Fi",ONA,1,6.35,1217
+1449,"Jinki:Extend OVA","Mecha, Sci-Fi",OVA,1,6.35,1985
+1450,"Short Peace Opening","Fantasy, Sci-Fi, Supernatural",Special,1,6.35,2790
+1451,"Taifuu no Noruda","Drama, School, Sci-Fi, Supernatural",Movie,1,6.35,14281
+1452,"Tetsuwan Atom: Atom Tanjou no Himitsu","Drama, Mecha, Sci-Fi",Movie,1,6.35,342
+1453,"Time Bokan 2000: Kaitou Kiramekiman","Action, Adventure, Comedy, Mecha, Sci-Fi",TV,26,6.35,305
+1454,"Amanatsu","Sci-Fi",Movie,1,6.34,1305
+1455,"Azusa, Otetsudai Shimasu!","Comedy, Sci-Fi, Slice of Life, Sports",OVA,1,6.34,1973
+1456,"Burn Up Scramble","Action, Comedy, Drama, Ecchi, Police, Sci-Fi, Shounen",TV,12,6.34,5899
+1457,"Dr. Slump Movie 10: Arale no Bikkuriman","Comedy, Sci-Fi, Shounen",Movie,1,6.34,513
+1458,"Fumoon","Sci-Fi",Special,1,6.34,354
+1459,"Haiyoru! Nyaruani","Comedy, Parody, Sci-Fi",OVA,9,6.34,18386
+1460,"SF Shinseiki Lensman","Action, Adventure, Sci-Fi, Space",Movie,1,6.34,1405
+1461,"Submarine 707R","Action, Adventure, Military, Sci-Fi",OVA,2,6.34,1712
+1462,"Uchuu no Senshi","Mecha, Military, Sci-Fi, Shounen, Space",OVA,6,6.34,2596
+1463,".hack//Tasogare no Udewa Densetsu: Offline de Aimashou","Adventure, Comedy, Fantasy, Game, Sci-Fi",Special,1,6.33,8891
+1464,"Darkside Blues","Horror, Mystery, Psychological, Sci-Fi",Movie,1,6.33,5224
+1465,"Macross FB7: Ore no Uta wo Kike!","Action, Mecha, Music, Romance, Sci-Fi",Movie,1,6.33,2398
+1466,"New Mobile Report Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai","Action, Mecha, Sci-Fi",Special,1,6.33,1555
+1467,"Puchitto Furikaerintia","Action, Adventure, Mecha, Sci-Fi",Special,1,6.33,1003
+1468,"Soreyuke! Uchuu Senkan Yamamoto Yohko","Adventure, Comedy, Sci-Fi",OVA,3,6.33,1735
+1469,"Toki no Tabibito: Time Stranger","Action, Adventure, Romance, Sci-Fi",Movie,1,6.33,941
+1470,"Angelique: Twin Collection","Fantasy, Sci-Fi, Shoujo",OVA,8,6.32,906
+1471,"Document Taiyou no Kiba Dagram","Drama, Mecha, Military, Sci-Fi, Shounen",Movie,1,6.32,336
+1472,"DRAMAtical Murder","Action, Psychological, Sci-Fi, Super Power",TV,12,6.32,80121
+1473,"Genmu Senki Leda","Action, Adventure, Fantasy, Magic, Mecha, Sci-Fi",OVA,1,6.32,1925
+1474,"Haiyoru! Nyaruani: Remember My Love(craft-sensei)","Comedy, Sci-Fi",TV,11,6.32,17934
+1475,"Kodai Ouja Kyouryuu King: Yokuryuu Densetsu","Action, Adventure, Game, Kids, Sci-Fi",TV,30,6.32,1710
+1476,"Mobile Suit Gundam Battlefield Record: Avant-Title","Mecha, Sci-Fi, Space",ONA,1,6.32,1169
+1477,"Ai Tenchi Muyou!","Comedy, Sci-Fi, Shounen",TV,50,6.31,15313
+1478,"Asagiri no Miko","Action, Comedy, Drama, Fantasy, Magic, School, Sci-Fi, Shounen, Slice of Life, Super Power, Supernatural",TV,26,6.31,4721
+1479,"Beyblade Burst","Action, Adventure, Sci-Fi, Shounen, Sports",TV,Unknown,6.31,3221
+1480,"D.I.C.E.","Action, Adventure, Kids, Mecha, Sci-Fi, Shounen",TV,40,6.31,2744
+1481,"Dr.","Action, Adventure, Magic, Music, Sci-Fi, Super Power",Music,1,6.31,1616
+1482,"Hoshi ni Negai wo: Fantastic Cat","Adventure, Sci-Fi",ONA,1,6.31,1140
+1483,"Mazinger Z tai Devilman","Adventure, Demons, Mecha, Sci-Fi, Shounen",Movie,1,6.31,1481
+1484,"Sousei Kishi Gaiarth","Action, Adventure, Mecha, Sci-Fi",OVA,3,6.31,1104
+1485,"Brain Powerd","Action, Adventure, Mecha, Sci-Fi",TV,26,6.3,5058
+1486,"DNA Sights 999.9","Action, Adventure, Drama, Sci-Fi",OVA,1,6.3,1048
+1487,"Kiss Dum: Omokage","Mecha, Military, Sci-Fi",Special,1,6.3,605
+1488,"Masou Kishin Cybuster","Adventure, Mecha, Sci-Fi, Shounen",TV,26,6.3,1342
+1489,"Personal Computer Travel Tanteidan","Adventure, Historical, Kids, Sci-Fi",TV,26,6.3,606
+1490,"Stitch!: Itazura Alien no Daibouken","Adventure, Comedy, Kids, Sci-Fi",TV,29,6.3,875
+1491,"Tenamonya Voyagers","Adventure, Comedy, Ecchi, Mecha, Sci-Fi",OVA,4,6.3,1755
+1492,"Final Fantasy: Unlimited","Action, Adventure, Fantasy, Sci-Fi, Shounen",TV,25,6.29,25652
+1493,"Genei Toushi Bastof Lemon","Adventure, Mecha, Sci-Fi",TV,26,6.29,666
+1494,"Jinki:Extend","Mecha, Sci-Fi",TV,12,6.29,7496
+1495,"Norageki!","Mystery, Sci-Fi, Space",OVA,1,6.29,6727
+1496,"Shin Kaitei Gunkan","Action, Adventure, Fantasy, Historical, Military, Sci-Fi",OVA,2,6.29,877
+1497,"Sonic X Pilot","Adventure, Comedy, Kids, Mecha, Sci-Fi, Shounen",Special,2,6.29,1795
+1498,"Strike Witches OVA","Action, Ecchi, Magic, Military, Sci-Fi",OVA,1,6.29,18236
+1499,"Choujuu Kishin Dancougar: Hakunetsu no Shuushou","Mecha, Sci-Fi, Space",OVA,4,6.28,419
+1500,"Gasshin Sentai Mechander Robo","Mecha, Military, Mystery, Sci-Fi, Space",TV,35,6.28,287
+1501,"Mobile Suit Gundam: More Information on the Universal Century","Mecha, Military, Sci-Fi, Space",Special,10,6.28,1350
+1502,"Muv-Luv Alternative: Total Eclipse Recap - Climax Chokuzen Special","Action, Mecha, Military, Sci-Fi",Special,1,6.28,5477
+1503,"Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...","Mecha, Sci-Fi",Movie,1,6.28,302
+1504,"Uchuu no Kishi Tekkaman Blade OVA: Missing Link","Action, Mecha, Sci-Fi, Shounen",OVA,1,6.28,1056
+1505,"Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo","Action, Adventure, Fantasy, Magic, Sci-Fi",OVA,1,6.27,10531
+1506,"Donyatsu","Comedy, Sci-Fi, Seinen",Movie,12,6.27,2168
+1507,"Haja Taisei Dangaiou","Action, Adventure, Mecha, Sci-Fi",OVA,3,6.27,2350
+1508,"Plastic Little","Action, Adventure, Comedy, Ecchi, Mecha, Military, Romance, Sci-Fi",OVA,1,6.27,7287
+1509,"To Heart: Remember My Memories Specials","Comedy, Martial Arts, Parody, Samurai, Sci-Fi, Super Power",Special,7,6.27,2198
+1510,"Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary","Comedy, Drama, Harem, Romance, Sci-Fi",TV,13,6.27,5200
+1511,"100-man-nen Chikyuu no Tabi: Bander Book","Sci-Fi",Special,1,6.26,429
+1512,"21 Emon Uchuu ike! Hadashi no Princess","Comedy, Sci-Fi, Space",Movie,1,6.26,260
+1513,"Akai Koudan Zillion: Utahime Yakyoku","Adventure, Sci-Fi, Shounen",Special,1,6.26,533
+1514,"Beast Wars Second: LioConvoy in Imminent Danger!","Action, Adventure, Sci-Fi",Movie,1,6.26,685
+1515,"Bokurano Recap","Drama, Mecha, Psychological, Sci-Fi",Special,1,6.26,1737
+1516,"Cyborg 009: Kaijuu Sensou","Action, Adventure, Sci-Fi",Movie,1,6.26,806
+1517,"Haiyoru! Nyaruani: Remember My Love(craft-sensei) Special","Comedy, Sci-Fi",Special,1,6.26,8434
+1518,"iDOLM@STER Xenoglossia Specials","Comedy, Mecha, Sci-Fi",Special,9,6.26,2377
+1519,"Soul Link","Action, Adventure, Comedy, Military, Romance, Sci-Fi, Space",TV,12,6.26,14641
+1520,"Top wo Nerae! Kagaku Kouza","Comedy, Sci-Fi",Special,6,6.26,5479
+1521,"Aquarian Age: Sign for Evolution","Action, Adventure, Fantasy, Music, Romance, Sci-Fi, Shounen, Super Power, Supernatural",TV,13,6.25,9268
+1522,"Ark","Action, Fantasy, Mecha, Military, Sci-Fi, Supernatural",Movie,1,6.25,721
+1523,"Assemble Insert","Comedy, Police, Sci-Fi",OVA,2,6.25,1566
+1524,"Moldiver","Action, Comedy, Magic, Mecha, Romance, Sci-Fi",OVA,6,6.25,1584
+1525,"SF Saiyuuki Starzinger (Movie)","Adventure, Mecha, Sci-Fi, Shounen",Movie,1,6.25,207
+1526,"Watashi no Coffee Samurai: Jihanki-teki na Kareshi","Action, Romance, Samurai, Sci-Fi",Special,1,6.25,1335
+1527,"Burn Up!","Action, Comedy, Ecchi, Police, Sci-Fi",OVA,1,6.24,4184
+1528,"Connected","Dementia, Music, Sci-Fi",Music,1,6.24,2697
+1529,"Crystal Blaze","Action, Sci-Fi",TV,12,6.24,11974
+1530,"Fantasista Doll","Fantasy, Magic, Sci-Fi",TV,12,6.24,18799
+1531,"Gall Force: The Revolution","Action, Adventure, Mecha, Military, Sci-Fi, Space",OVA,4,6.24,686
+1532,"Ginga Ojousama Densetsu Yuna: Kanashimi no Siren","Action, Adventure, Comedy, Magic, Mecha, Sci-Fi",OVA,2,6.24,1748
+1533,"Gunslinger Stratos: The Animation - Bunki/Futatsu no Mirai","Action, Sci-Fi",Special,1,6.24,1379
+1534,"Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space","Action, Drama, Mecha, Military, Sci-Fi, Space",Special,1,6.24,3528
+1535,"Baymax","Drama, Music, Sci-Fi, Slice of Life",Music,1,6.23,651
+1536,"Dragon&#039;s Heaven","Action, Adventure, Fantasy, Mecha, Sci-Fi",OVA,1,6.23,1924
+1537,"DRAMAtical Murder OVA: Data_xx_Transitory","Drama, Psychological, Sci-Fi, Shounen Ai",Special,1,6.23,12469
+1538,"Gunslinger Stratos: The Animation","Action, Sci-Fi",TV,12,6.23,47587
+1539,"I: Wish You Were Here","Action, Drama, Mystery, Sci-Fi",TV,4,6.22,6017
+1540,"Kimagure Robot","Comedy, Fantasy, Sci-Fi",TV,10,6.22,1521
+1541,"Metal Skin Panic MADOX-01","Action, Mecha, Sci-Fi",OVA,1,6.22,2030
+1542,"Sacred Seven: Shirogane no Tsubasa Picture Drama","Action, Comedy, School, Sci-Fi, Super Power",Special,2,6.22,1589
+1543,"Time Bokan Series: Zenderman","Action, Adventure, Comedy, Mecha, Sci-Fi, Super Power",TV,52,6.22,298
+1544,"Giant Robo Gaiden Ginrei","Comedy, Ecchi, Mecha, Parody, Sci-Fi, Shounen, Super Power",OVA,3,6.21,2223
+1545,"Hand Maid Mai","Comedy, Ecchi, Romance, Sci-Fi",OVA,1,6.21,2621
+1546,"Kishin Houkou Demonbane","Comedy, Drama, Mecha, Sci-Fi",OVA,1,6.21,7024
+1547,"Koutetsu Tenshi Kurumi Zero","Drama, Romance, Sci-Fi",OVA,3,6.21,3896
+1548,"Mobile Suit SD Gundam Mk IV","Mecha, Parody, Sci-Fi",OVA,2,6.21,1756
+1549,"Mutekiou Tri-Zenon","Mecha, Sci-Fi",TV,22,6.21,483
+1550,"Baoh Raihousha","Action, Martial Arts, Sci-Fi, Shounen, Space, Super Power",OVA,1,6.2,5520
+1551,"Blame!","Mecha, Sci-Fi",ONA,6,6.2,13802
+1552,"D4 Princess","Action, Comedy, Magic, Mecha, Sci-Fi",TV,24,6.2,1514
+1553,"Gulliver no Uchuu Ryokou","Adventure, Sci-Fi",Movie,1,6.2,527
+1554,"Ichigeki Sacchuu!! Hoihoi-san","Comedy, Sci-Fi, Slice of Life",OVA,1,6.2,5404
+1555,"Kishin Houkou Demonbane (TV) Specials","Magic, Mecha, Sci-Fi, Supernatural",Special,2,6.2,571
+1556,"MAPS: Densetsu no Samayoeru Seijin-tachi","Action, Adventure, Drama, Sci-Fi, Shounen, Space",OVA,1,6.2,402
+1557,"Metal Fighter Miku","Comedy, Sci-Fi, Shounen, Sports",TV,13,6.2,1377
+1558,"Outlanders","Adventure, Comedy, Ecchi, Sci-Fi, Shounen",OVA,1,6.2,2655
+1559,"Soul Worker: Your Destiny Awaits","Action, Fantasy, Sci-Fi",ONA,5,6.2,430
+1560,"21 Emon","Comedy, Sci-Fi, Space",TV,39,6.19,314
+1561,"Akai Kiba: Blue Sonnet","Action, Drama, Sci-Fi, Shoujo, Super Power",OVA,5,6.19,1024
+1562,"Andromeda Stories","Action, Drama, Fantasy, Sci-Fi, Space",Special,1,6.19,737
+1563,"Gundam: G no Reconguista - From the Past to the Future","Action, Mecha, Sci-Fi, Space",Special,1,6.2,736
+1564,"Gunslinger Stratos","Action, Sci-Fi",ONA,1,6.19,2666
+1565,"Ichirin-sha","Action, Mecha, Sci-Fi, Seinen",ONA,1,6.19,804
+1566,"Kikou Kai Galient OVA","Action, Fantasy, Mecha, Sci-Fi",OVA,3,6.19,328
+1567,"Mou Hitotsu no Mirai wo.","Sci-Fi",ONA,3,6.19,6580
+1568,"Tsuritama: Harikitte Contest","Comedy, Sci-Fi, Slice of Life, Sports",Special,1,6.19,913
+1569,"Mousou Kagaku Series: Wandaba Style","Comedy, Sci-Fi",TV,12,6.18,2077
+1570,"Soratobu Toshi Keikaku","Music, Sci-Fi",Music,1,6.18,1163
+1571,"Stratos 4 OVA: Stratos 4.1 - Dutch Roll","Action, Military, Parody, Sci-Fi",Special,1,6.18,239
+1572,"The Borgman: Last Battle","Action, Demons, Sci-Fi, Shounen",OVA,1,6.18,386
+1573,"Chu Feng: B.E.E","Action, Comedy, Fantasy, Mecha, Romance, School, Sci-Fi",ONA,6,6.17,11481
+1574,"Eightman","Action, Drama, Mecha, Sci-Fi",TV,56,6.17,629
+1575,"Last Exile: Doyou no Asa","Comedy, Parody, Sci-Fi",Special,3,6.17,626
+1576,"Ozma","Action, Sci-Fi",TV,6,6.17,11556
+1577,"Saint Luminous Jogakuin","Mystery, Psychological, Supernatural",TV,13,6.17,1701
+1578,"Soliton no Akuma","Drama, Military, Sci-Fi",Movie,1,6.17,412
+1579,"Space☆Dandy Picture Drama","Comedy, Sci-Fi, Space",Special,2,6.17,2399
+1580,"The Choujo","Comedy, Sci-Fi, Super Power",OVA,1,6.17,1525
+1581,"Wakusei Robo Danguard Ace: Uchuu Daikaisen","Mecha, Sci-Fi",Movie,1,6.17,220
+1582,"A.D. Police (TV)","Action, Mecha, Sci-Fi, Shounen",TV,12,6.16,5547
+1583,"Eikyuu Kazoku","Comedy, Psychological",Movie,1,6.16,5305
+1584,"Tatakae!! Iczer-1","Action, Adventure, Ecchi, Mecha, Sci-Fi",OVA,3,6.16,3126
+1585,"Choujin Locke: Shinsekai Sentai","Action, Sci-Fi, Super Power",OVA,2,6.15,530
+1586,"Daikyouryuu Jidai","Sci-Fi",Movie,1,6.15,275
+1587,"Nessa no Haou Gandalla","Adventure, Drama, Fantasy, Horror, Magic, Music, Sci-Fi, Supernatural",TV,26,6.15,637
+1588,"Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film","Sci-Fi, Seinen",Special,1,6.15,705
+1589,"Salamander","Adventure, Sci-Fi",OVA,3,6.15,597
+1590,"Seraphim Call","Drama, Romance, Sci-Fi",TV,12,6.15,2434
+1591,"Angelique: Shiroi Tsubasa no Memoire","Drama, Fantasy, Magic, Romance, Sci-Fi, Shoujo",OVA,2,6.14,1871
+1592,"Chouon Senshi Borgman 2: Shin Seiki 2058","Action, Demons, Sci-Fi, Shounen",OVA,3,6.14,319
+1593,"Cleopatra D.C.","Action, Adventure, Sci-Fi",OVA,3,6.14,1074
+1594,"Extra","Action, Dementia, Horror, Music, Sci-Fi",Music,1,6.14,2401
+1595,"Kumi to Tulip","Kids, Sci-Fi",Movie,1,6.14,999
+1596,"Melty Lancer","Adventure, Comedy, Sci-Fi, Space",OVA,6,6.14,1035
+1597,"Rusty Nail","Action, Music, Sci-Fi",Music,1,6.14,417
+1598,"Shin Hurricane Polymar","Action, Martial Arts, Sci-Fi, Super Power",OVA,2,6.14,752
+1599,"Stitch!: Itazura Alien no Daibouken - Uchuu Ichi no Oniichan","Adventure, Comedy, Kids, Sci-Fi",Special,1,6.14,219
+1600,"Bohemian Rhapsody","Music, Sci-Fi, Space",Music,1,6.13,3005
+1601,"Houseki no Kuni","Fantasy, Sci-Fi, Seinen",ONA,1,6.13,1156
+1602,"Mighty Orbots","Adventure, Comedy, Mecha, Sci-Fi",TV,13,6.13,210
+1603,"Arei no Kagami: Way to the Virgin Space","Action, Adventure, Sci-Fi, Space",Movie,1,6.12,549
+1604,"Genocyber","Action, Horror, Mecha, Psychological, Sci-Fi",OVA,5,6.12,12158
+1605,"Ginga Tansa 2100-nen: Border Planet","Sci-Fi",Special,1,6.12,336
+1606,"Kyouryuu Tankentai Born Free","Action, Sci-Fi",TV,25,6.12,236
+1607,"Mobile Suit SD Gundam Mk III","Mecha, Parody, Sci-Fi",OVA,6,6.12,1805
+1608,"Puchitto Gargantia Special","Comedy, Mecha, Sci-Fi",Special,1,6.12,1786
+1609,"Yonimo Osoroshii Nihon Mukashibanashi","Dementia, Horror, Psychological",OVA,3,6.12,655
+1610,"Dallos","Action, Mecha, Sci-Fi",OVA,4,6.11,2520
+1611,"Lily C.A.T.","Horror, Sci-Fi, Space",Movie,1,6.11,2068
+1612,"Bamboo Blade: CM Fanfu-Fufe-Fo","Comedy, Parody, Sci-Fi",Special,24,6.1,455
+1613,"Buddha Saitan","Psychological, Romance, Supernatural",Movie,1,6.1,3824
+1614,"Byulbyul Iyagi","Drama, Psychological",Movie,6,6.1,235
+1615,"Kikumana","Dementia, Psychological",ONA,1,6.1,4723
+1616,"Rokushin Gattai GodMars (1982)","Action, Mecha, Sci-Fi, Space",Movie,1,6.1,304
+1617,"Yamato 2520","Action, Adventure, Military, Sci-Fi",OVA,3,6.1,726
+1618,"Dr. Slump Movie 11: Dr. Mashirito &amp; Abale-chan","Comedy, Sci-Fi, Shounen",Movie,1,6.09,576
+1619,"Geisters: Fractions of the Earth","Action, Sci-Fi",TV,26,6.09,670
+1620,"Miracle Shoujo Limit-chan","Comedy, Magic, School, Sci-Fi, Shoujo, Super Power",TV,25,6.09,236
+1621,"Ra/Radio Noise*Planet","Adventure, Psychological, Sci-Fi",OVA,1,6.09,595
+1622,"Rokushin Gattai GodMars: Juunanasai no Densetsu","Action, Mecha, Sci-Fi, Space",OVA,1,6.09,408
+1623,"Ultraviolet: Code 044","Action, Sci-Fi",TV,12,6.09,3784
+1624,"Adachi-ga Hara","Sci-Fi",Movie,1,6.08,516
+1625,"Divergence Eve","Adventure, Comedy, Drama, Mecha, Military, Sci-Fi, Space",TV,13,6.08,7833
+1626,"Getter Robo (Movie)","Action, Mecha, Sci-Fi, Shounen",Movie,1,6.08,527
+1627,"Gunslinger Stratos: The Animation - Kikan/Kaze no Yukue","Action, Sci-Fi",ONA,1,6.08,1348
+1628,"Najica Dengeki Sakusen","Action, Comedy, Ecchi, Sci-Fi",TV,12,6.08,9605
+1629,"Scoopers","Action, Sci-Fi",OVA,1,6.08,195
+1630,"Time Slip Ichimannen: Prime Rose","Action, Adventure, Drama, Romance, Sci-Fi",Special,1,6.08,584
+1631,"Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary OVA","Comedy, Drama, Harem, Romance, Sci-Fi",OVA,4,6.08,550
+1632,"Wakusei Robo Danguard Ace tai Konchuu Robot Gundan","Mecha, Sci-Fi",Movie,1,6.08,232
+1633,"Oh! Super Milk-chan","Action, Comedy, Parody, Sci-Fi",TV,12,6.07,2757
+1634,"Ultraman USA","Action, Adventure, Sci-Fi",Movie,1,6.07,243
+1635,"Defend Love","Adventure, Fantasy, Magic, Mecha, Music, Romance, Sci-Fi, Super Power, Supernatural",Music,1,6.06,1162
+1636,"Gunparade Orchestra","Drama, Mecha, Military, Romance, Sci-Fi, Slice of Life",TV,24,6.06,2816
+1637,"Ninja &amp; Soldier","Psychological",Movie,1,6.06,166
+1638,"Ryuusei Sentai Musumet","Adventure, Comedy, Ecchi, Romance, Sci-Fi",TV,13,6.06,1331
+1639,"Seihou Tenshi Angel Links","Action, Adventure, Comedy, Drama, Romance, Sci-Fi, Space",TV,13,6.06,4817
+1640,"Shijin no Shougai","Drama, Fantasy, Psychological",Movie,1,6.06,541
+1641,"Chou Seimeitai Transformers Beast Wars Metals: Convoy Daihenshin!","Action, Mecha, Sci-Fi, Super Power",Movie,1,6.05,389
+1642,"Shuten Douji","Demons, Historical, Horror, Sci-Fi, Shounen, Space, Supernatural",OVA,4,6.05,1036
+1643,"AIKa","Action, Adventure, Comedy, Ecchi, Sci-Fi",OVA,7,6.04,17545
+1644,"Angel Cop","Action, Police, Sci-Fi",OVA,6,6.04,5663
+1645,"Birth","Action, Adventure, Comedy, Sci-Fi",OVA,1,6.04,2129
+1646,"Bouken! Iczer 3","Action, Adventure, Sci-Fi",OVA,6,6.04,1218
+1647,"Deimos no Hanayome: Ran no Kumikyoku","Demons, Drama, Fantasy, Horror, Magic, Mystery, Psychological, Shoujo, Supernatural",OVA,1,6.04,2030
+1648,"Gall Force: New Era","Action, Mecha, Military, Sci-Fi, Space",OVA,2,6.04,950
+1649,"Install Pilot","Action, Sci-Fi, Shounen",Special,1,6.04,456
+1650,"Nayuta","Action, Sci-Fi, Shoujo",OVA,1,6.04,549
+1651,"Regalia: The Three Sacred Stars","Action, Mecha, Sci-Fi",TV,13,6.03,16766
+1652,"Tetsuwan Atom: Ao Kishi no Kan","Action, Mecha, Sci-Fi",Movie,1,6.04,282
+1653,"Transformers Superlink Special","Adventure, Kids, Mecha, Sci-Fi, Shounen",Special,1,6.04,418
+1654,"Transformers: Scramble City","Action, Mecha, Sci-Fi, Shounen",OVA,1,6.04,792
+1655,"Anime Oyako Gekijou","Adventure, Fantasy, Historical, Kids, Sci-Fi",TV,26,6.03,1074
+1656,"Kotetsu no Daibouken","Action, Comedy, Ecchi, Fantasy, Magic, Romance, Sci-Fi, Shounen",OVA,2,6.03,1420
+1657,"Shihaisha no Tasogare","Action, Demons, Drama, Horror, Sci-Fi, Shoujo, Supernatural",OVA,1,6.03,4377
+1658,"Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari","Comedy, Mecha, Police, Sci-Fi",TV,12,6.02,37993
+1659,"Avenger","Adventure, Fantasy, Sci-Fi, Shounen",TV,13,6.02,12286
+1660,"Babel Nisei (1992)","Action, Mecha, Sci-Fi",OVA,4,6.02,1074
+1661,"Chouon Senshi Borgman: Lovers Rain","Action, Demons, Sci-Fi, Shounen",Movie,1,6.02,404
+1662,"Firestorm","Action, Mecha, Military, Sci-Fi",TV,26,6.02,615
+1663,"G-On Riders","Action, Comedy, School, Sci-Fi",TV,13,6.02,2606
+1664,"Sailor Victory","Action, Comedy, Mecha, Sci-Fi",OVA,2,6.02,801
+1665,"Soul Link Special","Adventure, Comedy, Ecchi, Military, Romance, Sci-Fi, Space",Special,1,6.02,1973
+1666,"Baton","Adventure, Sci-Fi",Movie,3,6.01,1482
+1667,"DušaN","Music, Psychological",Music,1,6.01,419
+1668,"SOS TV Walpurgis Night Fever","Comedy, Sci-Fi",ONA,11,6.01,422
+1669,"Techno Police 21C","Action, Mecha, Police, Sci-Fi",Movie,1,6.01,402
+1670,"Ulysses 31 Pilot","Action, Adventure, Sci-Fi, Space",Special,1,6.01,218
+1671,"Gdleen","Fantasy, Sci-Fi",OVA,1,6,408
+1672,"Sekai Kei Sekai Ron","Psychological, Sci-Fi",OVA,1,6,644
+1673,"D-1 Devastator","Mecha, Sci-Fi",OVA,2,5.99,320
+1674,"Hoshizora Kiseki","Romance, Sci-Fi",ONA,1,5.99,7674
+1675,"Si Ling Bianma: Zhi Shijie Caozong Zhe","Fantasy, Game, Horror, Mystery, Parody, Psychological",ONA,12,5.99,563
+1676,"Space Station No.9","Music, Sci-Fi",Music,1,5.99,1629
+1677,"Beast Saga","Action, Kids, Sci-Fi, Shounen",TV,38,5.98,861
+1678,"Donyatsu Specials","Comedy, Sci-Fi, Seinen",Special,2,5.98,231
+1679,"Magma Taishi","Action, Sci-Fi, Shounen, Space, Super Power",OVA,13,5.98,421
+1680,"Tactical Roar Special","Action, Comedy, Ecchi, Military, Romance, Sci-Fi",Special,1,5.98,1252
+1681,"Mobile Suit SD Gundam Mk V","Comedy, Mecha, Parody, Sci-Fi",OVA,3,5.97,1294
+1682,"Mother: Saigo no Shoujo Eve","Adventure, Drama, Sci-Fi",Movie,1,5.97,697
+1683,"Mahou no Tenshi Creamy Mami: Zutto Kitto Motto","Fantasy, Magic, Music, Romance, School, Sci-Fi, Shoujo",Music,1,5.96,129
+1684,"Dai Yamato Zero-gou","Sci-Fi, Space",OVA,5,5.95,566
+1685,"Juusenki L-Gaim II: Farewell My Lovely + Pentagona Doors","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen, Space",OVA,1,5.95,375
+1686,"MAPS","Adventure, Comedy, Sci-Fi",OVA,4,5.95,1007
+1687,"Mujigen Hunter Fandora","Adventure, Fantasy, Sci-Fi",OVA,3,5.95,688
+1688,"Psycho Diver: Mashou Bosatsu","Horror, Psychological, Sci-Fi",OVA,1,5.95,2137
+1689,"Koroshiya 1 The Animation: Episode 0","Action, Dementia, Drama, Horror, Martial Arts, Psychological, Seinen",OVA,1,5.94,5704
+1690,"Down Load: Namu Amida Butsu wa Ai no Uta","Action, Adventure, Psychological, Sci-Fi",OVA,1,5.93,740
+1691,"Ginsoukikou Ordian","Mecha, Sci-Fi",TV,24,5.93,1304
+1692,"Hoshi no Umi no Amuri","Adventure, Fantasy, Sci-Fi",OVA,3,5.93,2443
+1693,"Majokko Club Yoningumi: A Kuukan kara no Alien X","Action, Comedy, Magic, Parody, Sci-Fi",OVA,1,5.92,441
+1694,"Malice@Doll","Horror, Psychological, Sci-Fi",OVA,3,5.92,1739
+1695,"Mobile Suit Gundam ZZ: Gundam Frag.","Action, Mecha, Military, Sci-Fi",OVA,2,5.92,2058
+1696,"Tobira wo Akete","Action, Adventure, Fantasy, Sci-Fi",Movie,1,5.92,894
+1697,"Babel Nisei (2001)","Action, Adventure, Mystery, Sci-Fi, Shounen, Supernatural",TV,13,5.91,1502
+1698,"Ryuu Seiki","Action, Demons, Fantasy, Sci-Fi",OVA,2,5.91,897
+1699,"Coluboccoro","Fantasy, Sci-Fi",OVA,1,5.89,1081
+1700,"DinoZone","Adventure, Sci-Fi, Shounen",OVA,5,5.9,636
+1701,"Karen Senki","Action, Sci-Fi",ONA,11,5.9,8697
+1702,"All That Gundam","Action, Mecha, Sci-Fi",Special,1,5.89,2760
+1703,"Aquarion Logos","Action, Comedy, Drama, Fantasy, Mecha, Romance, Sci-Fi",TV,26,5.89,11756
+1704,"G-On Riders Special","Comedy, Ecchi, Sci-Fi",Special,1,5.89,302
+1705,"Gundam: Mission to the Rise","Action, Mecha, Sci-Fi",Special,1,5.89,2710
+1706,"Rean no Tsubasa","Fantasy, Mecha, Sci-Fi",ONA,6,5.89,2228
+1707,"Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold","Action, Sci-Fi",OVA,1,5.89,199
+1708,"Divine Gate","Action, Fantasy, Sci-Fi",TV,12,5.88,83271
+1709,"Honey Tokyo","Sci-Fi",ONA,1,5.88,1410
+1710,"Juusenki L-Gaim I: Pentagona Window + Lady Gyabure","Action, Adventure, Drama, Mecha, Sci-Fi, Shounen, Space",OVA,1,5.88,409
+1711,"Kagaku na Yatsura","Comedy, Ecchi, Romance, School, Sci-Fi, Seinen",OVA,1,5.88,10812
+1712,"Platonic Chain: Web","Sci-Fi, Slice of Life",Special,1,5.88,322
+1713,"Shin Seiki Den Mars","Mecha, Sci-Fi, Shounen",TV,13,5.88,556
+1714,"Super Milk-chan","Action, Comedy, Parody, Sci-Fi",TV,14,5.88,2476
+1715,"Loups=Garous Pilot","Mystery, Sci-Fi, Thriller",Special,1,5.87,622
+1716,"Aura Battler Dunbine OVA","Adventure, Mecha, Sci-Fi",OVA,3,5.86,972
+1717,"Gundam: G no Reconguista","Action, Mecha, Sci-Fi, Space",TV,26,5.86,16538
+1718,"Seihou Tenshi Angel Links Special","Comedy, Sci-Fi, Space",Special,1,5.86,310
+1719,"Blame! Prologue","Action, Mecha, Sci-Fi",OVA,2,5.85,4703
+1720,"Chikotan","Music, Psychological",Movie,1,5.87,145
+1721,"Portable Kuukou","Music, Sci-Fi",Music,1,5.85,1515
+1722,"Rakushou! Hyper Doll","Adventure, Comedy, Magic, Sci-Fi, Shounen",OVA,2,5.85,937
+1723,"Choujin Locke: Mirror Ring","Action, Sci-Fi, Super Power",OVA,1,5.84,391
+1724,"Love Position: Halley Densetsu","Fantasy, Sci-Fi",OVA,1,5.84,398
+1725,"Next Senki Ehrgeiz","Action, Mecha, Sci-Fi",TV,12,5.84,472
+1726,"Soul Link Picture Drama","Romance, Sci-Fi",Special,3,5.84,603
+1727,"Awake","Action, Mecha, Parody, Sci-Fi",Special,2,5.83,276
+1728,"Misute♡naide Daisy","Comedy, Romance, Sci-Fi",TV,12,5.83,720
+1729,"Utopa","Sci-Fi",Movie,1,5.83,590
+1730,"Ice Movie","Action, Military, Sci-Fi",Movie,1,5.82,804
+1731,"Platonic Chain","Sci-Fi, Slice of Life",TV,24,5.82,1091
+1732,"Shinkai no Kantai: Submarine 707","Action, Adventure, Military, Sci-Fi",OVA,1,5.82,299
+1733,"Transformers Zone","Mecha, Sci-Fi",OVA,1,5.82,791
+1734,"Alexander Senki","Action, Adventure, Fantasy, Historical, Sci-Fi, Supernatural",TV,13,5.81,4014
+1735,"Cyborg 009: The Reopening","Action, Adventure, Mecha, Sci-Fi, Shounen",Special,1,5.81,971
+1736,"Iczer-Girl Iczelion","Action, Adventure, Sci-Fi",OVA,2,5.81,1194
+1737,"Landlock","Adventure, Fantasy, Sci-Fi",OVA,2,5.81,965
+1738,"Ninja Ryuukenden","Adventure, Demons, Drama, Sci-Fi, Shounen, Supernatural, Thriller",OVA,1,5.81,2281
+1739,"Taneyamagahara no Yoru","Fantasy, Kids, Psychological, Slice of Life",Movie,1,5.81,2428
+1740,"Uchurei!","Comedy, Sci-Fi, Slice of Life",TV,12,5.81,864
+1741,"VS Knight Lamune &amp; 40 Fresh","Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space",OVA,6,5.81,1381
+1742,"Cosmo Police Justy","Action, Sci-Fi, Shounen, Space, Super Power, Supernatural",OVA,1,5.8,970
+1743,"Ippatsu Hicchuu!! Devander","Action, Mecha, Parody, Sci-Fi, Super Power",OVA,1,5.8,316
+1744,"Love Like Aliens","Action, Music, Sci-Fi",Music,1,5.8,567
+1745,"Mayoiga","Drama, Horror, Mystery, Psychological",TV,12,5.8,117090
+1746,"Planetes Picture Drama","Comedy, Sci-Fi, Space",Special,9,5.8,1205
+1747,"Relic Armor Legaciam","Action, Mecha, Sci-Fi",OVA,1,5.8,686
+1748,"Ai City","Action, Sci-Fi, Super Power",Movie,1,5.79,1513
+1749,"Ariel Deluxe","Action, Comedy, Mecha, Sci-Fi",OVA,2,5.79,615
+1750,"Dimension Loop","Sci-Fi",OVA,1,5.79,1805
+1751,"Hietsuki Bushi","Fantasy, Music, Sci-Fi",Music,1,5.79,103
+1752,"Makyou Gaiden Le Deus","Action, Adventure, Mecha, Sci-Fi",OVA,1,5.79,671
+1753,"Nanako Kaitai Shinsho","Comedy, Mecha, Military, Sci-Fi",OVA,6,5.79,6733
+1754,"Exper Zenon","Action, Sci-Fi",Movie,1,5.78,623
+1755,"Robo to Shoujo (Kari)","Action, Comedy, Mecha, Sci-Fi",ONA,9,5.78,1031
+1756,"Compiler Festa","Action, Drama, Sci-Fi",OVA,1,5.77,455
+1757,"Maken Liner 0011 Henshin Seyo!","Action, Mecha, Sci-Fi",Movie,1,5.77,238
+1758,"Stitch to Suna no Wakusei","Adventure, Comedy, Kids, Sci-Fi",Special,1,5.77,198
+1759,"Bounty Dog: Getsumen no Ibu","Action, Sci-Fi, Space",OVA,2,5.75,1752
+1760,"Galerians: Rion","Adventure, Drama, Horror, Military, Mystery, Psychological, Sci-Fi, Shounen, Supernatural",OVA,3,5.74,2002
+1761,"Jigen Sengokushi: Kuro no Shishi - Jinnai-hen","Action, Adventure, Historical, Sci-Fi, Shounen",OVA,1,5.74,1950
+1762,"Moonrakers","Drama, Sci-Fi, Space",ONA,1,5.73,1013
+1763,"UG☆Ultimate Girls","Comedy, Ecchi, Magic, Sci-Fi",TV,12,5.73,6025
+1764,"R20: Ginga Kuukou","Sci-Fi",Special,1,5.72,563
+1765,"Ankoku Shindenshou Takegami","Action, Drama, Mecha, Sci-Fi, Supernatural",OVA,3,5.71,912
+1766,"Capricorn","Adventure, Comedy, Fantasy, Sci-Fi, Shounen",OVA,1,5.71,1207
+1767,"Cosmos Pink Shock","Comedy, Parody, Sci-Fi, Space",OVA,1,5.71,981
+1768,"OZ","Action, Drama, Military, Sci-Fi, Shoujo",OVA,2,5.71,720
+1769,"Psychic Force","Action, Sci-Fi, Shounen, Super Power",OVA,2,5.71,1069
+1770,"Shin Megami Tensei: Tokyo Mokushiroku","Action, Horror, Sci-Fi",OVA,2,5.71,2871
+1771,"Ai Mai! Moe Can Change!","Comedy, Sci-Fi",OVA,1,5.7,4953
+1772,"Dead Heat","Action, Mecha, Sci-Fi, Sports",OVA,1,5.69,495
+1773,"Kaette Kita Top wo Nerae! Kagaku Kouza","Comedy, Mecha, Sci-Fi",Special,2,5.7,864
+1774,"Last Orders","Action, Samurai, Sci-Fi",Special,1,5.7,395
+1775,"Wakusei Daikaiju Negadon","Action, Fantasy, Mecha, Military, Sci-Fi, Space",Movie,1,5.7,812
+1776,"Dennou Sentai Voogie&#039;s★Angel","Action, Drama, Mecha, Military, Sci-Fi",OVA,3,5.69,1132
+1777,"Gundress","Action, Mecha, Sci-Fi",Movie,1,5.69,2005
+1778,"Kyoufu Densetsu Kaiki! Frankenstein","Drama, Horror, Sci-Fi",Special,1,5.69,578
+1779,"Delpower X Bakuhatsu Miracle Genki!","Action, Comedy, Mecha, Parody, School, Sci-Fi",OVA,1,5.68,644
+1780,"Joker: Marginal City","Action, Romance, Sci-Fi",OVA,1,5.68,533
+1781,"Planzet","Action, Mecha, Sci-Fi",Movie,1,5.68,2923
+1782,"Barom One","Action, Sci-Fi, Shounen, Supernatural",TV,13,5.67,772
+1783,"Digital Juice","Comedy, Psychological",OVA,6,5.66,3880
+1784,"Happy ComeCome","Comedy, Sci-Fi, Slice of Life",Movie,1,5.65,758
+1785,"Power Dolls","Action, Adventure, Mecha, Sci-Fi",OVA,2,5.65,921
+1786,"Timing","Horror, Psychological",ONA,1,5.65,558
+1787,"Ariel Visual","Action, Comedy, Mecha, Sci-Fi",OVA,2,5.64,653
+1788,"Big Wars: Kami Utsu Akaki Kouya ni","Action, Military, Sci-Fi, Space",OVA,1,5.64,1512
+1789,"Angel&#039;s Feather","Drama, Fantasy, Romance, Sci-Fi, Shoujo, Shounen Ai, Supernatural",OVA,2,5.62,14248
+1790,"Uchuu Kyoudai: Apo&#039;s Dream","Comedy, Sci-Fi, Space",OVA,1,5.62,2323
+1791,"Blame! Special","Mecha, Sci-Fi",Special,1,5.61,4087
+1792,"Choro Q Dagram","Comedy, Mecha, Sci-Fi, Shounen",Movie,1,5.61,403
+1793,"Copihan","Comedy, School, Sci-Fi",ONA,7,5.61,6167
+1794,"Good Morning Althea","Action, Mecha, Sci-Fi",OVA,1,5.61,830
+1795,"Bavi Stock","Action, Adventure, Fantasy, Sci-Fi",OVA,2,5.6,357
+1796,"Kimi ga Nozomu Eien: Gundam Parody","Mecha, Parody, Sci-Fi, Space",Special,1,5.6,4159
+1797,"Prayers","Sci-Fi",OVA,2,5.59,952
+1798,"Virus: Virus Buster Serge","Action, Adventure, Mecha, Police, Sci-Fi",TV,12,5.59,2250
+1799,"Worku","Fantasy, Psychological",ONA,2,5.59,216
+1800,"Fushigi no Umi no Nadia: Original Movie","Action, Adventure, Drama, Historical, Mystery, Romance, Sci-Fi",Movie,1,5.58,3644
+1801,"Mirai Koushi Harima SACLA","Music, Sci-Fi",ONA,1,5.58,577
+1802,"Juujika You and I","Mecha, Music, Sci-Fi",Music,1,5.56,244
+1803,"Tokyo Vice","Action, Mecha, Mystery, Sci-Fi",OVA,1,5.56,711
+1804,"Choujin Locke Special","Action, Sci-Fi, Super Power",Special,1,5.55,171
+1805,"Loups=Garous Picture Drama","Mystery, Sci-Fi",Special,1,5.55,1041
+1806,"Space Travelers The Animation","Sci-Fi, Space",OVA,1,5.55,358
+1807,"Choushin Hime Dangaizer 3","Adventure, Ecchi, Mecha, Sci-Fi",OVA,4,5.53,919
+1808,"Seishoujo Kantai Virgin Fleet","Fantasy, Military, School, Sci-Fi",OVA,3,5.53,892
+1809,"Tabi","Fantasy, Psychological",Movie,1,5.53,558
+1810,"The Impression of First Gundam","Action, Mecha, Military, Sci-Fi, Space",Special,1,5.53,585
+1811,"Elysium","Action, Mecha, Sci-Fi",Movie,1,5.52,950
+1812,"Haja Kyosei G Dangaiou","Action, Mecha, Sci-Fi",TV,13,5.52,1377
+1813,"SOS TV Walpurgis Night Fever Episode 0","Comedy, Sci-Fi",Special,1,5.51,542
+1814,"Pony Metal U-GAIM Promotion Film","Action, Mecha, Music, Parody, Sci-Fi",Special,1,5.5,298
+1815,"Saiko Robot Kombock","Mecha, Sci-Fi",TV,25,5.5,2399
+1816,"Sentou Yousei Shoujo Tasukete! Mave-chan","Comedy, Parody, Sci-Fi, Shounen, Super Power",OVA,1,5.5,2100
+1817,"Nora","Adventure, Sci-Fi, Space",OVA,1,5.49,486
+1818,"Sanjougattai Transformers Go!","Mecha, Sci-Fi, Shounen",OVA,10,5.49,256
+1819,"Top wo Nerae 2! Kagaku Kouza","Sci-Fi",Special,3,5.49,737
+1820,"Call Me Tonight","Comedy, Horror, Romance, Sci-Fi",OVA,1,5.48,3777
+1821,"Compiler","Comedy, Drama, Romance, Sci-Fi",OVA,2,5.47,1028
+1822,"Eien no Hou","Fantasy, Sci-Fi",Movie,1,5.47,581
+1823,"Daimajuu Gekitou: Hagane no Oni","Horror, Mecha, Sci-Fi",OVA,1,5.45,1112
+1824,"Lightning Trap: Leina &amp; Laika","Action, Sci-Fi",OVA,1,5.45,406
+1825,"Master of Torque 2","Action, Sci-Fi",ONA,1,5.45,329
+1826,"Mutant Turtles: Choujin Densetsu-hen","Action, Adventure, Comedy, Sci-Fi, Super Power",OVA,2,5.45,1660
+1827,"Digital Devil Story: Megami Tensei","Adventure, Demons, Drama, Fantasy, Horror, Mystery, Psychological, School, Supernatural",OVA,1,5.42,2660
+1828,"Soukihei MD Geist","Mecha, Military, Sci-Fi",OVA,1,5.42,7802
+1829,"Toei Robot Girls","Mecha, Parody, Sci-Fi",ONA,1,5.42,1208
+1830,"Bishoujo Yuugekitai Battle Skipper","Comedy, Mecha, Sci-Fi",OVA,3,5.41,883
+1831,"Broots","Mecha, Sci-Fi",Special,1,5.41,132
+1832,"Genma Taisen: Shinwa Zenya no Shou","Adventure, Drama, Horror, Sci-Fi, Shounen, Supernatural",TV,13,5.41,798
+1833,"Ring of Gundam","Mecha, Sci-Fi, Space",Special,1,5.41,2411
+1834,"Anison Nippon","Action, Sci-Fi",ONA,1,5.4,209
+1835,"A.LI.CE","Sci-Fi",Movie,1,5.38,1034
+1836,"Komachi to Dangorou","Adventure, Comedy, Kids, Sci-Fi",ONA,2,5.38,215
+1837,"Nekketsu Uchuujin","Comedy, Sci-Fi",ONA,1,5.37,832
+1838,"Seijuuki Cyguard","Mecha, Sci-Fi, Supernatural",OVA,1,5.37,1632
+1839,"Ai Tenchi Muyou! Recaps","Comedy, Sci-Fi, Shounen",Special,10,5.36,2434
+1840,"Litchi DE Hikari Club","Comedy, Drama, Horror, Psychological, Romance",TV,8,5.36,7597
+1841,"Tekken","Action, Adventure, Martial Arts, Sci-Fi",OVA,2,5.35,9687
+1842,"Yami no Purple Eye","Horror, Music, Mystery, Psychological, Shoujo, Supernatural",Music,1,5.35,500
+1843,"UFO Gakuen no Himitsu","Sci-Fi, Space",Movie,1,5.34,1351
+1844,"Animegatari x Ghost in the Shell Collab Eizou","Comedy, Sci-Fi",ONA,1,5.33,580
+1845,"Hyper-Psychic Geo Garaga","Action, Adventure, Sci-Fi",Movie,1,5.33,674
+1846,"Run=Dim","Action, Mecha, Sci-Fi",TV,13,5.32,1017
+1847,"Scared Rider Xechs","Adventure, Harem, Romance, Sci-Fi",TV,12,5.32,12594
+1848,"Ryokunohara Meikyuu","Dementia, Drama, Psychological, Romance, Shounen Ai",OVA,1,5.3,2084
+1849,"Yellow","Psychological",Movie,1,5.3,144
+1850,"Makyuu Senjou","Action, Sci-Fi",OVA,2,5.28,422
+1851,"Promised Town","Action, Mecha, Sci-Fi",ONA,1,5.28,218
+1852,"Sin: The Movie","Action, Horror, Police, Sci-Fi, Shounen, Supernatural",OVA,1,5.27,3117
+1853,"Tenbatsu Angel Rabbie☆","Comedy, Magic, Sci-Fi",OVA,1,5.27,1192
+1854,"Odin: Koushi Hansen Starlight","Action, Adventure, Drama, Sci-Fi",Movie,1,5.26,1408
+1855,"Asylum Session","Sci-Fi, Seinen",Movie,1,5.25,2678
+1856,"Master of Torque","Action, Sci-Fi",ONA,4,5.25,693
+1857,"Estima: Sense of Wonder","Comedy, Historical, Sci-Fi",ONA,13,5.24,127
+1858,"Choujin Gakuen Gowcaizer: The Voltage Fighters","Action, Ecchi, Martial Arts, Sci-Fi, Shounen",OVA,3,5.23,1627
+1859,"Dagram vs. Round-Facer","Mecha, Sci-Fi, Space",Special,1,5.22,229
+1860,"Heybot!","Comedy, Kids, Sci-Fi",TV,Unknown,5.22,691
+1861,"Nisou no Kuzu","Psychological",Movie,1,5.22,265
+1862,"Owari no Chronicle","Action, Adventure, Fantasy, Sci-Fi",Special,1,5.22,1623
+1863,"Mugen Kouro","Action, Sci-Fi, Space",ONA,4,5.21,891
+1864,"Tekkon Kinkreet Pilot","Action, Adventure, Psychological, Supernatural",Special,1,5.2,345
+1865,"Chou Kidou Densetsu DinaGiga","Mecha, Sci-Fi",OVA,2,5.19,596
+1866,"Hell Target","Horror, Sci-Fi, Space",OVA,1,5.18,629
+1867,"PES: Peace Eco Smile - Drive your Heart","Cars, Romance, Sci-Fi",ONA,1,5.16,449
+1868,"Gunnm 3D Special","Action, Sci-Fi, Sports",OVA,1,5.15,1014
+1869,"Kanzen Shouri Daiteiou","Action, Adventure, Kids, Mecha, Sci-Fi",OVA,1,5.15,333
+1870,"Super Express Mazinger 7","Mecha, Sci-Fi",Movie,1,5.15,362
+1871,"MD Geist II: Death Force","Mecha, Military, Sci-Fi",OVA,1,5.14,4344
+1872,"Armored Core: Fort Tower Song","Action, Mecha, Sci-Fi",ONA,1,5.13,903
+1873,"Chou Henshin Cosprayers Specials","Adventure, Comedy, Magic, Sci-Fi",Special,3,5.13,1480
+1874,"Computer Obaachan","Adventure, Comedy, Kids, Music, Sci-Fi, Space",Music,1,5.13,161
+1875,"Chou Henshin Cosprayers","Action, Adventure, Comedy, Ecchi, Fantasy, Magic, Sci-Fi, Super Power",TV,8,5.11,5555
+1876,"Hand Soap","Dementia, Psychological",Movie,1,5.11,246
+1877,"Kenju Giga","Parody, Psychological",Movie,1,5.11,480
+1878,"Genma Taisen","Action, Adventure, Comedy, Drama, Mecha, Sci-Fi, Shounen",Movie,1,5.1,2055
+1879,"Kore ga UFO da! Soratobu Enban","Sci-Fi, Space",Movie,1,5.1,518
+1880,"Yoru no Hi","Psychological",Movie,1,5.07,357
+1881,"Blue Remains","Adventure, Sci-Fi",Movie,1,5.08,304
+1882,"Double Circle","Sci-Fi, Super Power",ONA,6,5.08,4249
+1883,"The Chocolate Panic Picture Show","Dementia, Psychological",OVA,1,5.08,1024
+1884,"PuriGorota: Uchuu no Yuujou Daibouken","Adventure, Kids, Sci-Fi",OVA,1,5.07,2068
+1885,"The Humanoid: Ai no Wakusei Lezeria","Drama, Mecha, Sci-Fi, Space",OVA,1,5.07,872
+1886,"Vie Durant","Drama, Sci-Fi, Vampire",ONA,8,5.05,794
+1887,"Arigatou Thank You","Comedy, Kids, Music, Sci-Fi, Space",Music,1,5.03,291
+1888,"De:vadasy","Action, Ecchi, Mecha, Psychological",OVA,3,5.01,1269
+1889,"Ichigeki Sacchuu!! Hoihoi-san: Legacy","Comedy, Sci-Fi",ONA,1,5,475
+1890,"Lingerie Senshi Papillon Rose","Ecchi, Magic, Parody, Sci-Fi",OVA,1,4.97,4017
+1891,"Nouryou Anime: Denkyuu Ika Matsuri","Dementia, Horror, Psychological",Movie,1,4.96,234
+1892,"Rayca","Sci-Fi",OVA,1,4.95,841
+1893,"Anomalies","Psychological",Special,1,4.91,238
+1894,"Sign","Music, Sci-Fi",Music,1,4.91,192
+1895,"Choujikuu Romanesque Samy: Missing 99","Action, Sci-Fi",OVA,1,4.9,508
+1896,"Kakari","Psychological",Movie,1,4.89,122
+1897,"Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie","Adventure, Comedy, Magic, Sci-Fi",Movie,1,4.88,1650
+1898,"Great Rabbit","Psychological",Movie,1,4.84,387
+1899,"Urda","Action, Historical, Military, Sci-Fi",ONA,5,4.87,2248
+1900,"Shinsei Kamattechan","Music, Sci-Fi",Music,1,4.85,143
+1901,"Yokoo&#039;s 3 Animation Films","Psychological, Romance",OVA,3,4.8,440
+1902,"2005-nen Uchuu no Tabi","Dementia, Sci-Fi, Space",Special,1,4.75,657
+1903,"A.F","Action, Mecha, Sci-Fi",Special,1,4.7,646
+1904,"Kodomo no Kaitei no Koto","Psychological",Movie,1,4.69,152
+1905,"Twinkle Nora Rock Me!","Action, Sci-Fi",OVA,1,4.69,338
+1906,"6 Angels","Action, Sci-Fi",ONA,6,4.59,1890
+1907,"Ai","Dementia, Psychological, Romance",Movie,1,4.54,2009
+1908,"Kakugo no Susume","Action, Demons, Ecchi, Horror, Mecha, Sci-Fi, Super Power",OVA,2,4.49,4269
+1909,"Hanoka Recap","Sci-Fi",Special,1,4.43,471
+1910,"Roots Search: Shokushin Buttai X","Horror, Sci-Fi",OVA,1,4.34,1328
+1911,"Ankoku Shinwa","Demons, Fantasy, Horror, Mystery, Psychological, Supernatural",OVA,2,4.31,1255
+1912,"Hanoka","Sci-Fi",TV,12,4.27,1686
+1913,"Bloody Night","Horror, Psychological, Supernatural, Thriller",ONA,1,4.26,1292
+1914,"Armageddon","Action, Adventure, Sci-Fi",Movie,1,4.23,810
+1915,"Red Colored Bridge","Psychological",Movie,1,3.9,450
+1916,"Uju Heukgisa","Action, Sci-Fi, Space",Movie,1,3.87,224
+1917,"Pupa","Fantasy, Horror, Psychological",TV,12,3.82,83652
+1918,"Born by Myself","Psychological",ONA,1,3.73,935
+1919,"Micro Teukgongdae Diatron 5","Action, Mecha, Sci-Fi, Space",Movie,1,3.7,398
+1920,"Super Kid","Action, Adventure, Sci-Fi",Movie,1,3.56,341
+1921,"Hametsu no Mars","Horror, Sci-Fi",OVA,1,2.37,27557
+1922,"Tenkuu Danzai Skelter+Heaven","Mecha, Sci-Fi",OVA,1,2,7680
+1923,"15 Sonyeon Uju Pyoryugi","Action, Sci-Fi, Shounen, Space",Movie,1,5.13,188
+1924,"2020 Nyeon Ujuui Wonder Kiddy","Sci-Fi, Space",TV,13,5.89,179
+1925,"21 Emon Uchuu e Irasshai!","Comedy, Sci-Fi, Space",Movie,1,5.05,216
+1926,"21 Seiki Manga Hajimete Monogatari","Adventure, Comedy, Kids, Sci-Fi",Special,1,6.63,258
+1927,"84 Taekwon V","Action, Mecha, Sci-Fi",Movie,1,4.64,151
+1928,"Al Caral no Isan","Sci-Fi",OVA,1,5.87,224
+1929,"Aoki Uru: Overture","Military, Sci-Fi",Special,1,5.75,361
+1930,"AOTU Shijie","Action, Adventure, Fantasy, Sci-Fi",ONA,Unknown,6,79
+1931,"Aura Battler Dunbine Memorial","Adventure, Mecha, Sci-Fi",Special,3,5.63,219
+1932,"AWOL","Action, Military, Sci-Fi, Space",TV,12,5.33,293
+1933,"Big X","Action, Historical, Sci-Fi, Shounen",TV,59,6.46,254
+1934,"Big X Episode 0","Action, Historical, Sci-Fi, Shounen",Special,1,5.7,55
+1935,"Bouken Yuuki Pluster World","Sci-Fi, Shounen",TV,52,6.32,295
+1936,"Brave Fire S0.9","Mecha, Sci-Fi",Special,1,5.88,144
+1937,"Break-Age","Adventure, Mecha, Sci-Fi, Shounen",OVA,1,5.62,232
+1938,"Byeolnala Samchongsa","Adventure, Sci-Fi",Movie,1,5.07,151
+1939,"Byulbyul Iyagi 2","Drama, Psychological",Movie,6,5.86,122
+1940,"Chel-in sacheon-wang","Action, Sci-Fi",Movie,1,4.43,47
+1941,"Cheol-in 007","Action, Mecha, Sci-Fi",Movie,1,4.27,101
+1942,"Cheorin Samchongsa","Action, Mecha, Sci-Fi, Shounen, Space",Movie,1,4,114
+1943,"Chiisana Kyojin Microman: Daigekisen! Microman vs. Saikyou Senshi Gorgon","Action, Adventure, Mecha, Sci-Fi, Shounen, Super Power",Movie,1,4.69,93
+1944,"Chikkun Takkun","Comedy, Sci-Fi",TV,23,6,103
+1945,"Chikyuu Monogatari Telepath 2500","Adventure, Drama, Sci-Fi",Movie,1,5.52,254
+1946,"Chikyuu SOS Sore Ike Kororin","Action, Comedy, Kids, Sci-Fi",TV,26,5.78,87
+1947,"Chikyuu wo Mitsumete","Sci-Fi, Space",Movie,1,5.2,70
+1948,"Chogattai Majutsu Robot Ginguiser Specials","Adventure, Mecha, Sci-Fi",Special,2,5.77,111
+1949,"Chou Zenmairobo: Patrasche","Comedy, Historical, Mecha, Parody, Sci-Fi",TV,13,4.52,178
+1950,"Choujikuu Seiki Orguss Memorial","Action, Adventure, Mecha, Romance, Sci-Fi, Shounen",OVA,2,6.43,64
+1951,"Choujuu Kishin Dancougar: Juusenki-tai Songs","Action, Mecha, Sci-Fi, Shounen",OVA,1,6,143
+1952,"Chouon Senshi Borgman: Madnight☆Gigs!","Action, Demons, Music, Sci-Fi, Shounen",OVA,1,4.82,102
+1953,"Chouriki Robo Galatt","Action, Adventure, Comedy, Mecha, Sci-Fi",TV,25,6.62,168
+1954,"Computer Haekjeonham Pokpa Daejakjeon","Action, Sci-Fi, Shounen",Movie,1,4.22,119
+1955,"Contact","Comedy, Kids, Sci-Fi",Special,1,5,102
+1956,"Contact 2","Comedy, Kids, Sci-Fi",Special,1,5.58,101
+1957,"Cosmic Fantasy: Ginga Me Hyou no Wana","Action, Adventure, Comedy, Ecchi, Fantasy, Romance, Sci-Fi, Space",OVA,1,5.98,226
+1958,"Crayon Shin-chan Gaiden: Alien vs. Shinnosuke","Comedy, Ecchi, Kids, Sci-Fi, Space",ONA,13,6.83,429
+1959,"Cyborg 009: Call of Justice 1","Action, Adventure, Mecha, Sci-Fi, Shounen",Movie,1,4.5,721
+1960,"Cyborg 009: Call of Justice 2","Action, Adventure, Mecha, Sci-Fi, Shounen",Movie,1,5.67,377
+1961,"Cyborg 009: Call of Justice 3","Action, Adventure, Mecha, Sci-Fi, Shounen",Movie,1,4.33,377
+1962,"Cybot Robocchi","Comedy, Sci-Fi",TV,39,6.19,162
+1963,"Dallyeola Majing-ga-X","Mecha, Sci-Fi",Movie,1,4.13,94
+1964,"Dasshutsu Gasshapon","Historical, Sci-Fi",ONA,10,4.27,121
+1965,"Dennou Sentai Voogie&#039;s★Angel Gaiden: Susume! Super★Angels!","Action, Comedy, Mecha, Parody, Sci-Fi",OVA,2,5.25,110
+1966,"Dennou Sentai Voogie&#039;s★Angel: Forever and Ever","Action, Comedy, Drama, Mecha, Sci-Fi",OVA,1,5.1,156
+1967,"DigiGirl Pop!: Strawberry &amp; Pop Mix Flavor","Comedy, Sci-Fi",TV,26,6,143
+1968,"Doctor Mambo &amp; Kaitou Jibako: Uchuu yori Ai wo Komete!!","Adventure, Fantasy, Kids, Mystery, Sci-Fi",Special,1,5.67,62
+1969,"Dolphin Ouji","Action, Adventure, Kids, Sci-Fi",TV,3,5.58,127
+1970,"Doteraman","Comedy, Sci-Fi",TV,20,6,79
+1971,"Dr. Slump: Arale-chan &#039;92 Oshougatsu Special","Comedy, Sci-Fi, Shounen, Shounen",Special,3,6.19,196
+1972,"Dr. Slump: Arale-chan Ayaya!? Penguin Mura de TV Jack","Comedy, Sci-Fi, Shounen",Special,1,7.11,152
+1973,"Dr. Slump: Arale-chan no Koutsuu Anzen","Comedy, Sci-Fi, Shounen",Special,1,5.94,159
+1974,"Dr. Slump: Arale-chan Penguin Mura Eiyuu Densetsu","Comedy, Sci-Fi, Shounen",Special,1,6.97,198
+1975,"Dr. Slump: Arale-chan Specials","Comedy, Sci-Fi, Shounen",Special,2,6.84,220
+1976,"Dr. Slump: Hoyoyo! Arale no Himitsu Dai Koukai dayo!!","Comedy, Sci-Fi, Shounen",Special,1,6.17,248
+1977,"Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix","Comedy, Mecha, Sci-Fi, Shounen",Special,1,6.7,165
+1978,"Eunhahamdae Jiguho","Action, Adventure, Kids, Sci-Fi, Space",Movie,1,3.6,83
+1979,"Eunhajeonseol Tera","Action, Adventure, Sci-Fi, Shounen, Space",Movie,1,3.79,89
+1980,"Fight Da!! Pyuta","Action, Comedy, Sci-Fi, Shounen",TV,26,6,78
+1981,"Fly, Space Battleship Geobukseon","Action, Sci-Fi, Shounen, Space",Movie,1,4.11,94
+1982,"Fujiko F. Fujio: Sukoshi Fushigi Tanpen Theater","Adventure, Sci-Fi, Shounen, Space",OVA,11,6.25,91
+1983,"Future GPX Cyber Formula Graffiti","Action, Sci-Fi, Sports",OVA,1,6.55,223
+1984,"Gaia Getter A-kun","Comedy, Kids, Sci-Fi, Space",ONA,2,3.48,83
+1985,"Ganbare! Marine Kid","Action, Adventure, Kids, Sci-Fi",TV,13,5.65,139
+1986,"Gancheopjamneun Ttorijanggun","Action, Drama, Sci-Fi, Shounen",Movie,1,4.78,71
+1987,"Garon","Sci-Fi",Movie,1,6.8,187
+1988,"Gijinka de Manabo!","Comedy, Sci-Fi",ONA,1,5.29,25
+1989,"Ginga Hyouryuu Vifam 13","Action, Adventure, Mecha, Sci-Fi",TV,26,6.54,207
+1990,"Ginga Hyouryuu Vifam: Atsumatta 13-nin","Action, Adventure, Mecha, Sci-Fi",OVA,1,6.07,123
+1991,"Ginga Hyouryuu Vifam: Kachua Kara no Tayori","Action, Adventure, Mecha, Sci-Fi",OVA,1,6,123
+1992,"Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi","Action, Mecha, School, Sci-Fi, Seinen, Space",Movie,1,7,1849
+1993,"Ginga Tetsudou 999 (ONA)","Adventure, Drama, Sci-Fi, Space",ONA,6,6.47,291
+1994,"Ginga Tetsudou 999 for Planetarium","Adventure, Drama, Sci-Fi, Space",Movie,1,6.8,231
+1995,"Ginga Tetsudou 999: Akai Hoshi Betelgeuze - Inochi no Kagayaki","Adventure, Drama, Sci-Fi, Space",Movie,1,6.53,206
+1996,"Ginga Tetsudou 999: Niji no Michishirube","Drama, Sci-Fi",Movie,1,6.62,187
+1997,"Ginga Tetsudou 999: Shounen no Tabidachi to Wakare","Adventure, Drama, Sci-Fi, Space",Special,1,6.22,175
+1998,"Go! Go! Vejitan","Kids, Sci-Fi, Space",Special,1,5.33,39
+1999,"Gothicmade: Hana no Utame","Mecha, Romance, Sci-Fi",Movie,1,5.93,2306
+2000,"Gozonji! Gekkou Kamen-kun","Comedy, Parody, Sci-Fi",TV,25,7,178
+2001,"Guilstein","Action, Horror, Sci-Fi",Movie,1,5.33,286
+2002,"Hangyodon no Parallel Daisakusen: Kyouryuu Oukoku wa Oosawagi","Kids, Sci-Fi",OVA,1,5.55,45
+2003,"Hangyodon no Parallel Daisakusen: Mirai Sekai wa Oosawagi","Kids, Sci-Fi",OVA,1,5.67,50
+2004,"Happening Star ☆","Comedy, Sci-Fi",OVA,1,5.25,74
+2005,"Hoshi Neko Fullhouse","Comedy, Romance, Sci-Fi",OVA,4,6.18,178
+2006,"Hoshi no Ko Poron","Sci-Fi",TV,260,6.76,117
+2007,"Hoshi no Yuuenchi","Adventure, Kids, Sci-Fi",OVA,1,5.17,73
+2008,"Hoshi Shinichi Short Short","Comedy, Sci-Fi",TV,26,6.07,160
+2009,"Hoshi Shinichi Short Short Special","Comedy, Sci-Fi",Special,1,6,106
+2010,"Hwanggeum Nalgae 1.2.3.","Action, Mecha, Sci-Fi",Movie,1,4.52,99
+2011,"Hyouga Senshi Gaislugger","Action, Mecha, Sci-Fi",TV,20,6.37,155
+2012,"Hyoutan","Psychological",Movie,1,4.74,88
+2013,"Ima no Watashi ni Dekiru Koto...","Sci-Fi",ONA,2,5.4,234
+2014,"Inazma Delivery","Action, Comedy, Sci-Fi",TV,10,NaN,32
+2015,"Indie Anibox: Selma Danbaekjil Coffee","Comedy, Drama, Romance, Samurai, Sci-Fi",Movie,1,7.22,109
+2016,"Inferious Wakusei Senshi Gaiden Condition Green","Action, Sci-Fi",OVA,6,6.08,116
+2017,"Ishii Hisaichi no Nanda Kanda Gekijou","Comedy, Martial Arts, Sci-Fi, Space",OVA,2,8,62
+2018,"Jeonja Ingan 337","Action, Sci-Fi, Super Power",Movie,1,4.54,83
+2019,"Johnny Cypher","Action, Adventure, Sci-Fi",TV,130,6.86,74
+2020,"Juicy Jungle","Music, Sci-Fi",Music,1,3.56,63
+2021,"Justeen","Action, Mecha, Sci-Fi",OVA,1,5.36,508
+2022,"Juugo Shounen Hyouryuuki: Kaizokujima de! Daibouken","Adventure, Fantasy, Kids, Sci-Fi",Movie,1,5.67,134
+2023,"Kagaku Bouken-tai Tansar 5","Adventure, Mystery, Sci-Fi, Supernatural",TV,34,6.73,98
+2024,"Kagerou Daze: In a Day&#039;s","Comedy, Magic, Romance, Sci-Fi, Slice of Life, Supernatural",Movie,1,7.29,7178
+2025,"Kai Douryoku","Dementia, Sci-Fi",Movie,1,6.83,52
+2026,"Kai Douryoku Real","Dementia, Sci-Fi",Movie,1,5.5,54
+2027,"Kaitei Shounen Marine","Action, Adventure, Kids, Sci-Fi",TV,65,6.49,213
+2028,"Kaitei Toshi no Dekiru made","Sci-Fi",Movie,1,8,64
+2029,"Kamiwaza Wanda","Kids, Sci-Fi",TV,Unknown,5.29,316
+2030,"KanColle Movie","Action, Military, School, Sci-Fi, Slice of Life",Movie,1,7.69,9439
+2031,"Katayoku no Khronos Gear","Action, Sci-Fi",OVA,1,7.75,542
+2032,"Kigyou Senshi Yamazaki: Long Distance Call","Drama, Sci-Fi, Seinen",OVA,1,5.92,168
+2033,"King Kong: 001/7 Tom Thumb","Adventure, Sci-Fi",TV,26,5,88
+2034,"KiyaKiya","Psychological",Music,1,5.67,26
+2035,"Kkureogi Balmyeongwang","Action, Mecha, Sci-Fi, Shounen",Movie,1,3.5,61
+2036,"Kokoroya","Kids, Psychological, Sci-Fi",OVA,1,8,66
+2037,"Komatsu Sakyo Anime Gekijou","Comedy, Parody, Sci-Fi, Space",TV,24,5.17,76
+2038,"Konpora Kid","Comedy, Kids, Sci-Fi",TV,26,5.75,72
+2039,"Koutetsu no Vendetta Episode 0","Action, Mecha, Military, Sci-Fi",ONA,1,6.09,257
+2040,"Kyouryuu Wakusei","Adventure, Fantasy, Historical, Sci-Fi",TV,60,6.5,138
+2041,"Machine Robo: Butchigiri Battle Hackers","Action, Mecha, Sci-Fi",TV,31,6.22,239
+2042,"Madou King Granzort: Nonstop Rabi","Action, Comedy, Fantasy, Magic, Mecha, Sci-Fi, Shounen",Special,1,6.71,69
+2043,"Marin X","Action, Adventure, Mecha, Sci-Fi, Shounen",Movie,1,4.08,76
+2044,"Marine Snow no Densetsu","Sci-Fi",Special,1,6.32,184
+2045,"Mars","Action, Mecha, Sci-Fi, Shounen",OVA,2,6,183
+2046,"Marude Dameo","Comedy, Sci-Fi, Shounen",TV,47,6.2,73
+2047,"Mashin Eiyuuden Wataru: Soukaizan Eiyuu Densetsu","Action, Adventure, Comedy, Fantasy, Mecha, Sci-Fi, Shounen",OVA,1,7,115
+2048,"Master of Torque 3","Action, Sci-Fi",ONA,1,4.83,167
+2049,"Mechakko Dotakon","Comedy, Sci-Fi",TV,28,6.36,125
+2050,"Microid S","Action, Sci-Fi",TV,26,6.08,160
+2051,"Mirai Kara Kita Shounen Super Jetter","Action, Comedy, Sci-Fi, Super Power",TV,52,5.43,108
+2052,"Mugen Senki Portriss","Action, Mecha, Sci-Fi, Shounen",TV,52,5.33,161
+2053,"Naccio to Pomm","Adventure, Kids, Sci-Fi",TV,41,4.75,43
+2054,"Nanocore","Sci-Fi",ONA,10,6.17,163
+2055,"Nanocore 2nd Season","Action, Sci-Fi",ONA,Unknown,5.33,163
+2056,"Nanocore: NG Scenes - Nano&#039;s Daily Life","Comedy, Sci-Fi",ONA,2,4.5,62
+2057,"Narara Wondeogongju","Action, Adventure, Sci-Fi, Space, Super Power",Movie,1,3.25,87
+2058,"Nareuneun Dwaeji - Haejeok Mateo","Action, Adventure, Sci-Fi, Shounen",Movie,1,4.38,60
+2059,"Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago","Adventure, Comedy, Martial Arts, Sci-Fi, Super Power",Movie,1,5.76,82
+2060,"Nyancos: Hello! Our Brilliant Future","Sci-Fi, Space",OVA,1,3.36,60
+2061,"Nyancos: Hello! Our Brilliant Future Digest","Sci-Fi, Space",Special,1,2.91,40
+2062,"Oh! Super Milk-chan Special","Action, Comedy, Sci-Fi",Special,1,5.93,178
+2063,"Okawari-Boy Starzan S","Action, Adventure, Sci-Fi",TV,34,6.9,128
+2064,"Omakase Scrappers","Adventure, Comedy, Sci-Fi",TV,39,6.89,81
+2065,"Omoikkiri Kagaku Adventure Sou Nanda!","Comedy, Kids, Sci-Fi",TV,26,5.68,195
+2066,"Ougon Senshi Gold Lightan","Mecha, Sci-Fi",TV,52,6.57,287
+2067,"Pac-World","Adventure, Comedy, Sci-Fi",TV,52,5.47,212
+2068,"Paradise","Adventure, Psychological, Space",Movie,1,7.88,141
+2069,"Platonic Chain: Ansatsu Jikkouchuu","Sci-Fi, Slice of Life",Special,1,1.67,51
+2070,"Plus 50000-nen","Sci-Fi",Movie,1,5.08,72
+2071,"Porong Porong Pororo 3","Kids, Sci-Fi",TV,52,5.42,60
+2072,"Rainbow Sea","Adventure, Fantasy, Sci-Fi",TV,26,7.2,67
+2073,"Rainbow Sentai Robin","Action, Adventure, Sci-Fi",TV,48,6.22,233
+2074,"Robo to Shoujo (Kari): Oshirase Gekijou (Kari)","Comedy, Sci-Fi",ONA,5,3.81,127
+2075,"RoboDz","Sci-Fi",TV,26,5,125
+2076,"Robot Taekwon V 3tan! Sujung Teukgongdae","Action, Mecha, Sci-Fi",Movie,1,4.81,86
+2077,"Robot Taekwon V: Wooju Jakjeon","Action, Mecha, Sci-Fi",Movie,1,4.88,88
+2078,"Roboteuwang Sseonsyakeu","Action, Mecha, Sci-Fi",Movie,1,2.49,121
+2079,"Running Boy: Star Soldier no Himitsu","Sci-Fi, Space",Movie,1,5.64,96
+2080,"Saint Elmo: Hikari no Raihousha","Sci-Fi",Special,1,6.25,152
+2081,"Samchongsa: Time Machine 001","Adventure, Sci-Fi",Movie,1,4.3,94
+2082,"Sekai no Ouja: King Kong Taikai","Adventure, Sci-Fi",Special,1,6,57
+2083,"Sengoku Majin Goushougun (Movie)","Mecha, Parody, Sci-Fi",Movie,1,6.48,198
+2084,"Senjutsu Choukoukaku Orion","Action, Adventure, Comedy, Fantasy, Sci-Fi",Special,1,5.47,244
+2085,"Sequence","Romance, Sci-Fi, Shoujo",OVA,1,5.64,152
+2086,"Shin Seikimatsu: Yatsuto no Souguu","Comedy, Sci-Fi",ONA,5,4.9,73
+2087,"Shin Skyers 5","Action, Sci-Fi",TV,26,6.25,68
+2088,"Shitamachi Alien PapiPipiPupi","Sci-Fi",ONA,13,7,43
+2089,"Shou-chan Sora wo Tobu","Horror, Sci-Fi",Movie,1,5.5,55
+2090,"Shuang Yue Zhi Chengi","Military, Sci-Fi",ONA,12,5.75,81
+2091,"Skyers 5","Action, Sci-Fi",TV,12,6.11,116
+2092,"Sonyeon 007 Eunhateukgongdae","Action, Adventure, Mecha, Sci-Fi, Shounen, Space",Movie,1,3.42,68
+2093,"Sonyeon 007 Jihajeguk","Action, Adventure, Sci-Fi, Shounen",Movie,1,4.7,62
+2094,"Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar","Comedy, Fantasy, Kids, Sci-Fi",Movie,1,5.64,68
+2095,"Space Oz no Bouken","Adventure, Sci-Fi",TV,26,6.25,151
+2096,"Star Dust","Sci-Fi, Space",OVA,1,5.26,96
+2097,"Starlight Scramble Renai Kouhosei","Action, Romance, Sci-Fi",OVA,2,5.94,141
+2098,"Stitch! Perfect Memory","Adventure, Comedy, Kids, Sci-Fi",Special,1,5.68,102
+2099,"Straw-saurus Neo","Adventure, Fantasy, Kids, Sci-Fi",Special,1,6.4,40
+2100,"Subarashii Sekai Ryokou: Alaska no Tabi &quot;Daigo Hyougaki&quot;","Adventure, Sci-Fi",Special,2,8,62
+2101,"Subarashii Sekai Ryokou: New York Tabi &quot;Computopia Seireki Nisennen no Monogatari&quot;","Sci-Fi",Special,2,8,35
+2102,"Super Bikkuriman","Adventure, Comedy, Demons, Fantasy, Sci-Fi",TV,44,6.55,158
+2103,"Super Majingga 3","Action, Mecha, Sci-Fi, Space",Movie,1,3.72,123
+2104,"Syupeo Taegwon V","Action, Mecha, Sci-Fi",Movie,1,4.1,83
+2105,"Takoyaki Mant-Man","Comedy, Sci-Fi",TV,77,6.75,156
+2106,"Tatakae! Osper","Action, Sci-Fi, Shounen",TV,52,5.6,77
+2107,"Tenchi Muyou! Ryououki 4th Season","Action, Comedy, Harem, Sci-Fi, Shounen, Space",OVA,4,8,1602
+2108,"Tetsujin 28-gou: Tanjou-hen","Adventure, Mecha, Sci-Fi, Shounen",Special,1,5.08,90
+2109,"Tetsuwan Atom: Chikyuu Saigo no Hi","Mecha, Sci-Fi",Movie,1,5.84,280
+2110,"The Aurora: Umi no Aurora","Adventure, Sci-Fi",Movie,1,5.6,140
+2111,"Time Ranger Cesar Boy no Bouken: Roma Teikoku-hen","Adventure, Sci-Fi",OVA,1,6,69
+2112,"Tokyo 2164","Sci-Fi",ONA,1,3.27,59
+2113,"Tonari no Tamageta-kun","Comedy, Sci-Fi",TV,60,6.33,95
+2114,"TWD Express Rolling Takeoff","Adventure, Sci-Fi",Movie,1,5.2,89
+2115,"Uchuu Ace","Action, Adventure, Sci-Fi",TV,52,6.27,154
+2116,"Uchuu Icchokusen","Fantasy, Mystery, Sci-Fi, Space",Movie,1,5.63,276
+2117,"Uchuu Kaizoku Mito no Daibouken Pilot","Comedy, Sci-Fi",Special,1,5.42,106
+2118,"Uchuu Majin Daikengou","Action, Adventure, Mecha, Sci-Fi, Shounen, Space",TV,26,6.6,229
+2119,"Uchuu Patrol Hopper","Sci-Fi, Space",TV,44,6.54,138
+2120,"Uchuu Shounen Soran","Action, Adventure, Sci-Fi",TV,96,6.22,122
+2121,"Uchuu Shounen Soran (Movie)","Action, Adventure, Sci-Fi",Movie,1,5.67,84
+2122,"Uchuusen Sagittarius Pilot","Adventure, Sci-Fi",Special,1,5.67,78
+2123,"UFO Senshi Dai Apolon 2","Action, Mecha, Sci-Fi",TV,21,6.08,144
+2124,"Uju Jeonsa Hong Gildong","Action, Adventure, Kids, Sci-Fi, Space",Movie,1,4.58,63
+2125,"Ujusonyeon Kaesi","Action, Adventure, Sci-Fi, Shounen",Movie,1,4.63,57
+2126,"Ultraman M78 Gekijou: Love and Peace","Comedy, Kids, Parody, Sci-Fi, Space, Super Power",Special,1,5.31,93
+2127,"Ultraman: Chou Toushi Gekiden - Suisei Senjin Tsuifon Toujou","Action, Sci-Fi, Shounen, Space, Super Power",OVA,1,6.56,147
+2128,"Usogui","Game, Psychological, Seinen",OVA,1,5.64,867
+2129,"Video Ehonkan Sekai Meisaku Douwa","Adventure, Comedy, Fantasy, Historical, Kids, Magic, Sci-Fi, Space, Supernatural",OVA,26,5.57,66
+2130,"Visitor","Sci-Fi",Special,1,4.27,108
+2131,"Wake up!! Tamala","Fantasy, Psychological",Movie,1,5.54,123
+2132,"Washimo","Comedy, Kids, School, Sci-Fi, Slice of Life",TV,10,5.92,209
+2133,"Washimo 2nd Season","Comedy, Kids, School, Sci-Fi, Slice of Life",TV,24,5.45,86
+2134,"Washimo 3rd Season","Comedy, Kids, School, Sci-Fi, Slice of Life",TV,44,5.5,69
+2135,"Washimo 4th Season","Comedy, Kids, School, Sci-Fi, Slice of Life",TV,Unknown,5.6,64
+2136,"Wonder 3","Action, Adventure, Comedy, Sci-Fi",TV,52,6.73,260
+2137,"Wonder 3 Pilot","Action, Adventure, Comedy, Sci-Fi",Special,1,6.36,63
+2138,"Wrestler Gundan Seisenshi Robin Jr.","Action, Adventure, Comedy, Fantasy, Kids, Parody, Sci-Fi, Super Power",TV,50,6.32,145
+2139,"X Bomber","Action, Adventure, Kids, Mecha, Sci-Fi, Space",TV,25,5.94,199
+2140,"X Bomber Pilot","Action, Mecha, Sci-Fi, Space",Special,1,4.28,77
+2141,"Xevious","Action, Adventure, Sci-Fi, Space",Movie,1,5.73,184
+2142,"Yeonghongibyeong Lazenca","Action, Adventure, Mecha, Sci-Fi",TV,13,5.45,93
+2143,"Youkaiden Nekome Kozou","Adventure, Horror, Psychological, Seinen, Supernatural",TV,25,8,153
+2144,"Yumemakura Baku Twilight Gekijou","Horror, Psychological",OVA,4,5.14,307
+2145,"Yurumi to Shimeru","Comedy, Sci-Fi",ONA,1,5.25,55
+2146,"Yuusei Kamen","Sci-Fi",TV,39,6.44,103
+2147,"Yuusei Shounen Papii","Action, Sci-Fi, Space, Super Power",TV,52,6.49,242
+2148,"Zegapain ADP","Action, Mecha, Romance, Sci-Fi",Movie,1,6.35,1859
+2149,"Zero Tester","Action, Adventure, Mecha, Sci-Fi",TV,38,6.43,181
+2150,"Zero Tester: Chikyuu wo Mamore!","Action, Adventure, Mecha, Sci-Fi",TV,28,5.23,137
+2151,"Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken","Comedy, Historical, Sci-Fi",OVA,1,6.13,76
+2152,"Gintama (2017)","Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,Unknown,NaN,13383
+2153,"One Punch Man 2","Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,Unknown,NaN,90706
+2154,"Steins;Gate 0","Sci-Fi, Thriller",,Unknown,NaN,60999
+2155,"Code Geass: Fukkatsu no Lelouch","Action, Drama, Mecha, Military, Sci-Fi, Super Power",,Unknown,NaN,22748
+2156,"Kantai Collection: KanColle Zoku-hen","Action, Military, School, Sci-Fi, Slice of Life",TV,Unknown,NaN,15465
+2157,"Mekakucity Reload","Comedy, Romance, Sci-Fi, Super Power, Supernatural",TV,Unknown,NaN,14017
+2158,"ChäoS;Child","Harem, Mystery, Psychological, Sci-Fi, Supernatural",TV,Unknown,NaN,19590
+2159,"FLCL (TV)","Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",TV,Unknown,NaN,13008
+2160,"Aoki Uru","Military, Sci-Fi",Movie,1,NaN,1860
+2161,"Armed Blue: Gunvolt","Action, Sci-Fi, Super Power",OVA,Unknown,NaN,2549
+2162,"Atom: The Beginning","Action, Mecha, Sci-Fi, Seinen",TV,Unknown,NaN,931
+2163,"ēlDLIVE","Action, Sci-Fi, Space",TV,Unknown,NaN,6943
+2164,"Biohazard: Vendetta","Action, Horror, Sci-Fi",Movie,1,NaN,2290
+2165,"Blame! Movie","Action, Drama, Mecha, Psychological, Sci-Fi, Seinen",Movie,Unknown,NaN,3251
+2166,"Cencoroll 2","Action, Sci-Fi",Movie,1,NaN,15181
+2167,"Clockwork Planet","Fantasy, Sci-Fi",TV,Unknown,NaN,3999
+2168,"Escha Chron","Sci-Fi",TV,Unknown,NaN,797
+2169,"Evangelion: 3.0+1.0","Action, Mecha, Sci-Fi",Movie,1,NaN,66600
+2170,"Gan Gan Ganko-chan","Comedy, Kids, Sci-Fi",TV,Unknown,NaN,19
+2171,"Ginga Eiyuu Densetsu (2017)","Action, Drama, Military, Sci-Fi, Space",,Unknown,NaN,3969
+2172,"Godzilla","Action, Adventure, Fantasy, Sci-Fi",Movie,Unknown,NaN,1022
+2173,"Gundam Build Fighters OVA","Action, Mecha, Sci-Fi",OVA,1,NaN,1370
+2174,"Gyakusatsu Kikan","Psychological, Sci-Fi",Movie,1,NaN,12529
+2175,"Island","Drama, Sci-Fi",TV,Unknown,NaN,1659
+2176,"Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo","Action, Magic, Romance, School, Sci-Fi, Supernatural",Movie,1,NaN,13884
+2177,"Mirai Arise","Sci-Fi",,Unknown,NaN,4044
+2178,"Mobile Suit Gundam Thunderbolt 2nd Season","Action, Drama, Mecha, Military, Sci-Fi, Space",ONA,Unknown,NaN,2040
+2179,"Saredo Tsumibito wa Ryuu to Odoru","Action, Drama, Fantasy, Sci-Fi",TV,Unknown,NaN,416
+2180,"Senki Zesshou Symphogear 4th Season","Action, Music, Sci-Fi",TV,Unknown,NaN,1880
+2181,"Senki Zesshou Symphogear 5th Season","Action, Music, Sci-Fi",TV,Unknown,NaN,1556
+2182,"Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?","Drama, Fantasy, Romance, Sci-Fi",TV,Unknown,NaN,251
+2183,"Uchuu Senkan Yamato 2202: Ai no Senshi-tachi","Action, Drama, Military, Sci-Fi, Space",OVA,Unknown,NaN,2058
+2184,"UQ Holder!","Action, Fantasy, Magic, Sci-Fi, Shounen",,Unknown,NaN,2341
+2185,"Ai no Kusabi","Drama, Romance, Sci-Fi, Yaoi",OVA,2,7.37,20964
+2186,"Ai no Kusabi (2012)","Drama, Romance, Sci-Fi, Yaoi",OVA,4,6.97,17943
+2187,"Fujimi 2-choume Koukyougakudan","Drama, Music, Psychological, Romance, Slice of Life, Yaoi",OVA,1,5.72,4981
+2188,"Ice","Action, Military, Sci-Fi, Shoujo Ai, Yuri",OVA,3,5.68,5247
+2189,"Kimera","Action, Horror, Sci-Fi, Supernatural, Vampire, Yaoi",OVA,1,5.29,3374
